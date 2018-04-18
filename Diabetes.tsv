@@ -10,7 +10,6 @@ Medcode	ReadCode	Value	Rubric
 48078	F372000.	1	Acute painful diabetic neuropathy
 18167	66AT	1	Annual diabetic blood test
 18167	66AT.	1	Annual diabetic blood test
-18167	66AT..	1	Annual diabetic blood test
 18167	66AT.00	1	Annual diabetic blood test
 24571	F3722	1	Asymptomatic diabetic neuropathy
 24571	F3722.	1	Asymptomatic diabetic neuropathy
@@ -18,193 +17,136 @@ Medcode	ReadCode	Value	Rubric
 24571	F372200.	1	Asymptomatic diabetic neuropathy
 88597	7L1A400	1	Automated peritoneal dialysis
 2478	66AJ1	1	Brittle diabetes
-2478	66AJ1.	1	Brittle diabetes
-2478	66AJ1..	1	Brittle diabetes
 2478	66AJ100	1	Brittle diabetes
 2478	66AJ100.	1	Brittle diabetes
 22959	66AJ000	1	Chronic hyperglycaemia
 22959	66AJ000.	1	Chronic hyperglycaemia
 35785	F3721	1	Chronic painful diabetic neuropathy
-35785	F3721.	1	Chronic painful diabetic neuropathy
 35785	F372100	1	Chronic painful diabetic neuropathy
-35785	F372100.	1	Chronic painful diabetic neuropathy
 711	pm22.	1	ClikStar blue insulin pen 3ml/1-80 units [SANOFI/AVE]
 711	CLRE44810NEMIS	1	ClikSTAR hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units Blue (Sanofi)
 711	CLRE44811NEMIS	1	ClikSTAR hypodermic insulin injection pen reusable for 3ml cartridge 1 unit dial up / range 1-80 units Silver (Sanofi)
 711	pm23.	1	ClikStar silver insulin pen 3ml/1-80 units [SANOFI/AVE]
 30756	7L1A500	1	Continuous ambulatory peritoneal dialysis
 11047	66AH000	1	Conversion to insulin
-11047	66AH000.	1	Conversion to insulin
 107508	66AH200	1	Conversion to insulin by diabetes specialist nurse
-107508	66AH200.	1	Conversion to insulin by diabetes specialist nurse
 107331	66AH100	1	Conversion to insulin in secondary care
-107331	66AH100.	1	Conversion to insulin in secondary care
 93380	C10N100	1	Cystic fibrosis related diabetes mellitus
-93380	C10N100.	1	Cystic fibrosis related diabetes mellitus
 29041	66AN	1	Date diabetic treatment start
 29041	66AN.	1	Date diabetic treatment start
-29041	66AN..	1	Date diabetic treatment start
 29041	66AN.00	1	Date diabetic treatment start
+55123	66AO.	1	Date diabetic treatment stopp.
+55123	66AO	1	Date diabetic treatment stopp.
 55123	66AO.00	1	Date diabetic treatment stopp.
 101190	66AQ100	1	Declined consent for diabetes year of care programme
 12307	66AU	1	Diabetes care by hospital only
 12307	66AU.	1	Diabetes care by hospital only
-12307	66AU..	1	Diabetes care by hospital only
 12307	66AU.00	1	Diabetes care by hospital only
 101177	OX250DC	1	Diabetes Dietary Control /ox
 8836	66AR	1	Diabetes management plan given
 8836	66AR.	1	Diabetes management plan given
-8836	66AR..	1	Diabetes management plan given
 8836	66AR.00	1	Diabetes management plan given
 711	C10	1	Diabetes mellitus
-711	C10.	1	Diabetes mellitus
 711	C10..	1	Diabetes mellitus
 711	C10..00	1	Diabetes mellitus
 67635	L180000	1	Diabetes mellitus - unspec whether in pregnancy/puerperium
 10278	L180800	1	Diabetes mellitus arising in pregnancy
 43453	C10C	1	Diabetes mellitus autosomal dominant
 43453	C10C.	1	Diabetes mellitus autosomal dominant
-43453	C10C..	1	Diabetes mellitus autosomal dominant
 43453	C10C.00	1	Diabetes mellitus autosomal dominant
 36695	C10D	1	Diabetes mellitus autosomal dominant type 2
 36695	C10D.	1	Diabetes mellitus autosomal dominant type 2
-36695	C10D..	1	Diabetes mellitus autosomal dominant type 2
 36695	C10D.00	1	Diabetes mellitus autosomal dominant type 2
 34639	L180100	1	Diabetes mellitus during pregnancy - baby delivered
 49559	L180300	1	Diabetes mellitus during pregnancy - baby not yet delivered
 11359	L180.00	1	Diabetes mellitus during pregnancy/childbirth/puerperium
 64384	L180z00	1	Diabetes mellitus in pregnancy/childbirth/puerperium NOS
 96823	L180400	1	Diabetes mellitus in pueperium - baby previously delivered
+107603	C10P.	1	Diabetes mellitus in remission
 107603	C10P.00	1	Diabetes mellitus in remission
 61122	C10H	1	Diabetes mellitus induced by non-steroid drugs
 61122	C10H.	1	Diabetes mellitus induced by non-steroid drugs
-61122	C10H..	1	Diabetes mellitus induced by non-steroid drugs
 61122	C10H.00	1	Diabetes mellitus induced by non-steroid drugs
 11551	C10B	1	Diabetes mellitus induced by steroids
 11551	C10B.	1	Diabetes mellitus induced by steroids
-11551	C10B..	1	Diabetes mellitus induced by steroids
 11551	C10B.00	1	Diabetes mellitus induced by steroids
 72345	C102z00	1	Diabetes mellitus NOS with hyperosmolar coma
-72345	C102z00.	1	Diabetes mellitus NOS with hyperosmolar coma
 42505	C101z00	1	Diabetes mellitus NOS with ketoacidosis
-42505	C101z00.	1	Diabetes mellitus NOS with ketoacidosis
 65062	C103z00	1	Diabetes mellitus NOS with ketoacidotic coma
-65062	C103z00.	1	Diabetes mellitus NOS with ketoacidotic coma
 22573	C106z00	1	Diabetes mellitus NOS with neurological manifestation
-22573	C106z00.	1	Diabetes mellitus NOS with neurological manifestation
 50972	C100z00	1	Diabetes mellitus NOS with no mention of complication
 50972	C100z00.	1	Diabetes mellitus NOS with no mention of complication
 34283	C105z00	1	Diabetes mellitus NOS with ophthalmic manifestation
-34283	C105z00.	1	Diabetes mellitus NOS with ophthalmic manifestation
 70821	C10yz00	1	Diabetes mellitus NOS with other specified manifestation
-70821	C10yz00.	1	Diabetes mellitus NOS with other specified manifestation
 65025	C107z00	1	Diabetes mellitus NOS with peripheral circulatory disorder
-65025	C107z00.	1	Diabetes mellitus NOS with peripheral circulatory disorder
 64357	C10zz00	1	Diabetes mellitus NOS with unspecified complication
-64357	C10zz00.	1	Diabetes mellitus NOS with unspecified complication
 32403	C107.11	1	Diabetes mellitus with gangrene
 21482	C102	1	Diabetes mellitus with hyperosmolar coma
 21482	C102.	1	Diabetes mellitus with hyperosmolar coma
-21482	C102..	1	Diabetes mellitus with hyperosmolar coma
 21482	C102.00	1	Diabetes mellitus with hyperosmolar coma
 10692	C101	1	Diabetes mellitus with ketoacidosis
 106528	C101.	1	Diabetes mellitus with ketoacidosis
-1682	C101..	1	Diabetes mellitus with ketoacidosis
 1682	C101.00	1	Diabetes mellitus with ketoacidosis
 15690	C103	1	Diabetes mellitus with ketoacidotic coma
 15690	C103.	1	Diabetes mellitus with ketoacidotic coma
-15690	C103..	1	Diabetes mellitus with ketoacidotic coma
 15690	C103.00	1	Diabetes mellitus with ketoacidotic coma
 35107	C104z00	1	Diabetes mellitus with nephropathy NOS
 35107	C104z00.	1	Diabetes mellitus with nephropathy NOS
 16230	C106	1	Diabetes mellitus with neurological manifestation
 16230	C106.	1	Diabetes mellitus with neurological manifestation
-16230	C106..	1	Diabetes mellitus with neurological manifestation
 16230	C106.00	1	Diabetes mellitus with neurological manifestation
 7795	C106.12	1	Diabetes mellitus with neuropathy
 38986	C1	1	Diabetes mellitus with no mention of complication
-38986	C1.	1	Diabetes mellitus with no mention of complication
 38986	C1..	1	Diabetes mellitus with no mention of complication
 38986	C100.00	1	Diabetes mellitus with no mention of complication
 33254	C105	1	Diabetes mellitus with ophthalmic manifestation
 33254	C105.	1	Diabetes mellitus with ophthalmic manifestation
-33254	C105..	1	Diabetes mellitus with ophthalmic manifestation
 33254	C105.00	1	Diabetes mellitus with ophthalmic manifestation
 33343	C10y.	1	Diabetes mellitus with other specified manifestation
-33343	C10y..	1	Diabetes mellitus with other specified manifestation
 33343	C10y.00	1	Diabetes mellitus with other specified manifestation
 35399	C107	1	Diabetes mellitus with peripheral circulatory disorder
 35399	C107.	1	Diabetes mellitus with peripheral circulatory disorder
-35399	C107..	1	Diabetes mellitus with peripheral circulatory disorder
 35399	C107.00	1	Diabetes mellitus with peripheral circulatory disorder
 16491	C106.13	1	Diabetes mellitus with polyneuropathy
 16502	C104	1	Diabetes mellitus with renal manifestation
 16502	C104.	1	Diabetes mellitus with renal manifestation
-16502	C104..	1	Diabetes mellitus with renal manifestation
 16502	C104.00	1	Diabetes mellitus with renal manifestation
 45491	C10z	1	Diabetes mellitus with unspecified complication
 45491	C10z.	1	Diabetes mellitus with unspecified complication
-45491	C10z..	1	Diabetes mellitus with unspecified complication
 45491	C10z.00	1	Diabetes mellitus with unspecified complication
 39317	C106100	1	"Diabetes mellitus, adult onset, + neurological manifestation"
-39317	C106100.	1	"Diabetes mellitus, adult onset, + neurological manifestation"
 41389	C105100	1	"Diabetes mellitus, adult onset, + ophthalmic manifestation"
-41389	C105100.	1	"Diabetes mellitus, adult onset, + ophthalmic manifestation"
 63762	C10z100	1	"Diabetes mellitus, adult onset, + unspecified complication"
-63762	C10z100.	1	"Diabetes mellitus, adult onset, + unspecified complication"
 14803	C100100	1	"Diabetes mellitus, adult onset, no mention of complication"
-14803	C100100.	1	"Diabetes mellitus, adult onset, no mention of complication"
 43139	C102100	1	"Diabetes mellitus, adult onset, with hyperosmolar coma"
-43139	C102100.	1	"Diabetes mellitus, adult onset, with hyperosmolar coma"
 54856	C101100	1	"Diabetes mellitus, adult onset, with ketoacidosis"
-54856	C101100.	1	"Diabetes mellitus, adult onset, with ketoacidosis"
 68843	C103100	1	"Diabetes mellitus, adult onset, with ketoacidotic coma"
-68843	C103100.	1	"Diabetes mellitus, adult onset, with ketoacidotic coma"
 35105	C104100	1	"Diabetes mellitus, adult onset, with renal manifestation"
-35105	C104100.	1	"Diabetes mellitus, adult onset, with renal manifestation"
 33807	C107200	1	"Diabetes mellitus, adult with gangrene"
-33807	C107200.	1	"Diabetes mellitus, adult with gangrene"
-63371	C10y100	1	"Diabetes mellitus, adult, + other specified manifestation"
-63371	C10y100.	1	"Diabetes mellitus, adult, + other specified manifestation"
 63357	C107100	1	"Diabetes mellitus, adult, + peripheral circulatory disorder"
-63357	C107100.	1	"Diabetes mellitus, adult, + peripheral circulatory disorder"
 70448	C107000	1	"Diabetes mellitus, juvenile +peripheral circulatory disorder"
-70448	C107000.	1	"Diabetes mellitus, juvenile +peripheral circulatory disorder"
 69748	C105000	1	"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
-69748	C105000.	1	"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
 68792	C10z000	1	"Diabetes mellitus, juvenile type, + unspecified complication"
-68792	C10z000.	1	"Diabetes mellitus, juvenile type, + unspecified complication"
 24490	C100000	1	"Diabetes mellitus, juvenile type, no mention of complication"
-24490	C100000.	1	"Diabetes mellitus, juvenile type, no mention of complication"
 40023	C102000	1	"Diabetes mellitus, juvenile type, with hyperosmolar coma"
-40023	C102000.	1	"Diabetes mellitus, juvenile type, with hyperosmolar coma"
 53200	C101000	1	"Diabetes mellitus, juvenile type, with ketoacidosis"
-53200	C101000.	1	"Diabetes mellitus, juvenile type, with ketoacidosis"
 42567	C103000	1	"Diabetes mellitus, juvenile type, with ketoacidotic coma"
-42567	C103000.	1	"Diabetes mellitus, juvenile type, with ketoacidotic coma"
 93922	C104000	1	"Diabetes mellitus, juvenile type, with renal manifestation"
-93922	C104000.	1	"Diabetes mellitus, juvenile type, with renal manifestation"
 67853	C106000	1	"Diabetes mellitus, juvenile, + neurological manifestation"
-67853	C106000.	1	"Diabetes mellitus, juvenile, + neurological manifestation"
 31240	9OL7	1	Diabetes monitor.verbal invite
 31240	9OL7.	1	Diabetes monitor.verbal invite
-31240	9OL7..	1	Diabetes monitor.verbal invite
 31240	9OL7.00	1	Diabetes monitor.verbal invite
 13194	9OL4	1	Diabetes monitoring 1st letter
 13194	9OL4.	1	Diabetes monitoring 1st letter
-13194	9OL4..	1	Diabetes monitoring 1st letter
 13194	9OL4.00	1	Diabetes monitoring 1st letter
 13195	9OL5	1	Diabetes monitoring 2nd letter
 13195	9OL5.	1	Diabetes monitoring 2nd letter
-13195	9OL5..	1	Diabetes monitoring 2nd letter
 13195	9OL5.00	1	Diabetes monitoring 2nd letter
 12030	9OL6	1	Diabetes monitoring 3rd letter
 12030	9OL6.	1	Diabetes monitoring 3rd letter
-12030	9OL6..	1	Diabetes monitoring 3rd letter
 12030	9OL6.00	1	Diabetes monitoring 3rd letter
 9897	9OL	1	Diabetes monitoring admin.
 9897	9OL.	1	Diabetes monitoring admin.
-9897	9OL..	1	Diabetes monitoring admin.
 9897	9OL..00	1	Diabetes monitoring admin.
 711	OX250ED	1	Diabetes Oral Hypoglycaemics /ox
 18766	212H.00	1	Diabetes resolved
@@ -215,77 +157,62 @@ Medcode	ReadCode	Value	Rubric
 85660	66An.00	1	Diabetes type 1 review
 83532	66Ao	1	Diabetes type 2 review
 83532	66Ao.	1	Diabetes type 2 review
-83532	66Ao..	1	Diabetes type 2 review
 83532	66Ao.00	1	Diabetes type 2 review
 34528	66AS000	1	Diabetes well being questionnaire
 38130	ZRB6.00	1	Diabetes wellbeing questionnaire
+38130	ZRB6.	1	Diabetes wellbeing questionnaire
 32556	C107.12	1	Diabetes with gangrene
 107464	66AS000	1	Diabetes Year of Care annual review
 107464	66AS000.	1	Diabetes Year of Care annual review
 12506	66AP	1	Diabetes: practice programme
 12506	66AP.	1	Diabetes: practice programme
-12506	66AP..	1	Diabetes: practice programme
 12506	66AP.00	1	Diabetes: practice programme
 46577	66AX	1	Diabetes: shared care in pregnancy - diabetol and obstet
 46577	66AX.	1	Diabetes: shared care in pregnancy - diabetol and obstet
-46577	66AX..	1	Diabetes: shared care in pregnancy - diabetol and obstet
 46577	66AX.00	1	Diabetes: shared care in pregnancy - diabetol and obstet
 12675	66AQ	1	Diabetes: shared care programme
 12675	66AQ.	1	Diabetes: shared care programme
-12675	66AQ..	1	Diabetes: shared care programme
 12675	66AQ.00	1	Diabetes: shared care programme
 43951	66AK	1	Diabetic - cooperative patient
 43951	66AK.	1	Diabetic - cooperative patient
-43951	66AK..	1	Diabetic - cooperative patient
 43951	66AK.00	1	Diabetic - cooperative patient
 17886	66AM	1	Diabetic - follow-up default
 17886	66AM.	1	Diabetic - follow-up default
-17886	66AM..	1	Diabetic - follow-up default
 17886	66AM.00	1	Diabetic - follow-up default
 13071	66AI	1	Diabetic - good control
 13071	66AI.	1	Diabetic - good control
-13071	66AI..	1	Diabetic - good control
 13071	66AI.00	1	Diabetic - good control
 2378	66AJ	1	Diabetic - poor control
 2378	66AJ.	1	Diabetic - poor control
-22023	66AJ..	1	Diabetic - poor control
 2378	66AJ.00	1	Diabetic - poor control
 22023	66AJz	1	Diabetic - poor control NOS
 22023	66AJz.	1	Diabetic - poor control NOS
-22023	66AJz..	1	Diabetic - poor control NOS
 22023	66AJz00	1	Diabetic - poor control NOS
 22023	66AJz00.	1	Diabetic - poor control NOS
 28873	66Ai.00	1	Diabetic 6 month review
 59903	C106.11	1	Diabetic amyotrophy
 6125	66AS	1	Diabetic annual review
 6125	66AS.	1	Diabetic annual review
-6125	66AS..	1	Diabetic annual review
 6125	66AS.00	1	Diabetic annual review
 102490	66Av	1	Diabetic assessment of erectile dysfunction
 102490	66Av.	1	Diabetic assessment of erectile dysfunction
-102490	66Av..	1	Diabetic assessment of erectile dysfunction
 102490	66Av.00	1	Diabetic assessment of erectile dysfunction
 26604	66AY	1	Diabetic diet - good compliance
 26604	66AY.	1	Diabetic diet - good compliance
-26604	66AY..	1	Diabetic diet - good compliance
 26604	66AY.00	1	Diabetic diet - good compliance
 25636	66Aa	1	Diabetic diet - poor compliance
 25636	66Aa.	1	Diabetic diet - poor compliance
-25636	66Aa..	1	Diabetic diet - poor compliance
 25636	66Aa.00	1	Diabetic diet - poor compliance
 101177	66At.00	1	Diabetic dietary review
 53238	66AG	1	Diabetic drug side effects
 53238	66AG.	1	Diabetic drug side effects
-53238	66AG..	1	Diabetic drug side effects
 53238	66AG.00	1	Diabetic drug side effects
 102434	66Au.00	1	Diabetic erectile dysfunction review
 22823	66Ab	1	Diabetic foot examination
 22823	66Ab.	1	Diabetic foot examination
-22823	66Ab..	1	Diabetic foot examination
 22823	66Ab.00	1	Diabetic foot examination
 50175	66AW	1	Diabetic foot risk assessment
 50175	66AW.	1	Diabetic foot risk assessment
-50175	66AW..	1	Diabetic foot risk assessment
 50175	66AW.00	1	Diabetic foot risk assessment
 95994	66Aq.00	1	Diabetic foot screen
 3550	66A	1	Diabetic monitoring
@@ -294,33 +221,27 @@ Medcode	ReadCode	Value	Rubric
 3550	66A..00	1	Diabetic monitoring
 61470	66Al	1	Diabetic monitoring - higher risk albumin excretion
 61470	66Al.	1	Diabetic monitoring - higher risk albumin excretion
-61470	66Al..	1	Diabetic monitoring - higher risk albumin excretion
 61470	66Al.00	1	Diabetic monitoring - higher risk albumin excretion
 66475	66Ak.00	1	Diabetic monitoring - lower risk albumin excretion
 13067	66AZ.	1	Diabetic monitoring NOS
-13067	66AZ..	1	Diabetic monitoring NOS
 13067	66AZ.00	1	Diabetic monitoring NOS
 2475	C104.11	1	Diabetic nephropathy
 2342	F372.12	1	Diabetic neuropathy
 7563	66A3	1	Diabetic on diet only
 7563	66A3.	1	Diabetic on diet only
-7563	66A3..	1	Diabetic on diet only
 7563	66A3.00	1	Diabetic on diet only
 8842	66A5	1	Diabetic on insulin
 8842	66A5.	1	Diabetic on insulin
-8842	66A5..	1	Diabetic on insulin
 8842	66A5.00	1	Diabetic on insulin
 28769	66AV.00	1	Diabetic on insulin and oral treatment
 1684	66A4	1	Diabetic on oral treatment
 1684	66A4.	1	Diabetic on oral treatment
-1684	66A4..	1	Diabetic on oral treatment
 1684	66A4.00	1	Diabetic on oral treatment
 101728	66As.00	1	Diabetic on subcutaneous treatment
 34152	G73y0	1	Diabetic peripheral angiopathy
 34152	G73y0.	1	Diabetic peripheral angiopathy
 10977	66Ac	1	Diabetic peripheral neuropathy screening
 10977	66Ac.	1	Diabetic peripheral neuropathy screening
-10977	66Ac..	1	Diabetic peripheral neuropathy screening
 10977	66Ac.00	1	Diabetic peripheral neuropathy screening
 5002	F372.11	1	Diabetic polyneuropathy
 16490	66AH.00	1	Diabetic treatment changed
@@ -335,24 +256,20 @@ Medcode	ReadCode	Value	Rubric
 34152	DIIN10072BRIDL	1	Disposable  Insulin syringe with needle  1 ml
 34152	ph3B.	1	Disposable Insulin Syringe With Needle 0.3 ml
 67212	C10H000	1	DM induced by non-steroid drugs without complication
-67212	C10H000.	1	DM induced by non-steroid drugs without complication
 68818	ZRB5.11	1	DTSQ - Diabetes treatment satisfaction questionnaire
 97824	ZRB6.11	1	DWBQ - Diabetes wellbeing questionnaire
 106360	K27y700	1	Erectile dysfunction due to diabetes mellitus
 18056	2G5C	1	Foot abnormality - diabetes related
 18056	2G5C.	1	Foot abnormality - diabetes related
-18056	2G5C..	1	Foot abnormality - diabetes related
 18056	2G5C.00	1	Foot abnormality - diabetes related
 27921	2G51000	1	Foot abnormality - diabetes related
 40363	66A7100	1	Frequency of GP or paramedic treated hypoglycaemia
 31752	66A7000	1	Frequency of hospital treated hypoglycaemia
 13281	66A7	1	Frequency of hypo. attacks
 13281	66A7.	1	Frequency of hypo. attacks
-13281	66A7..	1	Frequency of hypo. attacks
 13281	66A7.00	1	Frequency of hypo. attacks
 13196	66AD	1	Fundoscopy - diabetic check
 13196	66AD.	1	Fundoscopy - diabetic check
-13196	66AD..	1	Fundoscopy - diabetic check
 13196	66AD.00	1	Fundoscopy - diabetic check
 8446	L180811	1	Gestational diabetes mellitus
 2664	L180900	1	Gestational diabetes mellitus
@@ -367,7 +284,6 @@ Medcode	ReadCode	Value	Rubric
 71124	7L1A300	1	Haemofiltration
 13069	66A8	1	Has seen dietician - diabetes
 13069	66A8.	1	Has seen dietician - diabetes
-13069	66A8..	1	Has seen dietician - diabetes
 13069	66A8.00	1	Has seen dietician - diabetes
 34152	f25m.	1	HUMAN INSULATARD 100u/ml inj.
 34152	f25x.	1	human insulatard cartridge 100ml
@@ -377,11 +293,9 @@ Medcode	ReadCode	Value	Rubric
 34152	HUPE31301EMIS	1	Human Insulatard Ge  Penfill Cartridges (3 Ml)  100 units/ml
 34152	HUPR24176EMIS	1	Human Insulatard Ge  Preloaded pen  100 units/ml
 34450	C10FK00	1	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
-34450	C10FK00.	1	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
 36633	C109K00	1	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
 36633	C10FK	1	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
 36633	C10FK.	1	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
-36633	C10FK..	1	Hyperosmolar non-ketotic state in type 2 diabetes mellitus
 107701	C10FK11	1	Hyperosmolar non-ketotic state in type II diabetes mellitus
 107701	C10FK11.	1	Hyperosmolar non-ketotic state in type II diabetes mellitus
 69124	C107300	1	IDDM with peripheral circulatory disorder
@@ -389,7 +303,6 @@ Medcode	ReadCode	Value	Rubric
 20696	66AA.11	1	Injection sites - diabetic
 68517	C10J	1	Insulin autoimmune syndrome
 68517	C10J.	1	Insulin autoimmune syndrome
-68517	C10J..	1	Insulin autoimmune syndrome
 68517	C10J.00	1	Insulin autoimmune syndrome
 39809	C108J00	1	Insulin dependent diab mell with neuropathic arthropathy
 64446	C108G00	1	Insulin dependent diab mell with peripheral angiopathy
@@ -397,29 +310,21 @@ Medcode	ReadCode	Value	Rubric
 97849	C10E912	1	Insulin dependent diabetes maturity onset
 97849	C10E912.	1	Insulin dependent diabetes maturity onset
 1647	C100011	1	Insulin dependent diabetes mellitus
-1038	C100011.	1	Insulin dependent diabetes mellitus
-51261	C100011.	1	Insulin dependent diabetes mellitus
+1038	C100011	1	Insulin dependent diabetes mellitus
+51261	C100011	1	Insulin dependent diabetes mellitus
 51261	C108	1	Insulin dependent diabetes mellitus
 1647	C108.	1	Insulin dependent diabetes mellitus
-1647	C108..	1	Insulin dependent diabetes mellitus
 1647	C108.00	1	Insulin dependent diabetes mellitus
 51261	C10E.12	1	Insulin dependent diabetes mellitus
 6791	C108800	1	Insulin dependent diabetes mellitus - poor control
-6791	C108800.	1	Insulin dependent diabetes mellitus - poor control
 72702	C10E812	1	Insulin dependent diabetes mellitus - poor control
-72702	C10E812.	1	Insulin dependent diabetes mellitus - poor control
 65616	C108H00	1	Insulin dependent diabetes mellitus with arthropathy
-65616	C108H00.	1	Insulin dependent diabetes mellitus with arthropathy
 44260	C108F00	1	Insulin dependent diabetes mellitus with diabetic cataract
-44260	C108F00.	1	Insulin dependent diabetes mellitus with diabetic cataract
 100770	C10EF12	1	Insulin dependent diabetes mellitus with diabetic cataract
 100770	C10EF12.	1	Insulin dependent diabetes mellitus with diabetic cataract
 60499	C108600	1	Insulin dependent diabetes mellitus with gangrene
-60499	C108600.	1	Insulin dependent diabetes mellitus with gangrene
 109051	C10E612	1	Insulin dependent diabetes mellitus with gangrene
-109051	C10E612.	1	Insulin dependent diabetes mellitus with gangrene
 44440	C108E00	1	Insulin dependent diabetes mellitus with hypoglycaemic coma
-44440	C108E00.	1	Insulin dependent diabetes mellitus with hypoglycaemic coma
 99716	C10EE12	1	Insulin dependent diabetes mellitus with hypoglycaemic coma
 99716	C10EE12.	1	Insulin dependent diabetes mellitus with hypoglycaemic coma
 24694	C108B00	1	Insulin dependent diabetes mellitus with mononeuropathy
