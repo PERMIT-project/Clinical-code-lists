@@ -1,0 +1,11 @@
+Medcode,ReadCode,Value,Rubric
+8,44I4.00,1,Serum potassium
+8,44I4.,1,Serum potassium
+8,4414,1,Serum potassium
+17497,44h0.00,1,Blood potassium level
+26928,44I4000,1,Normal serum potassium level
+26929,44I4100,1,Raised serum potassium level
+26279,44I4200,1,Low serum potassium level
+44370,4Q42.00,1,Potassium level
+17497,44h0.,1,Blood potassium level
+44370,4Q42.,1,Potassium level
