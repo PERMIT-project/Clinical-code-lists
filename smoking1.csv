@@ -1,7 +1,10 @@
 Medcode,ReadCode,Value,Rubric
-46654,137D.00,1,Admitted tobacco cons untrue ?
+46654,137D.00,1,Admitted tobacco consumption
+46654,137D.,1,Admitted tobacco consumption
 32973,137W.00,1,Chews tobacco
+32973,137W.,1,Chews tobacco
 12963,137Y.00,1,Cigar consumption
+12963,137Y.,1,Cigar consumption
 12943,137J.,1,Cigar smoker
 12943,137J,1,Cigar smoker
 12943,137J.00,1,Cigar smoker
@@ -9,6 +12,7 @@ Medcode,ReadCode,Value,Rubric
 12965,137X,1,Cigarette consumption
 12965,137X.00,1,Cigarette consumption
 46300,137g.00,1,Cigarette pack-years
+46300,137g.,1,Cigarette pack-years
 93,137P.,1,Cigarette smoker
 93,137P,1,Cigarette smoker
 93,137P.00,1,Cigarette smoker
@@ -16,19 +20,24 @@ Medcode,ReadCode,Value,Rubric
 10558,137R,1,Current smoker
 10558,137R.00,1,Current smoker
 106891,137i.00,1,Ex-tobacco chewer
+106891,137i.,1,Ex-tobacco chewer
 101338,137m.00,1,Failed attempt to stop smoking
-3568,1375,1,Heavy smoker - 20-39 cigs/day
-3568,1375,1,Heavy smoker - 20-39 cigs/day
+101338,137m.,1,Failed attempt to stop smoking
+3568,1375.00,1,Heavy smoker - 20-39 cigs/day
+3568,1375.,1,Heavy smoker - 20-39 cigs/day
 12964,137C.,1,Keeps trying to stop smoking
 12964,137C,1,Keeps trying to stop smoking
 12964,137C.00,1,Keeps trying to stop smoking
 12944,1373,1,Light smoker - 1-9 cigs/day
-12944,1373,1,Light smoker - 1-9 cigs/day
+12944,1373.,1,Light smoker - 1-9 cigs/day
 62686,137h.00,1,Minutes from waking to first tobacco consumption
-1878,1374,1,Moderate smoker - 10-19 cigs/d
-1878,1374,1,Moderate smoker - 10-19 cigs/d
+62686,137h.,1,Minutes from waking to first tobacco consumption
+1878,1374.,1,Moderate smoker - 10-19 cigs/d
+1878,1374.00,1,Moderate smoker - 10-19 cigs/d
 30762,137d.00,1,Not interested in stopping smoking
+30762,137d.,1,Not interested in stopping smoking
 13351,137I.00,1,Passive smoker
+13351,137I.,1,Passive smoker
 12947,137H.,1,Pipe smoker
 12947,137H,1,Pipe smoker
 12947,137H.00,1,Pipe smoker
@@ -36,10 +45,12 @@ Medcode,ReadCode,Value,Rubric
 12967,137a,1,Pipe tobacco consumption
 12967,137a.00,1,Pipe tobacco consumption
 31114,137b.00,1,Ready to stop smoking
+31114,137b.,1,Ready to stop smoking
 46321,137f.,1,Reason for restarting smoking
 46321,137f,1,Reason for restarting smoking
 46321,137f.00,1,Reason for restarting smoking
 97029,137k.00,1,Refusal to give smoking status
+97029,137k.,1,Refusal to give smoking status
 12945,137M.,1,Rolls own cigarettes
 12945,137M,1,Rolls own cigarettes
 12945,137M.00,1,Rolls own cigarettes
@@ -56,16 +67,19 @@ Medcode,ReadCode,Value,Rubric
 12952,137Q,1,Smoking started
 12952,137Q.00,1,Smoking started
 30423,137c.00,1,Thinking about stopping smoking
+30423,137c.,1,Thinking about stopping smoking
 12960,137Z.,1,Tobacco consumption NOS
 12960,137Z,1,Tobacco consumption NOS
 12960,137Z.00,1,Tobacco consumption NOS
 12958,1372,1,Trivial smoker - < 1 cig/day
-12958,1372,1,Trivial smoker - < 1 cig/day
+12958,1372.,1,Trivial smoker - < 1 cig/day
+12958,1372.00,1,Trivial smoker - < 1 cig/day
 12240,137G.,1,Trying to give up smoking
 12240,137G,1,Trying to give up smoking
 12240,137G.00,1,Trying to give up smoking
 1822,1376,1,Very heavy smoker - 40+cigs/d
-1822,1376,1,Very heavy smoker - 40+cigs/d
+1822,1376.,1,Very heavy smoker - 40+cigs/d
+1822,1376.00,1,Very heavy smoker - 40+cigs/d
 10558,EMISNQSM6,1,Smoking cessation drug therapy - varenicline
 10558,EMISQCO1,1,Carbon monoxide validation of smoking status
 10558,EMISQCO3,1,Carbon monoxide validation confirms smoker
