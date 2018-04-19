@@ -1,0 +1,95 @@
+Medcode,ReadCode,Value,Rubric
+867,7B01,1,Total nephrectomy
+867,7B01.,1,Total nephrectomy
+867,7B01.00,1,Total nephrectomy
+7568,7B01.11,1,Total excision of kidney
+6136,7B010,1,Radical nephrectomy
+6136,7B01000,1,Radical nephrectomy
+68574,7B01011,1,Nephrectomy and excision of perirenal tissue
+1600,7B011,1,Nephroureterectomy-unspecified
+1600,7B01100,1,Nephroureterectomy-unspecified
+51039,7B012,1,Bilateral nephrectomy
+51039,7B01200,1,Bilateral nephrectomy
+34834,7B013,1,Heminephrect- horseshoe kidney
+34834,7B01300,1,Heminephrectomy for horseshoe kidney
+60919,7B01311,1,Excision of half of horseshoe kidney
+29120,7B014,1,Simple nephrectomy - other
+29120,7B01400,1,Simple nephrectomy - other
+48121,7B015,1,Transplant nephrectomy
+48121,7B01500,1,Transplant nephrectomy
+72004,7B01511,1,Excision of rejected transplanted kidney
+37007,7B016,1,Simple nephrectomy -live donor
+37007,7B01600,1,Simple nephrectomy -live donor
+35225,7B017,1,Nephroureterec-open lower uret
+35225,7B01700,1,Nephroureterectomy with open lower ureterectomy
+49535,7B018,1,Nephrouretrec-pluck lower uret
+49535,7B01800,1,Nephroureterectomy with pluck lower ureterectomy
+72004,7B019,1,Excision of rejected Tx kidney
+56892,7B01y,1,Total nephrectomy OS
+56892,7B01y00,1,Other specified total nephrectomy
+34366,7B01z,1,Total nephrectomy NOS
+34366,7B01z00,1,Total nephrectomy NOS
+3905,7B02,1,Partial nephrectomy
+3905,7B02.,1,Partial nephrectomy
+3905,7B02.00,1,Partial nephrectomy
+70531,7B02.11,1,Partial excision of kidney
+34999,7B020,1,Heminephrectomy duplex kidney
+34999,7B02000,1,Heminephrectomy for duplex kidney
+52671,7B021,1,Division isthmus horseshoe kid
+52671,7B02100,1,Division of isthmus of horseshoe kidney
+34714,7B022,1,Upper pole partial nephrectomy
+34714,7B02200,1,Upper pole partial nephrectomy
+24042,7B023,1,Lower pole partial nephrectomy
+24042,7B02300,1,Lower pole partial nephrectomy
+38802,7B02y,1,Partial nephrectomy OS
+38802,7B02y00,1,Other specified partial nephrectomy
+37861,7B02z,1,Partial nephrectomy NOS
+37861,7B02z00,1,Partial nephrectomy NOS
+38802,Y30ey,1,Nephrectomy
+38802,Y30ez,1,Total nephrectomy
+38802,Y30f0,1,Total excision of kidney
+38802,Y30f1,1,Total nephrectomy NOS
+38802,Y30f2,1,Total nephrectomy OS
+38802,Y30f3,1,Radical nephrectomy
+38802,Y30fA,1,Bilateral nephrectomy
+38802,Y30fB,1,Simple nephrectomy
+38802,Y30fC,1,Simple nephrectomy - other
+38802,Y30fD,1,Transplant nephrectomy
+38802,Y30fE,1,Excision of rejected Tx kidney
+38802,Y30fF,1,Live donor nephrectomy
+38802,Y30fG,1,Simple nephrectomy -live donor
+38802,Y30fH,1,Partial nephrectomy
+38802,Y30fI,1,Partial excision of kidney
+38802,Y30fJ,1,Partial nephrectomy NOS
+38802,Y30fK,1,Partial nephrectomy OS
+38802,Y30fL,1,Heminephrectomy duplex kidney
+38802,Y30fN,1,Excision half horseshoe kidney
+38802,Y30fP,1,Upper polar partial nephrectmy
+38802,Y30fQ,1,Upper pole partial nephrectomy
+38802,Y30fR,1,Lower polar partial nephrectmy
+38802,Y30fS,1,Lower pole partial nephrectomy
+38802,Y30fT,1,Middle partial nephrectomy
+38802,Y30ey.,1,Nephrectomy
+867,Y30ez.,1,Total nephrectomy
+38802,Y30f0.,1,Total excision of kidney
+38802,Y30f1.,1,Total nephrectomy NOS
+38802,Y30f2.,1,Total nephrectomy OS
+38802,Y30f3.,1,Radical nephrectomy
+51039,Y30fA.,1,Bilateral nephrectomy
+38802,Y30fB.,1,Simple nephrectomy
+38802,Y30fC.,1,Simple nephrectomy - other
+48121,Y30fD.,1,Transplant nephrectomy
+38802,Y30fE.,1,Excision of rejected Tx kidney
+38802,Y30fF.,1,Live donor nephrectomy
+38802,Y30fG.,1,Simple nephrectomy -live donor
+3905,Y30fH.,1,Partial nephrectomy
+38802,Y30fI.,1,Partial excision of kidney
+38802,Y30fJ.,1,Partial nephrectomy NOS
+38802,Y30fK.,1,Partial nephrectomy OS
+38802,Y30fL.,1,Heminephrectomy duplex kidney
+38802,Y30fN.,1,Excision half horseshoe kidney
+38802,Y30fP.,1,Upper polar partial nephrectmy
+34714,Y30fQ.,1,Upper pole partial nephrectomy
+38802,Y30fR.,1,Lower polar partial nephrectmy
+38802,Y30fS.,1,Lower pole partial nephrectomy
+38802,Y30fT.,1,Middle partial nephrectomy
