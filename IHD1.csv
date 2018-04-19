@@ -1,0 +1,329 @@
+Medcode,ReadCode,Rubric
+17054,7N413.,[SO]Coronary artery
+17054,7N41300,[SO]Coronary artery
+5030,ZV45K.,[V]Presence of coronary artery bypass graft
+5030,ZV45K00,[V]Presence of coronary artery bypass graft
+5030,ZV45K.,[V]Presence of coronary artery bypass graft
+5674,ZV45K11,[V]Presence of coronary artery bypass graft - CABG
+96838,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site
+52517,Gyu3,[X]Ischaemic heart diseases
+52517,Gyu3.,[X]Ischaemic heart diseases
+52517,Gyu3.00,[X]Ischaemic heart diseases
+68401,Gyu3200,[X]Other forms of acute ischaemic heart disease
+39546,Gyu30,[X]Other forms of angina pectoris
+39546,Gyu3000,[X]Other forms of angina pectoris
+47637,Gyu3300,[X]Other forms of chronic ischaemic heart disease
+99991,Gyu3600,[X]Subsequent myocardial infarction of unspecified site
+40429,G301000,Acute anteroapical infarction
+12139,G300.00,Acute anterolateral infarction
+12139,G300.,Acute anterolateral infarction
+17872,G301100,Acute anteroseptal infarction
+28736,G30y000,Acute atrial infarction
+9276,G31y000,Acute coronary insufficiency
+11983,G311500,Acute coronary syndrome
+8935,G302.00,Acute inferolateral infarction
+8935,G302.,Acute inferolateral infarction
+29643,G303.00,Acute inferoposterior infarction
+29643,G303.,Acute inferoposterior infarction
+241,G30..00,Acute myocardial infarction
+14658,G30z.00,Acute myocardial infarction NOS
+14658,G30z.,Acute myocardial infarction NOS
+9507,G307000,Acute non-Q wave infarction
+10562,G3071,Acute non-ST segment elevation myocardial infarction
+10562,G307100,Acute non-ST segment elevation myocardial infarction
+62626,G30y100,Acute papillary muscle infarction
+32854,G30B.00,Acute posterolateral myocardial infarction
+32854,G30B.,Acute posterolateral myocardial infarction
+30330,G309.00,Acute Q-wave infarct
+30330,G309.,Acute Q-wave infarct
+41221,G30y200,Acute septal infarction
+12229,G30X000,Acute ST segment elevation myocardial infarction
+3704,G307.00,Acute subendocardial infarction
+3704,G307.,Acute subendocardial infarction
+29758,G30X.00,Acute transmural myocardial infarction of unspecif site
+29758,G30X.,Acute transmural myocardial infarction of unspecif site
+95550,8H2V.00,Admit ischaemic heart disease emergency
+95550,8H2V.,Admit ischaemic heart disease emergency
+32651,7922.11,Allograft bypass of coronary artery
+31556,7922.,Allograft replacement of coronary artery
+48767,7922z00,Allograft replacement of coronary artery NOS
+45370,7922300,Allograft replacement of four or more coronary arteries
+70111,7922000,Allograft replacement of one coronary artery
+45886,7922200,Allograft replacement of three coronary arteries
+19655,G307.,Angina
+19655,G33z.,ANGINA
+19655,G311.,Angina at rest
+19655,G311.14,Angina at rest
+17307,G3112,Angina at rest
+17307,G311200,Angina at rest
+19542,662K0,Angina control - good
+19542,662K000,Angina control - good
+14782,662K2,Angina control - improving
+14782,662K200,Angina control - improving
+15373,662K1,Angina control - poor
+15373,662K100,Angina control - poor
+EMISHGT66,EMISAC1,Angina control - stable
+29300,662K300,Angina control - worsening
+15349,662Kz00,Angina control NOS
+29300,662K3,Angina control -worsening
+1414,G330.,ANGINA EFFORT
+1414,G33z300,ANGINA EFFORT
+EMISHGT66,EMISAN1,Angina Grading (Canadian Cardiovascular Society)
+1414,G33z3,Angina on effort
+28554,G33zz,Angina pectoris NOS
+28554,G33zz00,Angina pectoris NOS
+14897,G301z00,Anterior myocardial infarction NOS
+18889,G34z0,Asymptomatic coronary heart disease
+18889,G34z000,Asymptomatic coronary heart disease
+23708,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct
+23708,G361.,Atrial septal defect/curr comp folow acut myocardal infarct
+13566,G30..11,Attack - heart
+44561,7921000,Autograft replacement of one coronary artery NEC
+24888,7928.,Bare metal stent angioplasty of coronary artery
+52637,388E.00,Canadian Cardiovascular Society classification of angina
+52637,388E.,Canadian Cardiovascular Society classification of angina
+59350,ZR37.,Canadian Cardiovascular Society classification of angina
+59350,ZR37.00,Canadian Cardiovascular Society classification of angina
+30421,G30..13,Cardiac rupture following myocardial infarction (MI)
+36423,G36..00,Certain current complication follow acute myocardial infarct
+36423,G36..,Certain current complication follow acute myocardial infarct
+18135,EMISQCH1,CHD Annual Review
+EMISHGT66,REDDYCH1,Chd Related Diagnoses And Intervention
+55673,ZR3P.00,CLASP angina score
+55673,ZR3P.,CLASP angina score
+103412,P6y4600,Congenital stricture of coronary artery
+EMISHGT66,REDDYCO1,Coronary Artery Angioplasty
+5030,REDDYCO3,Coronary Artery Bypass Graft
+12734,SP076,Coronary artery bypass graft occlusion
+12734,SP07600,Coronary artery bypass graft occlusion
+12734,SP076.,Coronary artery bypass graft occlusion
+EMISHGT66,8L40.,Coronary artery bypass graft operation planned
+101121,8L40.00,Coronary artery bypass graft operation planned
+737,792..11,Coronary artery bypass graft operations
+737,792..,Coronary artery bypass graft operations------1999
+1344,G340.12,Coronary artery disease
+5904,792..00,Coronary artery operations
+10603,792z.,Coronary artery operations NOS
+10603,792z.00,Coronary artery operations NOS
+36854,G332.00,Coronary artery spasm
+36854,G332.,Coronary artery spasm
+8942,REDDYCO2,Coronary Artery Stent
+11648,8B3k.,Coronary heart disease medication review
+11648,8B3k.00,Coronary heart disease medication review
+18135,6A2..,Coronary heart disease annual review
+18135,6A2..,Coronary heart disease annual review
+18135,6A2..00,Coronary heart disease annual review
+103932,8CMP.,Coronary heart disease care plan
+103932,8CMP.00,Coronary heart disease care plan
+EMISHGT66,388A.,Coronary heart disease register
+10260,6A4..,Coronary heart disease review
+10260,6A4..00,Coronary heart disease review
+2491,G30..12,Coronary thrombosis
+39449,G312.00,Coronary thrombosis not resulting in myocardial infarction
+39449,G312.,Coronary thrombosis not resulting in myocardial infarction
+51043,ZRBN.,Duke's coronary artery disease score
+51043,ZRBN.00,Duke's coronary artery disease score
+22020,792B0,Endarterectomy of coronary artery NEC
+22020,792B000,Endarterectomy of coronary artery NEC
+EMISHGT66,187..,Frequency of angina
+EMISHGT66,WALKDHZ1,H/O Chd
+1430,14AJ.,H/O: Angina in last year
+1430,14A5.,H/O: angina pectoris
+EMISHGT66,EMISNOQFH3,H/O: coronary heart disease
+45476,14AL.00,H/O: Treatment for ischaemic heart disease
+45476,14AL.,H/O: Treatment for ischaemic heart disease
+24126,G360.00,Haemopericardium/current comp folow acut myocard infarct
+24126,G360.,Haemopericardium/current comp folow acut myocard infarct
+16408,G32..11,Healed myocardial infarction
+1204,G30..14,Heart attack
+1792,EMISHGT66,IHD - Ischaemic heart disease
+1792,G3...13,IHD - Ischaemic heart disease
+1792,G3...,IHD - Ischaemic heart disease
+1678,G308.,Inferior myocardial infarction NOS
+1678,G308.00,Inferior myocardial infarction NOS
+8942,7929400,Insertion of coronary artery stent
+8942,79294.,Insertion of coronary artery stent
+8942,7929400,Insertion of coronary artery stent
+24888,79295.,Insertion of drug-eluting coronary artery stent
+42304,7929500,Insertion of drug-eluting coronary artery stent
+240,G3,Ischaemic heart disease
+240,G3.,Ischaemic heart disease
+240,G3..,Ischaemic heart disease
+240,G3...,Ischaemic heart disease
+240,G3...00,Ischaemic heart disease
+1676,G3z..00,Ischaemic heart disease NOS
+1676,G3z..,Ischaemic heart disease NOS
+14898,G305.00,Lateral myocardial infarction NOS
+14898,G305.,Lateral myocardial infarction NOS
+1677,G30..15,MI - acute myocardial infarction
+55137,G311011,MI - myocardial infarction aborted
+68357,G31y100,Microinfarction of heart
+13566,G30..,Myocardial infarction
+61072,G311000,Myocardial infarction aborted
+26863,G33z6,New onset angina
+26863,G33z600,New onset angina
+18125,G3300,Nocturnal angina
+18125,G33000,Nocturnal angina
+18125,G330000,Nocturnal angina
+1431,REDDYNU1,Number Of Episodes Of Unstable Angina
+4017,G32..00,Old myocardial infarction
+4017,G32..,Old myocardial infarction
+24888,79275.,Open angioplasty of coronary artery
+5744,7927500,Open angioplasty of coronary artery
+27951,G31..00,Other acute and subacute ischaemic heart disease
+9413,G31y.00,Other acute and subacute ischaemic heart disease
+27951,G31..,Other acute and subacute ischaemic heart disease
+27977,G31yz00,Other acute and subacute ischaemic heart disease NOS
+34803,G30y.00,Other acute myocardial infarction
+34803,G30y.,Other acute myocardial infarction
+46017,G30yz00,Other acute myocardial infarction NOS
+7134,7921.11,Other autograft bypass of coronary artery
+9414,7921.,Other autograft replacement of coronary artery
+7609,7921z00,Other autograft replacement of coronary artery NOS
+61310,7921z00,Other autograft replacement of coronary artery NOS
+61310,7921y00,Other autograft replacement of coronary artery OS
+34963,792D.,Other bypass coronary artery
+34963,792D.00,Other bypass of coronary artery
+EMISHGT66,792Dz,Other bypass of coronary artery NOS
+33471,792Dz00,Other bypass of coronary artery NOS
+EMISHGT66,792Dz00,Other bypass of coronary artery NOS
+28138,G34..00,Other chronic ischaemic heart disease
+28138,G34..,Other chronic ischaemic heart disease
+15754,G34z.00,Other chronic ischaemic heart disease NOS
+15754,G34z.,Other chronic ischaemic heart disease NOS
+41757,7927z00,Other open operation on coronary artery NOS
+47788,7927.,Other open operations on coronary artery
+55598,792C.00,Other replacement of coronary artery
+59423,7922y00,Other specified allograft replacement of coronary artery
+59423,7922y00,Other specified allograft replacement of coronary artery
+5387,G301.00,Other specified anterior myocardial infarction
+5387,G301.,Other specified anterior myocardial infarction
+34633,G34y.00,Other specified chronic ischaemic heart disease
+34633,G34y.,Other specified chronic ischaemic heart disease
+35713,G34yz00,Other specified chronic ischaemic heart disease NOS
+22383,G3y..00,Other specified ischaemic heart disease
+22383,G3y..,Other specified ischaemic heart disease
+EMISHGT66,792y.,Other specified operations on coronary artery
+31571,792y.00,Other specified operations on coronary artery
+31571,792y.00,Other specified operations on coronary artery
+31571,792y.,Other specified operations on coronary artery
+3159,792Dy00,Other specified other bypass of coronary artery
+EMISHGT66,792Dy00,Other specified other bypass of coronary artery
+95382,7927y00,Other specified other open operation on coronary artery
+69247,792By00,Other specified repair of coronary artery
+93828,792Cy00,Other specified replacement of coronary artery
+97953,7924y00,Other specified revision of bypass for coronary artery
+97953,7924y00,Other specified revision of bypass for coronary artery
+31679,7929z00,Other therapeutic transluminal op on coronary artery NOS
+6182,7929y00,Other therapeutic transluminal operations on coronary artery
+6182,7929.,Other therapeutic transluminal operations on coronary artery
+24888,7929.,Other therapeutic transluminal operations on coronary artery
+24888,7929,Other therapeutic transluminal operations on coronary artery
+43939,793M.100,Perc translumin ablation of atrial wall for arterial flutter
+EMISHGT66,793G.,Perc translumin balloon angioplasty stenting coronary artery
+43939,793G.00,Perc translumin balloon angioplasty stenting coronary artery
+24888,79283.,Percut translum cutting balloon angioplasty coronary artery
+86071,7928300,Percut translum cutting balloon angioplasty coronary artery
+24888,79292.,Percut translum inject therap subst to coronary artery NEC
+66583,7929200,Percut translum inject therap subst to coronary artery NEC
+24888,79280.,Percut transluminal balloon angioplasty one coronary artery
+18670,7928000,Percut transluminal balloon angioplasty one coronary artery
+34963,792E.,Percutaneous coronary artery intervention
+93618,7929600,Percutaneous transluminal atherectomy of coronary artery
+17464,G32..12,Personal history of myocardial infarction
+9555,G33z5,Post infarct angina
+9555,G33z500,Post infarct angina
+23892,G304.00,Posterior myocardial infarction NOS
+23892,G304.,Posterior myocardial infarction NOS
+23579,G310.00,Postmyocardial infarction syndrome
+23579,G310.,Postmyocardial infarction syndrome
+32272,G38..00,Postoperative myocardial infarction
+32272,G38..,Postoperative myocardial infarction
+68748,G38z.00,Postoperative myocardial infarction; unspecified
+68748,G38z.,Postoperative myocardial infarction; unspecified
+41835,G384.00,Postoperative subendocardial myocardial infarction
+41835,G384.,Postoperative subendocardial myocardial infarction
+46112,G380.00,Postoperative transmural myocardial infarction anterior wall
+46112,G380.,Postoperative transmural myocardial infarction anterior wall
+46276,G381.00,Postoperative transmural myocardial infarction inferior wall
+46276,G381.,Postoperative transmural myocardial infarction inferior wall
+36011,7923.11,Prosthetic bypass of coronary artery
+19402,7923.,Prosthetic replacement of coronary artery
+19193,7923z00,Prosthetic replacement of coronary artery NOS
+19193,7923z00,Prosthetic replacement of coronary artery NOS
+92419,7923000,Prosthetic replacement of one coronary artery
+107574,8T04.00,Referral to Angina Plan self-management programme
+107574,8T04.,Referral to Angina Plan self-management programme
+34328,G311300,Refractory angina
+18903,7927000,Repair of arteriovenous fistula of coronary artery
+93432,792B200,Repair of arteriovenous malformation of coronary artery
+33620,792B.00,Repair of coronary artery NEC
+33620,792B.,Repair of coronary artery NEC
+44585,792Bz00,Repair of coronary artery NOS
+94783,792B100,Repair of rupture of coronary artery
+70755,792Cz00,Replacement of coronary artery NOS
+33461,7924.,Revision of bypass for coronary artery
+57634,7924z00,Revision of bypass for coronary artery NOS
+57634,7924z00,Revision of bypass for coronary artery NOS
+101569,7924300,Revision of bypass for four or more coronary arteries
+52938,7924000,Revision of bypass for one coronary artery
+52938,7924000,Revision of bypass for one coronary artery
+31540,7924200,Revision of bypass for three coronary arteries
+67554,7924100,Revision of bypass for two coronary arteries
+24888,7938.,Right coronary artery was stented
+59189,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+59189,G363.,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+59940,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct
+59940,G364.,Ruptur chordae tendinae/curr comp fol acute myocard infarct
+69474,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct
+69474,G365.,Rupture papillary muscle/curr comp fol acute myocard infarct
+EMISHGT66,CLEATSA1,Salford And Trafford Chd Register
+8312,7920.11,Saphenous vein graft bypass of coronary artery
+EMISHGT66,7920z,Saphenous vein graft replacement coronary artery NOS
+51515,7920z00,Saphenous vein graft replacement coronary artery NOS
+EMISHGT66,7920z00,Saphenous vein graft replacement coronary artery NOS
+18249,7920.,Saphenous vein graft replacement of coronary artery
+7137,7920y00,Saphenous vein graft replacement of coronary artery
+EMISHGT66,7920y,Saphenous vein graft replacement of coronary artery OS
+8679,7920000,Saphenous vein graft replacement of one coronary artery
+17689,G30..17,Silent myocardial infarction
+29421,G344.00,Silent myocardial ischaemia
+29421,G344.,Silent myocardial ischaemia
+62163,P6y4100,Single coronary artery
+60753,7926300,Single implantation thoracic artery into coronary artery NEC
+12804,G33..,Stable angina
+12804,G33z7,Stable angina
+12804,G33z700,Stable angina
+39693,G31y200,Subendocardial ischaemia
+18842,G35..00,Subsequent myocardial infarction
+18842,G35..,Subsequent myocardial infarction
+45809,G350.00,Subsequent myocardial infarction of anterior wall
+45809,G350.,Subsequent myocardial infarction of anterior wall
+38609,G351.00,Subsequent myocardial infarction of inferior wall
+38609,G351.,Subsequent myocardial infarction of inferior wall
+72562,G353.00,Subsequent myocardial infarction of other sites
+72562,G353.,Subsequent myocardial infarction of other sites
+46166,G35X.00,Subsequent myocardial infarction of unspecified site
+46166,G35X.,Subsequent myocardial infarction of unspecified site
+13571,G30..16,Thrombosis - coronary
+61592,7927200,Transection of muscle bridge of coronary artery
+21844,G31y300,Transient myocardial ischaemia
+732,7928z00,Transluminal balloon angioplasty of coronary artery
+732,7928.,Transluminal balloon angioplasty of coronary artery
+732,7928z,Transluminal balloon angioplasty of coronary artery NOS
+41547,7928y00,Transluminal balloon angioplasty of coronary artery OS
+732,7928y00,Transluminal balloon angioplasty of coronary artery OS
+24888,79273.,Transposition of coronary artery NEC
+48206,7927300,Transposition of coronary artery NEC
+1655,G340.11,Triple vessel disease of the heart
+63467,G306.00,True posterior myocardial infarction
+63467,G306.,True posterior myocardial infarction
+1431,G311.13,Unstable angina
+7347,G3111,Unstable angina
+7347,G311100,Unstable angina
+37657,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn
+37657,G362.,Ventric septal defect/curr comp fol acut myocardal infarctn
+18118,G3114,Worsening angina
+18118,G311400,Worsening angina
+28138,G34..00,Other chronic ischaemic heart 
+28138,G34..,Other chronic ischaemic heart 
