@@ -1,0 +1,36 @@
+Medcode,ReadCode,Rubric
+21520,9N1d.,Asthma Clinic: Weight
+21520,9N1Q.,Diabetes Clinic: Weight
+2,1622.,Weight
+2,22A..,Weight
+2,22A2.,Weight
+2,22A3.,Weight
+2,22A4.,Weight
+2,22A5.,Weight
+2,22A6.,Weight
+2,22A8.,Weight
+2,22AA.,Weight
+2,22AZ.,Weight
+2,22K..,Weight
+14763,21520,Weight steady
+34363,21520,Weight static
+1018,21520,Weight increasing
+654,21520,Weight decreasing
+19208,21520,Abnormal weight gain
+4663,21520,Abnormal weight loss
+5812,21520,Abnormal weight loss - symptom
+26351,21520,Intentional weight loss
+102563,21520,Unintentional weight loss
+17949,21520,Weight screen
+2,22A..00,O/E - weight
+26473,22A1.00,O/E - weight > 20% below ideal
+29029,22A2.00,O/E -weight 10-20% below ideal
+23376,22A3.00,O/E - weight within 10% ideal
+16404,22A4.00,O/E - weight 10-20% over ideal
+2839,22A4.11,O/E - overweight
+32974,22A5.00,O/E - weight > 20% over ideal
+7984,22A5.11,O/E - obese
+126,22A6.00,O/E - Underweight
+42309,22A7.00,Baseline weight
+21520,22AZ.00,O/E - weight NOS
+57111,22Z..00,Height and Weight
