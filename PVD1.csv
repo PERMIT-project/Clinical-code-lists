@@ -1,0 +1,358 @@
+ReadCode,Description
+1477.,H/O: cerebrovascular disease
+662U.,Peripheral vascular disease monitoring
+662U.00,Peripheral vascular disease monitoring
+7920.,Saphenous vein graft bypass of coronary artery
+77355,Ligation of haemorrhoidal artery
+79201,Saphenous vein graft replacement of two coronary arteries
+79202,Saphenous vein graft replacement of three coronary arteries
+79203,Saphenous vein graft replacement of four+ coronary arteries
+7920000,Saphenous vein graft replacement of one coronary artery
+7920100,Saphenous vein graft replacement of two coronary arteries
+7920200,Saphenous vein graft replacement of three coronary arteries
+7920300,Saphenous vein graft replacement of four+ coronary arteries
+14A81,H/O: Deep Vein Thrombosis
+14A8100,H/O: Deep Vein Thrombosis
+14A9.,H/O: varicose veins
+2I17.,Thrombophlebitis
+68X0.,Deep vein thrombosis screening
+7920y00,Saphenous vein graft replacement of coronary artery OS
+7920z,Saphenous vein graft replacement coronary artery NOS
+7920z00,Saphenous vein graft replacement coronary artery NOS
+793M200,Percutaneous transluminal internal cardioversion NEC
+7A...,Artery and vein operations
+7A01100,Ligation of patent ductus arteriosus
+7A22300,Percutaneous transluminal insertion stent carotid artery
+7A23.,Cerebral artery aneurysm operations
+7A28000,Percutaneous transluminal angioplasty of subclavian artery
+7A28400,Percutaneous transluminal embolectomy of brachial artery
+7A320,Percutaneous transluminal angioplasty of renal artery
+7A32000,Percutaneous transluminal angioplasty of renal artery
+7A32500,Percutaneous transluminal insertion stent into renal artery
+7A440,Percutaneous transluminal angioplasty of iliac artery
+7A44000,Percutaneous transluminal angioplasty of iliac artery
+7A444,Percutaneous transluminal insertion of iliac artery stent
+7A44400,Percutaneous transluminal insertion of iliac artery stent
+7A472,Emerg bypass femoral art by fem/pop a anast c vein graft NEC
+7A47200,Emerg bypass femoral art by fem/pop a anast c vein graft NEC
+7A48000,Bypass femoral artery by fem/pop art anast c prosthesis NEC
+7A48200,Bypass femoral artery by fem/pop art anast c vein graft NEC
+7A48300,Bypass popliteal artery by pop/pop a anast c vein graft NEC
+7A48600,Bypass femoral artery by fem/tib art anast c vein graft NEC
+7A48700,Bypass popliteal artery by pop/tib a anast c vein graft NEC
+7A48A,Bypass femoral artery by fem/peron a anast c vein graft NEC
+7A4A400,Ligation of aneurysm of popliteal artery
+7A4A500,Operation on aneurysm of femoral artery NEC
+7A4B0,Percutaneous transluminal angioplasty of femoral artery
+7A4B000,Percutaneous transluminal angioplasty of femoral artery
+7A4B1,Percutaneous transluminal angioplasty of popliteal artery
+7A4B100,Percutaneous transluminal angioplasty of popliteal artery
+7A4B2,Percutaneous transluminal embolectomy of femoral artery
+7A4B300,Percutaneous transluminal embolectomy of popliteal artery
+7A522,Repair of artery using prosthetic graft NEC
+7A52300,Repair of artery using vein graft NEC
+7A53200,Ligation of artery NEC
+7A53400,Operation on aneurysm of artery NEC
+7A53y00,ARTERIAL BY-PASS OPERATION
+7A54700,Percutaneous transluminal thrombolysis of artery
+7A56400,Percutaneous transluminal balloon angioplasty of artery
+7A61.,Other arteriovenous operations
+7A66000,Crossover graft of saphenous vein
+7A67.,Bilateral varicose vein surgery
+7A670,Ligation long saphenous vein
+7A67000,Ligation of long saphenous vein
+7A67011,TRENDELBERG OPERATION VARICOSE VEINS
+7A671,Ligation of short saphenous vein
+7A67100,Ligation of short saphenous vein
+7A67y00,Other specified ligation of varicose vein of leg
+7A67z,Ligation of varicose vein of leg NOS
+7A67z00,Ligation of varicose vein of leg NOS
+7A68000,VARICOSE VEINS INJECTED
+7A682,Ultrasound guided foam sclerotherapy for varicose vein leg
+7A68200,Ultrasound guided foam sclerotherapy for varicose vein leg
+7A69.,Ligation -varicose vein right
+7A690,Stripping long saphenous vein
+7A69000,Stripping of long saphenous vein
+7A692,Stripping of varicose vein of leg NEC
+7A69200,/VARICOSE VEINS STRIPPING
+7A693,Avulsion of varicose vein of leg
+7A69300,Avulsion of varicose vein of leg
+7A69400,PHLEBECTOMY VARICOSE VEIN LEG
+7A69700,Endovascular laser ablation of varicose vein of leg
+7A69z00,Oth varicose vein operatn NOS
+7A6D1,Ligation of vein NEC
+7A6D100,Ligation of vein NEC
+7A6D700,Reconstruction vein using vein graft
+7A6E000,Percutaneous transluminal embolisation of vein
+7A6E700,Percutaneous transluminal balloon angioplasty of vein
+7A6G.,Other Vascular Operations
+7A6G4,Operation on vein NEC
+7A6G400,Operation on vein NEC
+7A6H2,Vein graft thrombectomy
+7A6H4,Percutaneous transluminal angioplasty of vascular graft
+7A6L.,Combined operations on varicose vein of leg
+7A6Lz00,Combined operations on varicose vein of leg NOS
+7A6M000,Percutaneous transluminal laser ablation long saphenous vein
+7A6M1,Radiofrequency ablation of varicose vein of leg
+7A6S000,Percutaneous transluminal angioplasty of vein NEC
+7A6S100,Percutaneous transluminal stent reconstruction of vein
+7Az..,Artery and vein operations NOS
+7M0a300,Acute Arterial Occlusion
+8H7n.,left inferior temporal branch venous occlusion
+8L2..,Varicose vein operation planned
+9b8N.,Vascular surgery
+C109F11,Type II diabetes mellitus with peripheral angiopathy
+C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+C10EG,Type I diabetes mellitus with peripheral angiopathy
+C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+C10FF11,Type II diabetes mellitus with peripheral angiopathy
+EMISNQFH9,FH: Peripheral vascular disease
+F051z,Thrombosis of central nervous system venous sinus NOS
+F053100,Thrombophlebitis of superior longitudinal venous sinus
+F124.,Vascular parkinsonism
+F421700,Retinal vascular changes NOS
+F423.,Retinal vasc. occlusion
+F4231,Central retinal artery occlus.
+F423100,Central retinal artery occlus.
+F4238,Central retinal vein occlusion
+F423800,Central retinal vein occlusion
+F423811,THROMBOSIS RETINAL VEIN
+F4239,Retinal venous branch occlusion
+F423900,Retinal venous branch occlus.
+F423z,Retinal vascular occlusion NOS
+F423z00,Retinal vascular occlusion NOS
+G....,Arteriovenious Disorders
+G30..,Thrombosis - coronary
+G6...,Cerebrovascular disease
+G63y000,Cerebral infarct due to thrombosis of precerebral arteries
+G64..,Cerebral arterial occlusion
+G640.,Thrombosis - cerebral venous sinus
+G6400,Cerebral infarction due to thrombosis of cerebral arteries
+G641.,Cerebral embolism
+G641000,Cerebral infarction due to embolism of cerebral arteries
+G64z.,Cerebral infarction NOS
+G66..,Cerebrovascular Disease - 2 x CVA (2005 & 2006)*
+G67..,Other cerebrovascular disease
+G674.,Cerebral arteritis
+G677000,Occlusion and stenosis of middle cerebral artery
+G679.,Small vessel cerebrovascular disease
+G67y.,Other cerebrovascular disease OS
+G67z.,Other cerebrovascular disease NOS
+G6z..,Cerebrovascular disease NOS
+G7...,Arterial disease left subclavian stenosis
+G70z.,Arteriosclerotic vascular disease NOS
+G71..,ATHEROSCLEROTIC OCCLUSIVE DISEASE
+G710.,Dissecting aortic aneurysm
+G711.,Thoracic aortic aneurysm which has ruptured
+G711.00,Thoracic aortic aneurysm which has ruptured
+G711.11,Ruptured thoracic aortic aneurysm
+G712.,Thoracic aortic aneurysm without mention of rupture
+G712.00,Thoracic aortic aneurysm without mention of rupture
+G713.,Abdominal aortic aneurysm which has ruptured
+G713.00,Abdominal aortic aneurysm which has ruptured
+G713.11,Ruptured abdominal aortic aneurysm
+G713000,Ruptured suprarenal aortic aneurysm
+G714.,Abdominal aortic aneurysm without mention of rupture
+G714.00,Abdominal aortic aneurysm without mention of rupture
+G714.11,AAA - Abdominal aortic aneurysm without mention of rupture
+G7140,Juxtarenal aortic aneurysm
+G714000,Juxtarenal aortic aneurysm
+G7142,Infrarenal abdominal aortic aneurysm
+G714200,Infrarenal abdominal aortic aneurysm
+G715.,Ruptured aortic aneurysm NOS
+G715.00,Ruptured aortic aneurysm NOS
+G715000,Thoracoabdominal aortic aneurysm; ruptured
+G716.,Thoracoabdominal aortic aneurysm; without mention of rupture
+G716000,Thoracoabdominal aortic aneurysm; without mention of rupture
+G718.,Leaking abdominal aortic aneurysm
+G718.00,Leaking abdominal aortic aneurysm
+G71z.,Aortic aneurysm NOS
+G72..,Aneurysm of internal iliac artery
+G720.00,Aneurysm of artery of arm
+G720000,Aneurysm of brachial artery
+G720100,Aneurysm of radial artery
+G720200,Aneurysm of ulnar artery
+G720z00,Aneurysm of arm artery NOS
+G721.,Aneurysm of external iliac artery
+G722.,Aneurysm of internal iliac artery
+G722.00,Aneurysm of iliac artery
+G722000,Aneurysm of common iliac artery
+G722100,Aneurysm of external iliac artery
+G722200,Aneurysm of internal iliac artery
+G722z00,Aneurysm of iliac artery NOS
+G723.00,Aneurysm of leg artery
+G723000,Aneurysm of femoral artery
+G723100,Aneurysm of popliteal artery
+G723200,Aneurysm of anterior tibial artery
+G723300,Aneurysm of dorsalis pedis artery
+G723400,Aneurysm of posterior tibial artery
+G723500,Ruptured popliteal artery aneurysm
+G723600,Post radiological femoral false aneurysm
+G723z00,Aneurysm of leg artery NOS
+G72y000,Aneurysm of common carotid art
+G72y400,Aneurysm of subclavian artery
+G72y500,Aneurysm of splenic artery
+G72y600,Aneurysm of axillary artery
+G72y700,Aneurysm of coeliac artery
+G72y800,Aneurysm of superior mesenteric artery
+G72y900,Aneurysm of inferior mesenteric artery
+G72yA00,Aneurysm of hepatic artery
+G72z.,Aneurysm of iliac artery NOS
+G73,Other peripheral vascular disease
+G73..,Other peripheral vascular disease
+G73..00,Other peripheral vascular disease
+G73..11,Peripheral ischaemic vascular disease
+G73..12,Ischaemia of legs
+G73..13,Peripheral ischaemia
+G730.,Raynaud's phenomenon
+G7300,Raynaud's phenomenon
+G73000,Raynaud's phenomenon
+G730100,Raynaud's phenomenon
+G730111,Raynaud's phenomenon
+G730z,Raynaud's syndrome NOS
+G731.00,Thromboangiitis obliterans
+G7310,Buerger's disease
+G731000,Buerger's disease
+G732.,Peripheral gangrene
+G7320,Gangrene of toe
+G732000,Gangrene of toe
+G7321,Gangrene of foot
+G732100,Gangrene of foot
+G733.,Ischaemic foot
+G734.,Peripheral arterial disease
+G735.,HAVS - Hand-arm vibration syndrome
+G73y.,Other specified peripheral vascular disease
+G73y.00,Other specified peripheral vascular disease
+G73y000,Diabetic peripheral angiopathy
+G73y200,Acrocyanosis
+G73y600,PARAESTHESIA CIRCULATORY
+G73y700,Erythrocyanosis
+G73y800,Erythromelalgia
+G73yz00,Other specified peripheral vascular disease NOS
+G73z.,MSG:Peripheral vascular disease NOS
+G73z.00,Peripheral vascular disease NOS
+G73z0,Claudication
+G73z000,Peripheral Arterial Disease Quality Indicators v24.0.00
+G73z011,Claudication
+G73zz,Peripheral vasc.disease NOS
+G73zz00,MSG:Peripheral vascular disease NOS
+G74..,Arterial embol/throm occlusion
+G740.,Aortic bifurcation syndrome
+G7420,Embolism and thrombosis of the brachial artery
+G742000,Embolism and thrombosis of the brachial artery
+G742100,Embolism and thrombosis of the radial artery
+G742200,Embolism and thrombosis of the ulnar artery
+G7424,Embolism and thrombosis of the femoral artery
+G742400,Embolism and thrombosis of the femoral artery
+G7425,Embolism and thrombosis of the popliteal artery
+G742500,Embolism and thrombosis of the popliteal artery
+G7429,Embolism and thrombosis of a leg artery NOS
+G742z00,Peripheral arterial embolism
+G74y300,Embolus/thromb iliac art.unsp
+G74y500,Embolism and thrombosis of the subclavian artery
+G74y700,AXILLARY VEIN THROMBOSIS
+G74yz00,Embolism and thrombosis of other arteries NOS
+G74z.,EMBOLISM ARTERY
+G750.,POLYARTERITIS
+G752.,Hypersensitivity angiitis
+G755.,Giant cell arteritis
+G7550,Cranial arteritis
+G755000,Cranial arteritis
+G7551,Temporal arteritis
+G755100,MSG:Temporal arteritis
+G758.,Churg-Strauss vasculitis
+G75A.,Microscopic polyangiitis
+G760.,Acquired arteriovenous fistula
+G761.,ARTERIAL INSUFFICIENCY
+G763.,Hyperplasia of renal artery
+G766.,Aortitis
+G768100,Arterial fibromuscular dysplasia
+G76A.,Arterial insufficiency
+G76B.,LEUCOCYTOPLASTIC VASCULITIS
+G76z0,Iliac artery occlusion
+G76z000,Iliac artery occlusion
+G76z1,Femoral artery occlusion
+G76z100,Femoral artery occlusion
+G76z2,Popliteal artery occlusion
+G76z200,Popliteal artery occlusion
+G770.,Hereditary haemorrhagic telangiectasia
+G7710,Spider naevus
+G771000,ANGIOMA SPIDER
+G7712,Campbell de Morgan's spots
+G771200,Campbell de Morgan's spots
+G7713,Telangiectasia
+G771300,Telangiectasia
+G77z.,Telangiectasia
+G77z000,Capillary haemorrhage
+G77z3,Capillaritis
+G77z300,Capillaritis
+G78..,Occlusion of artery
+G8...,Lymphatic disease lymphoedema
+G80..,MSG:Phlebitis and thrombophlebitis
+G800.,MSG:Superficial vessel phlebitis and/or thrombophlebitis of
+G8000,Phlebitis of the long saphenous vein
+G8002,Phlebitis of a superficial leg vein NOS
+G8003,Thrombophlebitis of the long saphenous vein
+G800300,Thrombophlebitis of the long saphenous vein
+G8005,Thrombophlebitis of a superficial leg vein NOS
+G800500,Thrombophlebitis of a superficial leg vein NOS
+G800z,Superficial phlebitis and thrombophlebitis of the leg NOS
+G800z00,Superficial phlebitis and thrombophlebitis of the leg NOS
+G801.,? dvt venogram nad
+G8011,Phlebitis of popliteal vein
+G8012,Phlebitis of the anterior tibial vein
+G801500,Deep vein phlebitis of the leg unspecified
+G801600,Thrombophlebitis of the femoral vein
+G801B00,Deep vein thrombophlebitis of the leg unspecified
+G801D,Deep vein thrombosis of lower limb
+G801D00,Deep vein thrombosis of lower limb
+G801H00,Unprovoked deep vein thrombosis
+G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS
+G802.,Phlebitis and thrombophlebitis of the leg NOS
+G8020,Thrombosis of vein of leg
+G802000,Thrombosis of vein of leg
+G80y9,Thrombophlebitis of the breast - Mondor's disease
+G80y911,Mondor's disease
+G80yz,Other phlebitis and thrombophlebitis NOS
+G80yz00,Other phlebitis and thrombophlebitis NOS
+G80z.,Phlebitis and thrombophlebitis NOS
+G80z0,Phlebitis NOS
+G80z000,PHLEBITIS
+G80z1,Thrombophlebitis NOS
+G80z100,SUPERFICIAL THROMBOPHLEBITIS
+G81..,Portal vein thrombosis
+G82..,Other venous embolism and thrombosis
+G821.,Thrombophlebitis migrans
+G824.,Axillary vein thrombosis
+G82z000,Embolus of vein NOS
+G82z1,Thrombosis of vein NOS
+G82z100,THROMBOSED VEIN
+G82zz00,THROMBOSIS
+G83..,Bilateral varicose veins of the legs
+G830.,Varicose vein leg with ulcer
+G831.,Varicose vein leg with eczema
+G832.,Varicose veins of the leg with ulcer and eczema
+G833.,Varicose veins of the leg with rupture
+G834.,Varicose veins of leg without mention of complications
+G8340,Varicose veins of leg with long saphenous vein distribution
+G834000,Varicose veins of leg with long saphenous vein distribution
+G836.,Varicose vein leg phlebitis
+G83z.,VARICOSE VEINS
+G85..,Other varicose veins
+G8y3.,Chronic peripheral venous hypertension
+G8yy0,Chronic venous insuffic.NOS
+G8yy000,Chronic venous insuffic.NOS
+G9...,Vascular calcification
+Gyu6.,[X]Cerebrovascular diseases
+Gyu7400,[X]Other specified peripheral vascular diseases
+J42..,Vascular insufficiency of the intestine
+J577.,Vascular disorders of intestine
+K138.,OCCLUSION RENAL ARTERY
+L413.,Antenatal deep vein thrombosis
+PH31.,Vascular naevus
+SB43.,Saphenous vein injury
+SP120,Phlebitis as a complication of care
+SP122,Post operative deep vein thrombosis
+SP12200,Post operative deep vein thrombosis
+SP32000,Phlebitis after infusion
