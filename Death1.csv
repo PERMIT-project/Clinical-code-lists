@@ -1,0 +1,75 @@
+ReadCode	Rubric
+R213.	[D]Unattended death
+ZV680	[V]Issue of death certificate
+ZV68011	[V]Issue of death certificate
+94B..	Cause of death
+EGTON2	Cause of Death
+EMIS2	Cause of Death
+94B..	Cause of death - Bronchopneumonia/emphysema/Fracture neck fe
+R2y10	Cause of Death- [D]Cardiorespiratory failure
+R200.	Cause of Death- [D]Old age
+BB5D1	Cause of Death- [M]Cholangiocarcinoma
+G30..	Cause of Death- Acute myocardial infarction
+9....	Cause of Death- Administration
+EGTON2H33	Cause of Death- Bronchopneumonia
+B8...	Cause of Death- Carcinoma in situ
+H06z0	Cause of Death- Chest infection NOS
+G580.	Cause of Death- Congestive heart failure
+J....	Cause of Death- Digestive system diseases
+G710.	Cause of Death- Dissecting aortic aneurysm
+B590.	Cause of Death- Disseminated malignancy NOS
+X....	Cause of Death- Illness and disease
+G3z..	Cause of Death- Ischaemic heart disease NOS
+G581.	Cause of Death- Left ventricular failure
+H260.	Cause of Death- Lobar pneumon-unspec organism
+H06z1	Cause of Death- Lower resp tract infection
+B10z.	Cause of Death- Malig neop oesophagus NOS
+B2...	Cause of Death- Malig neop resp/intrath. organ
+B17..	Cause of Death- Malignant neoplasm of pancreas
+B630.	Cause of Death- Multiple myeloma
+2229.	Cause of Death- O/E - senile - old age
+SP131	Cause of Death- Other asp.pneumonia after care
+H2z..	Cause of Death- Pneumonia or influenza NOS
+H541z	Cause of Death- Pulmonary oedema NOS
+H59..	Cause of Death- Respiratory failure
+A38z.	Cause of Death- Septicaemia NOS
+Z....	Cause of Death- Unspecified conditions
+H20..	Cause of Death- Viral pneumonia
+94E..	Date of death
+9491	DEATH
+22J..	Death
+94Z1.	DEATH
+94Z4.	DEATH
+94ZB.	DEATH
+22J8.	Death - cause unknown
+94...	Death administration
+94Z..	Death administration NOS
+9412.	Death cert. Med A signed
+941..	Death certificate form Med A
+8HG..	Death in hospital
+9451	Death notif. from hospital
+946..	Death notif.- non.hosp source
+9234	FP22-death
+945..	Hospital death discharge notif
+22J..	O/E - dead
+22J2.	O/E - dead - expected
+22J4.	O/E - dead - sudden death
+94F..	Unexpected death
+R213	[D]Unattended death
+R200	Cause of Death- [D]Old age
+G580	Cause of Death- Congestive heart failure
+G710	Cause of Death- Dissecting aortic aneurysm
+B590	Cause of Death- Disseminated malignancy NOS
+G581	Cause of Death- Left ventricular failure
+H260	Cause of Death- Lobar pneumon-unspec organism
+B10z	Cause of Death- Malig neop oesophagus NOS
+B630	Cause of Death- Multiple myeloma
+2229	Cause of Death- O/E - senile - old age
+A38z	Cause of Death- Septicaemia NOS
+94Z1	DEATH
+94Z4	DEATH
+94ZB	DEATH
+22J8	Death - cause unknown
+9412	Death cert. Med A signed
+22J2	O/E - dead - expected
+22J4	O/E - dead - sudden death
