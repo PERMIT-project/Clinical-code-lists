@@ -1,6 +1,6 @@
 # Clinical-code-lists
 
-The following clinical code lists provide two columns. 
+The following clinical code lists currently remain under development. Each provides two columns of codes with descriptions. 
 
 Medcodes includes clinical codes proprietary to CPRD, updated as of May 2018. 
 
