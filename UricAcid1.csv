@@ -1,0 +1,32 @@
+Medcode,ReadCode,Value,Rubric
+849,44K..,1,Blood urate
+849,44K.,1,Blood urate
+849,44K,1,Blood urate
+14056,44K5.,1,Serum urate level
+14056,44K5,1,Serum urate level
+34568,44K6.,1,Plasma urate level
+34568,44K6,1,Plasma urate level
+27041,44KZ.,1,Blood urate NOS
+27041,44KZ,1,Blood urate NOS
+3609,44K..11,1,Serum uric acid
+14056,44K5.00,1,Serum urate level
+34568,44K6.00,1,Plasma urate level
+849,44K..00,1,Blood urate
+27041,44KZ.00,1,Blood urate NOS
+29561,44K..11,1,Pre-treatment uric acid level
+38210,4I3M.00,1,Fluid sample uric acid level
+20000,44K1.00,1,Blood urate normal
+13620,44K2.00,1,Blood urate raised
+41640,44K3.00,1,Blood urate level borderline
+4176,44K4.00,1,Blood urate abnormal
+14056,44K5.00,1,Serum urate level
+27041,44KZ.00,1,Blood urate NOS
+100969,4Q66.00,1,Urate level
+38210,4I3M.,1,Fluid sample uric acid level
+20000,44K1.,1,Blood urate normal
+13620,44K2.,1,Blood urate raised
+41640,44K3.,1,Blood urate level borderline
+4176,44K4.,1,Blood urate abnormal
+14056,44K5.,1,Serum urate level
+27041,44KZ.,1,Blood urate NOS
+100969,4Q66.,1,Urate level
