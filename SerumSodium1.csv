@@ -1,0 +1,6 @@
+Medcode,ReadCode,Value,Rubric
+9,44I5.00,1,Serum sodium
+9,44I5.,1,Serum sodium
+9,44I5,1,Serum sodium
+26935,44I5000,1,Serum sodium level normal
+26934,44I5100,1,Serum sodium level abnormal
