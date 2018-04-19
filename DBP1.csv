@@ -1,0 +1,37 @@
+Medcode,ReadCode,Value,Rubric
+22595,246A,1,O/E - Diastolic BP reading
+22595,246A.,1,O/E - Diastolic BP reading
+22595,246A.00,1,O/E - Diastolic BP reading
+43547,246a.,1,Average night interval diastolic blood pressure
+43547,246a.00,1,Average night interval diastolic blood pressure
+31305,246c.00,1,Average home diastolic blood pressure
+31305,246c,1,Average home diastolic blood pressure
+31305,246c.,1,Average home diastolic blood pressure
+14640,246C.00,1,Lying blood pressure reading
+14640,246C.,1,Lying blood pressure reading
+14642,246E.00,1,Sitting blood pressure reading
+14642,246E.,1,Sitting blood pressure reading
+48008,246f.00,1,Ambulatory diastolic blood pressure
+48008,246f,1,Ambulatory diastolic blood pressure
+48008,246f.,1,Ambulatory diastolic blood pressure
+37243,246P.00,1,Standing diastolic blood pressure
+42280,246R.00,1,Sitting diastolic blood pressure
+42280,246R,1,Sitting diastolic blood pressure
+42280,246R.,1,Sitting diastolic blood pressure
+103,246V.00,1,Average 24 hour diastolic blood pressure
+103,246V,1,Average 24 hour diastolic blood pressure
+103,246V.,1,Average 24 hour diastolic blood pressure
+41445,246X.00,1,Average day interval diastolic blood pressure
+41445,246X.,1,Average day interval diastolic blood pressure
+1,246..,1,O/E - blood pressure reading
+1,246..00,1,O/E - blood pressure reading
+57,246..11,1,O/E - BP reading
+100,246..12,1,O/E - blood pressure
+94807,246g.00,1,Self measured blood pressure reading
+94807,246g.,1,Self measured blood pressure reading
+65990,246T.00,1,Lying diastolic blood pressure
+65990,246T.,1,Lying diastolic blood pressure
+27272,246Z.00,1,O/E-blood pressure reading NOS
+14641,246D.00,1,Standing blood pressure reading
+14641,246D.,1,Standing blood pressure reading
+27272,246Z.,1,O/E-blood pressure reading NOS
