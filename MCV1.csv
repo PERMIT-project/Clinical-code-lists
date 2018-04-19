@@ -1,0 +1,17 @@
+Medcode	ReadCode	Value	Rubric
+10	42A..	1	Mean corpuscular volume (MCV)
+10	42A	1	Mean corpuscular volume (MCV)
+10	42A..00	1	Mean corpuscular volume (MCV)
+10	42A.	1	Mean corpuscular volume (MCV)
+26921	42A1.00	1	MCV - normal
+41160	42A2.00	1	MCV - borderline raised
+2480	42A3.00	1	MCV - raised
+26922	42A4.00	1	MCV - low
+52874	42A5.00	1	MCV - borderline low
+26920	42AZ.00	1	MCV - NOS
+26921	42A1.	1	MCV - normal
+41160	42A2.	1	MCV - borderline raised
+2480	42A3.	1	MCV - raised
+26922	42A4.	1	MCV - low
+52874	42A5.	1	MCV - borderline low
+26920	42AZ.	1	MCV - NOS
