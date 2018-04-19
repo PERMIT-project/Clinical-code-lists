@@ -1,0 +1,46 @@
+Medcode,ReadCode,Value,Rubric
+4,423,1,Haemoglobin estimation
+4,423.,1,Haemoglobin estimation
+4,423..,1,Haemoglobin estimation
+4,423..00,1,Haemoglobin estimation
+10404,423..11,1,Hb estimation
+26912,423Z.00,1,Haemoglobin estimation NOS
+26912,423Z.,1,Haemoglobin estimation NOS
+26912,423Z.,1,Haemoglobin estimation NOS
+96968,42W5.00,1,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+96968,42W5.,1,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+4,OXL2859G,1,Glycosylated Haemoglobin Test /ox
+107654,44N1000,1,Haemoglobin electrophoresis normal
+13755,4233.,1,Haemoglobin - sample sent
+13755,4233.00,1,Haemoglobin - sample sent
+26908,423B.00,1,Haemoglobin abnormal
+26908,423B.,1,Haemoglobin abnormal
+27169,42V8.00,1,Haemoglobin alkaline electrophoresis
+27169,42V8.,1,Haemoglobin alkaline electrophoresis
+41531,423A.,1,Haemoglobin very high
+41531,423A.00,1,Haemoglobin very high
+33284,4232.,1,Haemoglobin requested
+33284,4232.00,1,Haemoglobin requested
+3942,423B.00,1,Haemoglobin low
+3942,423B.,1,Haemoglobin low
+26910,4236.,1,Haemoglobin borderline low
+26272,4238.,1,Haemoglobin borderline high
+26910,4236.00,1,Haemoglobin borderline low
+26272,4238.00,1,Haemoglobin borderline high
+26909,423..,1,Haemoglobin normal
+26909,4237.,1,Haemoglobin normal
+33284,4232.,1,Haemoglobin requested
+35749,4234.,1,Haemoglobin very low
+26913,4239.,1,Haemoglobin high
+39601,4231.,1,Haemoglobin not estimated
+26909,4237.00,1,Haemoglobin normal
+33284,4232.00,1,Haemoglobin requested
+35749,4234.00,1,Haemoglobin very low
+26913,4239.00,1,Haemoglobin high
+39601,4231.00,1,Haemoglobin not estimated
+739,D21z.00,1,Anaemia not specified
+739,D21z.,1,Anaemia not specified
+13596,4241.,1,Full blood count normal
+13596,4241.00,1,Full blood count normal
+13,424..,1,Full blood count
+13,424..00,1,Full blood count
