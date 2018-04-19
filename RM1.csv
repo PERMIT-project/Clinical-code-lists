@@ -1,0 +1,62 @@
+Medcode,ReadCode,Value,Rubric
+43703,BBL72,1,[M]Epithelial nephroblastoma
+100371,BBL7200,1,[M]Epithelial nephroblastoma
+15419,BB5a012,1,[M]Hypernephroma
+43703,BBL73,1,[M]Mesenchymal nephroblastoma
+105862,BBL7300,1,[M]Mesenchymal nephroblastoma
+43703,BBL70,1,[M]Mesoblastic nephroma
+54594,BBL7000,1,[M]Mesoblastic nephroma
+71161,BBL7,1,[M]Mixed and stromal renal neoplasms
+71161,BBL7.,1,[M]Mixed and stromal renal neoplasms
+71161,BBL7.00,1,[M]Mixed and stromal renal neoplasms
+43703,BBL71,1,[M]Nephroblastoma NOS
+21681,BBL7100,1,[M]Nephroblastoma NOS
+43703,BBL7.11,1,[M]Nephromas and nephroblastomas
+8101,BB5a,1,[M]Renal adenoma and carcinoma
+8101,BB5a.,1,[M]Renal adenoma and carcinoma
+8101,BB5a.00,1,[M]Renal adenoma and carcinoma
+35467,BB5az00,1,[M]Renal adenoma or carcinoma NOS
+35467,BB5az,1,[M]Renal adenoma/ca NOS
+10668,BB5a000,1,[M]Renal cell carcinoma
+18749,BBL7z,1,[M]Renal mixed/strom. neop NOS
+17314,BBL7112,1,[M]Wilms' tumour
+12389,ZV105,1,[V]Personal history of malignant neoplasm of kidney
+12389,ZV10512,1,[V]Personal history of malignant neoplasm of kidney
+7978,B4A00,1,Hypernephroma
+7978,B4A0000,1,Hypernephroma
+13559,B4A.,1,Malig neop kid/oth urinary org
+13559,B4A..,1,Malig neop kid/oth urinary org
+1599,B4A0,1,Malig neop kidney parenchyma
+1599,B4A0.,1,Malig neop kidney parenchyma
+1599,B4A0.00,1,Malignant neoplasm of kidney parenchyma
+29462,B4A..00,1,Malig neop of kidney and other unspecified urinary organs
+13559,B4A..00,1,Malig neop of kidney and other unspecified urinary organs
+27540,B4A10,1,Malig neop renal calyces
+12389,B4A1,1,Malig neop renal pelvis
+12389,B4A1.,1,Malig neop renal pelvis
+54184,B4A1z,1,Malig neop renal pelvis NOS
+54184,B4Az.,1,Malignant neoplasm of kidney or urinary organs NOS
+1599,B4A0.,1,Malignant neoplasm of kidney parenchyma
+27540,B4A1000,1,Malignant neoplasm of renal calyces
+12389,B4A1.00,1,Malignant neoplasm of renal pelvis
+54184,B4A1z00,1,Malignant neoplasm of renal pelvis NOS
+101608,B4A1100,1,Malignant neoplasm of ureteropelvic junction
+18749,B91z100,1,Neoplasm of uncertain behaviour of kidney
+43804,B91z3,1,Neoplasm of uncertain or unknown behaviour of renal pelvis
+43804,B91z300,1,Neoplasm of uncertain or unknown behaviour of renal pelvis
+18712,B4A,1,Renal malignant neoplasm
+18712,B4A..11,1,Renal malignant neoplasm
+18712,B4A..,1,Renal malignant neoplasm
+18749,B91z1,1,Renal neoplasm of uncertain behaviour
+25940,B91z111,1,Renal neoplasm of uncertain behaviour
+1952,B580.00,1,Secondary malignant neoplasm of kidney
+1952,B580.,1,Secondary malignant neoplasm of kidney
+47683,ZV10512,1,[V]Personal history of malignant neoplasm of kidney
+28881,ZV10513,1,[V]Personal history of malignant neoplasm of kidney
+71161,BBL7.00,1,[M]Mixed and stromal renal neoplasms
+43703,BBL7.11,1,[M]Nephromas and nephroblastomas
+54594,BBL7000,1,[M]Mesoblastic nephroma
+21681,BBL7100,1,[M]Nephroblastoma NOS
+100371,BBL7200,1,[M]Epithelial nephroblastoma
+105862,BBL7300,1,[M]Mesenchymal nephroblastoma
+71161,BBL7.,1,[M]Mixed and stromal renal neoplasms
