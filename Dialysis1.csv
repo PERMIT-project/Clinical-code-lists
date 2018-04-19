@@ -1,0 +1,180 @@
+Medcode,ReadCode,Value ,Rubric
+20196,14V2,1,H/O: renal dialysis
+20196,14V2.,1,H/O: renal dialysis
+20196,14V2.00,1,H/O: renal dialysis
+44422,14V2.11,1,H/O: kidney dialysis
+2994,4I29,1,peritoneal dialysis sample
+2994,4I29.,1,peritoneal dialysis sample
+2994,4I29.00,1,peritoneal dialysis sample
+101736,4N,1,Dialysis fluid sample
+101736,4N…,1,Dialysis fluid sample
+101736,4N0..,1,Dialysis fluid sample
+101736,4N0..00,1,Dialysis fluid urea level
+86419,4N2..00,1,Dialysis fluid glucose level
+24151,7A60.00,1,arteriovenous shunt
+63063,7A60000,1,insertion of arteriovenous prosthesis
+3205,7A60100,1,creation of arteriovenous fistula nec
+28269,7A60111,1,creation of radial-cephalic fistula
+25521,7A60112,1,creation of brachial-cephalic fistula
+63190,7A60200,1,attention to arteriovenous shunt
+31478,7A60300,1,removal of infected arteriovenous shunt
+96131,7A60400,1,banding of arteriovenous fistula
+63305,7A60500,1,thrombectomy of arteriovenous fistula
+69760,7A606,1,Creation of graft fistula for dialysis
+60302,7A60600,1,creation of graft fistula for dialysis
+65398,7A60y00,1,other specified arteriovenous shunt
+58618,7A60z00,1,arteriovenous shunt nos
+7A61100,7A61100,1,repair of acquired arteriovenous fistula
+7A61111,7A61111,1,ligation of acquired arteriovenous fistula
+7A61400,7A61400,1,ligation of acquired arteriovenous fistula
+7A61900,7A61900,1,ligation of arteriovenous dialysis fistula
+7A61A00,7A61A00,1,ligation of arteriovenous dialysis graft
+31549,7L1A,1,Compensation for renal failure
+31549,7L1A.,1,Compensation for renal failure
+31549,7L1A.00,1,Compensation for renal failure
+11773,7L1A.11,1,Dialysis for renal failure
+20073,7L1A0,1,Renal dialysis
+20073,7L1A000,1,Renal dialysis
+20073,7L1A000,1,renal dialysis
+101756,7L1A011,1,Thomas intravascular shunt for dialysis
+2994,7L1A100,1,Peritoneal dialysis
+2994,7L1A1,1,Peritoneal dialysis
+47588,7L1A2,1,Haemodialysis NEC
+2996,7L1A200,1,Haemodialysis NEC
+71124,7L1A3,1,Haemofiltration
+71124,7L1A300,1,Haemofiltration
+88597,7L1A4,1,Automated peritoneal dialysis
+88597,7L1A400,1,Automated peritoneal dialysis
+30756,7L1A5,1,Cont ambulat periton dialysis
+69760,7L1A5,1,Continuous ambulatory peritoneal dialysis
+30756,7L1A5.,1,Cont ambulat periton dialysis
+30756,7L1A500,1,Continuous ambulatory peritoneal dialysis
+2994,7L1A6,1,Peritoneal dialysis NEC
+2994,7L1A6.,1,Peritoneal dialysis NEC
+64828,7L1A600,1,Peritoneal dialysis NEC
+31549,7L1A7,1,Haemoperfusion
+31549,7L1A7.,1,Haemoperfusion
+48022,7L1Ay00,1,other specified compensation for renal failure
+64636,7L1Az00,1,compensation for renal failure nos
+89452,7L1B.00,1,placement ambulatory apparatus compensation renal failure
+36442,7L1B.11,1,placement ambulatory dialysis apparatus - compens renal fail
+8037,7L1B000,1,insertion of ambulatory peritoneal dialysis catheter
+23773,7L1B100,1,removal of ambulatory peritoneal dialysis catheter
+104586,7L1B200,1,flushing of peritoneal dialysis catheter
+59194,7L1By00,1,placement ambulatory apparatus- compensate renal failure os
+83513,7L1C.00,1,placement other apparatus for compensation for renal failure
+30709,7L1C0,1,Insertion of temporary peritoneal dialysis catheter
+30709,7L1C000,1,insertion of temporary peritoneal dialysis catheter
+69760,7L1C000,1,Insertion of temporary peritoneal dialysis catheter
+107901,7L1Cy00,1,placement other apparatus- compensate for renal failure os
+65089,7L1Cz00,1,placement other apparatus- compensate for renal failure nos
+2994,7LA1,1,Peritoneal dialysis
+2994,7LA1.,1,Peritoneal dialysis
+64636,7LA1y,1,compensation for renal failure os
+64636,7LA1y.,1,compensation for renal failure os
+64636,7LA1z,1,Compensation renal failure NOS
+64636,7LA1z.,1,Compensation renal failure NOS
+20073,8DD,1,Dependence on renal dialysis
+20073,8DD.,1,Dependence on renal dialysis
+20073,8DD..,1,Dependence on renal dialysis
+20073,8DE,1,Dialysis therapy started by renal service
+20073,8DE.,1,Dialysis therapy started by renal service
+20073,8DE..,1,Dialysis therapy started by renal service
+20073,8DF,1,Dialysis therapy stop using renal service
+20073,8DF.,1,Dialysis therapy stop using renal service
+20073,8DF..,1,Dialysis therapy stop using renal service
+105760,G72C.00,1,ruptured aneurysm of dialysis vascular access
+107188,G72D.00,1,aneurysm of dialysis arteriovenous fistula
+107220,G72D100,1,aneurysm of needle site of dialysis arteriovenous fistula
+69760,G72D2,1,Aneurysm of anastomotic site of dialysis AV fistula
+105742,G72D200,1,aneurysm of anastomotic site of dialysis av fistula
+2995,G760.00,1,acquired arteriovenous fistula
+69760,Gy1..,1,Stenosis of dialysis vascular access
+107746,Gy1..00,1,stenosis of dialysis vascular access
+107746,Gy11.,1,Stenosis of dialysis arteriovenous shunt
+106720,Gy21.00,1,thrombosis of dialysis arteriovenous fistula
+108116,Gy3..00,1,occlusion of dialysis vascular access
+107082,Gy31.00,1,occlusion of dialysis arteriovenous fistula
+108213,Gy40.00,1,infection of dialysis arteriovenous graft
+107260,Gy41.00,1,infection of dialysis arteriovenous fistula
+106975,Gy51.00,1,haemorrhage of dialysis arteriovenous fistula
+108423,Gy60.00,1,rupture of dialysis arteriovenous graft
+69760,K050.,1,Modality- Haemodialysis
+48639,SP01500,1,mechanical complication of dialysis catheter
+48713,SP01700,1,mechanical complication of arterio-venous surgical fistula
+46438,SP05613,1,[x] peritoneal dialysis associated peritonitis
+30756,SP06B00,1,continuous ambulatory peritoneal dialysis associated perit
+101124,SP07G00,1,stenosis of arteriovenous dialysis fistula
+107217,SP07N00,1,arteriovenous fistula thrombosis
+107900,SP0E,1,Disorders associated with peritoneal dialysis
+107900,SP0E.,1,Disorders associated with peritoneal dialysis
+107900,SP0E.00,1,Disorders associated with peritoneal dialysis
+108785,SP0F,1,Haemodialysis first use syndrome
+108785,SP0F.,1,Haemodialysis first use syndrome
+108785,SP0F.00,1,Haemodialysis first use syndrome
+105436,SP0G,1,anaphylactoid reaction due to haemodialysis
+105436,SP0G.,1,anaphylactoid reaction due to haemodialysis
+105436,SP0G.00,1,anaphylactoid reaction due to haemodialysis
+107900,SP0H,1,Disorder associated with dialysis
+107900,SP0H.,1,Disorder associated with dialysis
+11773,SP0H0,1,Dialysis disequilibrium
+2995,TA02000,1,accid cut;puncture;perf;h'ge - kidney dialysis
+35921,TA22.00,1,failure of sterile precautions during perfusion
+69266,TA22000,1,failure of sterile precautions during kidney dialysis
+28158,TB11,1,kidney dialysis with complication
+28158,TB11.,1,kidney dialysis with complication
+28158,TB11.00,1,kidney dialysis with complication; without blame
+66714,TB11.11,1,renal dialysis with complication; without blame
+69760,u03dI.,1,Intermittent haemodialysis
+69760,u03dI.,1,Intermittent haemodialysis
+54844,U612200,1,[x]failure sterile precautions dur kidney dialys/other perf
+69760,y03dL,1,Continuous haemodialysis
+69760,y03dL.,1,Continuous haemodialysis
+69760,Y03dM,1,Continuous arteriovenous haemodialysis
+69760,Y03dM.,1,Continuous arteriovenous haemodialysis
+69760,Y03dN,1,CAVD - Continuous arteriovenous haemodialysis
+69760,Y03dN.,1,CAVD - Continuous arteriovenous haemodialysis
+69760,Y03dO,1,Continuous venovenous haemodialysis
+69760,Y03dO.,1,Continuous venovenous haemodialysis
+69760,Y03dP,1,CVVD - Continuous venovenous haemodialysis
+69760,Y03dP.,1,CVVD - Continuous venovenous haemodialysis
+69760,y03LN,1,Dialysis fluid
+69760,Y03lN.,1,Dialysis fluid
+69760,y03LO,1,Haemodialysis fluid
+69760,y03LO.,1,Haemodialysis fluid
+69760,Yayoh,1,Dialysis therapy started by renal service
+69760,Yayoh.,1,Dialysis therapy started by renal service
+69760,Yayoi,1,Dialysis therapy stopped by renal service
+69760,Yayoi.,1,Dialysis therapy stopped by renalservice
+101912,Z1A..00,1,dialysis training
+104719,Z1A1.00,1,peritoneal dialysis training
+74905,Z1A2.00,1,haemodialysis training
+69760,Z49,1,Care involving renal dialysis
+69760,Z49..,1,Care involving renal dialysis
+102210,Z49.1,1,Extracorporeal dialysis
+69760,Z49.2 ,1,Other dialysis
+60446,Z919.,1,care of haemodialysis equipment
+72336,Z919100,1,priming haemodialysis lines
+60498,Z919300,1,reversing haemodialysis lines
+63502,Z91A.00,1,peritoneal dialysis bag procedure
+63502,Z91A.00,1,peritoneal dialysis bag procedure
+69760,Z99.2,1,Dependence on renal dialysis
+22252,ZV451,1,[V]Renal dialysis status
+22252,ZV451.,1,[V]Renal dialysis status
+22252,ZV45100,1,[V]Renal dialysis status
+60743,ZV56.,1,[v]aftercare involving intermittent dialysis
+60743,ZV56.00,1,[v]aftercare involving intermittent dialysis
+99692,ZV56000,1,[v]aftercare involving extracorporeal dialysis
+46145,ZV56011,1,[v]aftercare involving renal dialysis nos
+52088,ZV56100,1,[v]preparatory care for dialysis
+63488,ZV56y00,1,[v]other specified aftercare involving intermittent dialysis
+45160,ZV56y11,1,[v]aftercare involving peritoneal dialysis
+69760,ZVu3G,1,[X]Other dialysis
+69760,ZVu3G.,1,[X]Other dialysis
+69760,ZVu3G00,1,[X]Other dialysis
+2996,7L1A200,1,Elected modality Haemodialysis NEC
+2996,7L1A2,1,Haemodialysis NEC
+2996,7L1A200,1,Haemodialysis NEC
+101912,Z1A..,1,dialysis training
+104719,Z1A1.,1,peritoneal dialysis training
+74905,Z1A2.,1,haemodialysis training
