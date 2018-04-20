@@ -15,12 +15,23 @@ Full code dictionaries can be obtained from NHS Digital and CPRD.
 The following abbreviations are used in file names and in places in final output tables:
 
 BMI: Body mass index
+
 BNP: Blood naturietic protein
+
 BUN: Blood urea nitrogen
+
 DBP: Diastolic blood pressure
+
 IHD: Ischaemic heart disease
+
 NTPROBNP: NT-pro-BNP
+
+PVD: Peripheral vascular disease
+
 RM: Renal malignancy
+
 SBP: Systolic blood pressure
+
 UAlbumin: Urine albumin
+
 UACR: Urine albumin to creatinine ratio
