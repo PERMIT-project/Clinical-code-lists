@@ -2,7 +2,7 @@
 
 The following clinical code lists currently remain under development. Each provides two columns of codes with descriptions. 
 
-Medcodes includes clinical codes proprietary to CPRD, updated as of May 2018. 
+Medcodes includes clinical codes proprietary to CPRD, which were in active use in May 2018. Please contact CPRD directly for information on more recent updates.
 
 The ReadCodes column contains a list of EMIS, OXMIS and ReadCodes V2 identified as present within the SIR extract analysed in this study. It may therefore not be exhaustive for use in other systems. 
 
