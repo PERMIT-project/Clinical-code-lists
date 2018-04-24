@@ -1,0 +1,131 @@
+Medcode,ReadCode,CLDdesc
+26367,A707.00,Chronic viral hepatitis
+24813,A707000,Chronic viral hepatitis B with delta-agent
+41096,A7071,Chronic viral hepatitis B without delta-agent
+41096,A707100,Chronic viral hepatitis B without delta-agent
+30586,A707200,Chronic viral hepatitis C
+106642,A707300,Chronic viral hepatitis B
+32277,A707X00,"Chronic viral hepatitis, unspecified"
+19512,C310400,Glycogenosis with hepatic cirrhosis
+6863,J61..,Cirrhosis and chronic liver disease
+6863,J61..00,Cirrhosis and chronic liver disease
+10691,J610.00,Alcoholic fatty liver
+3216,J611.00,Acute alcoholic hepatitis
+4743,J612.00,Alcoholic cirrhosis of liver
+68376,J612.11,Florid cirrhosis
+100474,J612.12,Laennec's cirrhosis
+21713,J612000,Alcoholic fibrosis and sclerosis of liver
+17330,J6130,Alcoholic hepatic failure
+17330,J613000,Alcoholic hepatic failure
+17330,J613000,Alcoholic hepatic failure
+1754,J614.,Chronic hepatitis
+1754,J614.00,Chronic hepatitis
+1754,J614.00,Chronic hepatitis
+23578,J614000,Chronic persistent hepatitis
+9029,J614100,Chronic active hepatitis
+7957,J614111,Autoimmune chronic active hepatitis
+1755,J614200,Chronic aggressive hepatitis
+53480,J614300,Recurrent hepatitis
+66534,J614400,Chronic lobular hepatitis
+53877,J614y00,Chronic hepatitis unspecified
+15489,J614z,Chronic hepatitis NOS
+15489,J614z00,Chronic hepatitis NOS
+15489,J614z00,Chronic hepatitis NOS
+16725,J615.,Cirrhosis - non alcoholic
+16725,J615.00,Cirrhosis - non alcoholic
+47257,J615.11,Portal cirrhosis
+69204,J615100,Multilobular portal cirrhosis
+3450,J615300,Diffuse nodular cirrhosis
+44676,J615400,Fatty portal cirrhosis
+92909,J615500,Hypertrophic portal cirrhosis
+40567,J615600,Capsular portal cirrhosis
+27438,J615700,Cardiac portal cirrhosis
+108819,J615711,Congestive cirrhosis
+96664,J615800,Juvenile portal cirrhosis
+58184,J615812,Indian childhood cirrhosis
+100253,J615C00,Xanthomatous portal cirrhosis
+73482,J615D00,Bacterial portal cirrhosis
+109540,J615G00,Zooparasitic portal cirrhosis
+48928,J615H00,Infectious cirrhosis NOS
+55454,J615y00,Portal cirrhosis unspecified
+16455,J615z,Cirrhosis of liver NOS
+16455,J615z00,Non-alcoholic cirrhosis NOS
+22841,J615z11,Macronodular cirrhosis of liver
+18739,J615z12,Cryptogenic cirrhosis of liver
+1638,J615z13,Cirrhosis Of Liver
+1638,J615z13,Cirrhosis of liver NOS
+71453,J615z15,Hepatic fibrosis
+9494,J616.00,Biliary cirrhosis
+5638,J616000,Primary biliary cirrhosis
+15424,J616100,Secondary biliary cirrhosis
+91591,J616200,Biliary cirrhosis of children
+58630,J616z00,Biliary cirrhosis NOS
+7943,J617.00,Alcoholic hepatitis
+7602,J617000,Chronic alcoholic hepatitis
+42843,J61y.00,Other non-alcoholic chronic liver disease
+10234,J61y100,Non-alcoholic fatty liver
+1780,J61y200,Hepatosplenomegaly
+40963,J61y300,Portal fibrosis without cirrhosis
+25383,J61y400,Hepatic fibrosis
+60104,J61y500,Hepatic sclerosis
+100592,J61y600,Hepatic fibrosis with hepatic sclerosis
+10572,J61y700,Steatosis of liver
+98148,J61y800,Nonalcoholic steatohepatitis
+103466,J61y900,Fatty change of liver
+103706,J61y911,Fatty liver
+33597,J61yz,Other non-alcoholic chronic liver disease NOS
+33597,J61yz00,Other non-alcoholic chronic liver disease NOS
+10539,J61z.,Chronic liver disease NOS
+10539,J61z.00,Chronic liver disease NOS
+10539,J61z.00,Chronic liver disease NOS
+31897,J62..,Liver abscess and sequelae of chronic liver disease
+31897,J62..00,Liver abscess and sequelae of chronic liver disease
+46023,J620.00,Liver abscess - excluding amoebic liver abscess
+68692,J620000,Liver abscess due to portal pyaemia
+25341,J620100,Liver abscess due to cholangitis
+103715,J620200,Liver abscess via hepatic artery
+70524,J620300,Liver abscess via umbilicus
+4454,J620z00,Liver abscess NOS
+63404,J621.00,Portal pyaemia
+46278,J621.11,Phlebitis of portal vein
+23511,J622.00,Hepatic coma
+22411,J622.11,Encephalopathy - hepatic
+5129,J623.00,Portal hypertension
+10636,J624.00,Hepatorenal syndrome
+24901,J625.00,[X] Hepatic failure
+21769,J625.11,[X] Liver failure
+48102,J62y.,Liver failure NOS
+48102,J62y.00,Other sequelae of chronic liver disease
+56070,J62y.11,Hepatic failure NOS
+23775,J62y.12,Liver failure NOS
+16062,J62y.13,Hepatic failure
+108800,J62z.00,Liver abscess and chronic liver disease causing sequelae NOS
+1640,J63..00,Other liver disorders
+31008,J630.00,Chronic passive liver congestion
+36727,J635.00,Toxic liver disease
+22766,J635000,Toxic liver disease with cholestasis
+36107,J635100,Toxic liver disease with hepatic necrosis
+41104,J635200,Toxic liver disease with acute hepatitis
+17219,J635300,Toxic liver disease with chronic persistent hepatitis
+64750,J635400,Toxic liver disease with chronic lobular hepatitis
+39351,J635500,Toxic liver disease with chronic active hepatitis
+44120,J635600,Toxic liver disease with fibrosis and cirrhosis of liver
+41673,J635X00,"Toxic liver disease, unspecified"
+64451,J636.00,Central haemorrhagic necrosis of liver
+48879,J637.00,Hepatic veno-occlusive disease
+72570,J638.00,Peliosis hepatis
+66899,J639.00,Hepatic granulomas in berylliosis
+26405,J63A.00,Hepatic granulomas in sarcoidosis
+18652,J63B.00,Autoimmune hepatitis
+27663,J63X.00,"Granulomatous hepatitis, not elsewhere classified"
+25869,J63y.00,Other specified liver disorder
+66374,J63y000,Hepatoptosis
+28798,J63y100,Nonspecific reactive hepatitis
+3256,J63y200,Liver cyst
+5037,J63yz00,Other specified liver disorder NOS
+15360,J63z.00,Liver disorder NOS
+9026,ZV427,[V]Liver transplanted
+9026,ZV42700,[V]Liver transplanted
+36194,SP14200,Hepatic failure as a complication of care
+17222,SP14211,Liver failure as a complication of care
+10721,SP14300,Hepatorenal syndrome as a complication of care
