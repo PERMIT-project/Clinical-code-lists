@@ -1,0 +1,63 @@
+Medcode,ReadCode,Value,Rubric
+3757,3272,1,ECG: atrial fibrillation
+3757,3272.,1,ECG: atrial fibrillation
+6345,14AN.,1,H/O: atrial fibrillation
+6345,14AN,1,H/O: atrial fibrillation
+2212,G573.,1,Atrial fibrillation and flutter
+2212,G573,1,Atrial fibrillation and flutter
+57832,9Os.,1,Atrial fibrillation monitoring administration
+57832,9Os,1,Atrial fibrillation monitoring administration
+1664,G573000,1,Atrial fibrillation and flutter
+1757,G573100,1,Atrial fibrillation
+2212,G5730.,1,Atrial fibrillation
+2212,G5730,1,Atrial fibrillation
+2212,G573.00,1,Atrial fibrillation and flutter
+1268,G573200,1,Paroxysmal atrial fibrillation
+1268,G5732.,1,Paroxysmal atrial fibrillation
+1268,G5732,1,Paroxysmal atrial fibrillation
+35127,G573300,1,Non-rheumatic atrial fibrillation
+35127,G5733.,1,Non-rheumatic atrial fibrillation
+35127,G5733,1,Non-rheumatic atrial fibrillation
+96277,G573400,1,Permanent atrial fibrillation
+96277,G5734.,1,Permanent atrial fibrillation
+96277,G5734,1,Permanent atrial fibrillation
+96076,G573500,1,Persistent atrial fibrillation
+96076,G5735.,1,Persistent atrial fibrillation
+96076,G5735,1,Persistent atrial fibrillation
+107472,G573600,1,Paroxysmal atrial flutter
+107472,G5736.,1,Paroxysmal atrial flutter
+107472,G5736,1,Paroxysmal atrial flutter
+107472,G573700,1,Chronic atrial fibrillation
+23437,G573z00,1,Atrial fibrillation and flutter NOS
+23437,G573z.,1,Atrial fibrillation and flutter NOS
+23437,G573z,1,Atrial fibrillation and flutter NOS
+57832,9Os,1,Atrial fibrillation monitoring administration
+57832,9Os.,1,Atrial fibrillation monitoring administration
+57832,9Os..,1,Atrial fibrillation monitoring administration
+90187,9Os0.,1,Atrial fibrillation monitoring first letter
+90187,9Os0,1,Atrial fibrillation monitoring first letter
+90188,9Os1.,1,Atrial fibrillation monitoring second letter
+90188,9Os1,1,Atrial fibrillation monitoring second letter
+90189,9Os2.,1,Atrial fibrillation monitoring third letter
+90189,9Os2,1,Atrial fibrillation monitoring third letter
+90190,9Os3.,1,Atrial fibrillation monitoring verbal invite
+90190,9Os3,1,Atrial fibrillation monitoring verbal invite
+90191,9Os4.,1,Atrial fibrillation monitoring telephone invite
+90191,9Os4,1,Atrial fibrillation monitoring telephone invite
+3757,3272.,1,ECG: atrial fibrillation
+3757,3272,1,ECG: atrial fibrillation
+6345,14AN,1,H/O: atrial fibrillation
+6345,14AN.,1,H/O: atrial fibrillation
+18746,662S,1,Atrial fibrillation monitoring
+18746,662S.,1,Atrial fibrillation monitoring
+45773,6A9..00,1,Atrial fibrillation annual review
+9479,7936A00,1,Implant intravenous pacemaker for atrial fibrillation
+105554,8CMW200,1,Atrial fibrillation care pathway
+103506,8HTy.00,1,Referral to atrial fibrillation clinic
+107936,8OAD.00,1,Provision of written information about atrial fibrillation
+57832,9Os..00,1,Atrial fibrillation monitoring administration
+90187,9Os0.00,1,Atrial fibrillation monitoring first letter
+90188,9Os1.00,1,Atrial fibrillation monitoring second letter
+90189,9Os2.00,1,Atrial fibrillation monitoring third letter
+90190,9Os3.00,1,Atrial fibrillation monitoring verbal invite
+90191,9Os4.00,1,Atrial fibrillation monitoring telephone invite
