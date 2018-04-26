@@ -14,6 +14,8 @@ Full code dictionaries can be obtained from NHS Digital and CPRD.
 
 The following abbreviations are used in file names and in places in final output tables:
 
+AF: Atrial fibrillation
+
 BMI: Body mass index
 
 BNP: Blood naturietic protein
