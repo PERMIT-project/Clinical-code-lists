@@ -1,0 +1,40 @@
+Medcode,ReadCode,Value,Rubric
+12878,137T.,0,Date ceased smoking
+12878,137T,0,Date ceased smoking
+12878,137T.00,0,Date ceased smoking
+19488,137O.,0,Ex cigar smoker
+19488,137O,0,Ex cigar smoker
+19488,137O.00,0,Ex cigar smoker
+26470,137N.,0,Ex pipe smoker
+26470,137N,0,Ex pipe smoker
+26470,137N.00,0,Ex pipe smoker
+100495,137l.,0,Ex roll-up cigarette smoker
+100495,137l,0,Ex roll-up cigarette smoker
+100495,137l.00,0,Ex roll-up cigarette smoker
+90,137S.,0,Ex smoker
+90,137S,0,Ex smoker
+90,137S.00,0,Ex smoker
+97210,137j,0,Ex-cigarette smoker
+97210,137j.00,0,Ex-cigarette smoker
+12956,137A.,0,Ex-heavy smoker (20-39/day)
+12956,137A,0,Ex-heavy smoker (20-39/day)
+12956,137A.00,0,Ex-heavy smoker (20-39/day)
+12957,1378,0,Ex-light smoker (1-9/day)
+12957,1378,0,Ex-light smoker (1-9/day)
+12955,1379,0,Ex-moderate smoker (10-19/day)
+12955,1379,0,Ex-moderate smoker (10-19/day)
+101069,137I000,0,Exposed to tobacco smoke at home
+12946,137F.,0,Ex-smoker - amount unknown
+12946,137F,0,Ex-smoker - amount unknown
+12946,137F.00,0,Ex-smoker - amount unknown
+106891,137i.00,1,Ex-tobacco chewer
+12961,1377,0,Ex-trivial smoker (<1/day)
+12961,1377,0,Ex-trivial smoker (<1/day)
+12959,137B.,0,Ex-very heavy smoker (40+/day)
+12959,137B,0,Ex-very heavy smoker (40+/day)
+12959,137B.00,0,Ex-very heavy smoker (40+/day)
+99838,137K0,0,Recently stopped smoking
+99838,137K000,0,Recently stopped smoking
+776,137K.,0,Stopped smoking
+776,137K,0,Stopped smoking
+776,137K.00,0,Stopped smoking
