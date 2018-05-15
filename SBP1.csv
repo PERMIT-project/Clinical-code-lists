@@ -1,0 +1,41 @@
+Medcode,ReadCode,Value,Rubric
+23312,2469.,1,O/E - Systolic BP reading
+23312,2469,1,O/E - Systolic BP reading
+41052,246e.0,1,Ambulatory systolic blood pressure
+18418,246Q.00,1,Sitting systolic blood pressure
+38277,246W.00,1,Average 24 hour systolic blood pressure
+34618,246Y.00,1,Average day interval systolic blood pressure
+29261,246d.00,1,Average home systolic blood pressure
+38278,246b.00,1,Average night interval systolic blood pressure
+38277,246W,1,Average 24 hour systolic blood pressure
+38277,246W.,1,Average 24 hour systolic blood pressure
+41052,246e.,1,Ambulatory systolic blood pressure
+41052,246e,1,Ambulatory systolic blood pressure
+37242,246N,1,Standing systolic blood pressure
+37243,246N.,1,Standing systolic blood pressure
+18418,246Q,1,Sitting systolic blood pressure
+18418,246Q.,1,Sitting systolic blood pressure
+29261,246d.,1,Average home systolic blood pressure
+29261,246d,1,Average home systolic blood pressure
+1,246..00,1,O/E - blood pressure reading
+57,246..11,1,O/E - BP reading
+100,246..12,1,O/E - blood pressure
+14640,246C.00,1,Lying blood pressure reading
+14641,246D.00,1,Standing blood pressure reading
+14642,246E.00,1,Sitting blood pressure reading
+41052,246e.00,1,Ambulatory systolic blood pressure
+94807,246g.00,1,Self measured blood pressure reading
+37242,246N.00,1,Standing systolic blood pressure
+37243,246P.00,1,Standing diastolic blood pressure
+18418,246Q.00,1,Sitting systolic blood pressure
+43282,246S.00,1,Lying systolic blood pressure
+38277,246W.00,1,Average 24 hour systolic blood pressure
+27272,246Z.00,1,O/E-blood pressure reading NOS
+14640,246C.,1,Lying blood pressure reading
+14641,246D.,1,Standing blood pressure reading
+14642,246E.,1,Sitting blood pressure reading
+94807,246g.,1,Self measured blood pressure reading
+37243,246P.,1,Standing diastolic blood pressure
+43282,246S.,1,Lying systolic blood pressure
+34618,246Y.,1,Average day interval systolic blood pressure
+27272,246Z.,1,O/E-blood pressure reading NOS
