@@ -120,6 +120,10 @@ b513.,AMILCO,Amiloride,50,ALD_ANT,
 b513.,AMILCO,Hydrochlorothiazide,5,DIUR_THI,
 b514.,DYAZIDE,Triamterene,50,ALD_ANT,
 b514.,DYAZIDE,Hydrochlorothiazide,25,DIUR_THI,
+<<<<<<< HEAD
+=======
+b514.,DYAZIDE,Hydrochlorothiazide,25,DIUR_THI,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 b516.,FRUMIL,Amiloride,5,ALD_ANT,
 b516.,FRUMIL,Furosemide,40,Loop Diuretics,
 b518.,Kalspare tablets (DHP Healthcare Ltd),Chlortalidone,50,DIUR_THI,
@@ -150,13 +154,21 @@ b51q.,Co-Flumactone 50/50  Tablets,Spironolactone,50,ALD_ANT,
 b51q.,Co-Flumactone 50/50  Tablets,Hydroflumethiazide,50,DIUR_THI,
 b51r.,NAVISPARE,Amiloride hydrochloride,0.25,ALD_ANT,
 b51r.,NAVISPARE,Cyclopenthiazide,0.25,DIUR_THI,
+<<<<<<< HEAD
 b51t.,BURINEX A,Bumetanide,5,Loop Diuretics,
 b51x.,AMILORIDE HCl + FUROSEMIDE tabs 2.5mg + 20mg,Amiloride,2.5,ALD_ANT,
 b51x.,AMILORIDE HCl + FUROSEMIDE tabs 2.5mg + 20mg,AMILORIDE,2.5,,
+=======
+b514.,DYAZIDE,Triamterene,50,ALD_ANT,
+b51t.,BURINEX A,Bumetanide,1,Loop Diuretics,
+b51x.,AMILORIDE HCl + FUROSEMIDE tabs 2.5mg + 20mg,Amiloride,2.5,ALD_ANT,
+b51x.,CO-AMILOFRUSE 2.5/20mg tablets,Furosemide,20,Loop Diuretics,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 b51y.,AMILORIDE HCl + FUROSEMIDE tabs 5mg + 40mg,Amiloride,5,ALD_ANT,
 b51y.,AMILORIDE HCl + FUROSEMIDE tabs 5mg + 40mg,Furosemide,40,Loop Diuretics,
 b51z.,Co-amilofruse 10mg/80mg tablets,Amiloride,10,ALD_ANT,
 b51z.,Co-amilofruse 10mg/80mg tablets,Furosemide,80,Loop Diuretics,
+<<<<<<< HEAD
 b51x.,AMILORIDE HCl + FUROSEMIDE tabs 2.5mg + 20mg,Furosemide,20,Loop Diuretics,
 b912.,BURINEX K,Bumetanide,NA,Loop Diuretics,
 b914.,DIUMIDE-K CONTINUS  tabs,Furosemide,40,Loop Diuretics,
@@ -165,6 +177,17 @@ b917.,LASIKAL TAB,Furosemide,20,Loop Diuretics,
 b918.,lasix+k tablets,Furosemide,NA,Loop Diuretics,
 b919.,navidrex k tablets,Cyclopenthiazide,0.5,DIUR_THI,
 b91a.,NEO-NACLEX -K tabs,Bendroflumethiazide,2.5,DIUR_THI,
+=======
+b51x.,CO-AMILOFRUSE 2.5/20mg tablets,Amiloride,2.5,ALD_ANT,
+b912.,BURINEX K,Bumetanide,0.5,Loop Diuretics,
+b914.,DIUMIDE-K CONTINUS  tabs,Furosemide,40,Loop Diuretics,
+b912.,BURINEX K,Potassium Chloride,573,NA,
+b916.,HYGROTON-K TAB,Chlortalidone,NA,DIUR_THI,
+b917.,LASIKAL TAB,Furosemide,20,Loop Diuretics,
+b918.,lasix+k tablets,Furosemide,NA,Loop Diuretics,
+b919.,navidrex k tablets,Cyclopenthiazide,0.5,DIUR_THI,
+b91a.,NEO-NACLEX -K tabs,Bendroflumethiazide,5,DIUR_THI,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 b91b.,BUMETANIDE + POTASSIUM tabs 500micrograms + 7.7mmol,Bumetanide,0.5,Loop Diuretics,
 b91c.,BENDROFLUMETHIAZIDE + POTASSIUM mr tab 2.5mg + 7.7mmol,Bendroflumethiazide,2.5,DIUR_THI,
 b91d.,Furosemide 40mg / Potassium chloride 600mg (potassium 8mm...,Furosemide,40,Loop Diuretics,
@@ -195,7 +218,10 @@ bb3w.,Verapamil 160mg tablets,Verapamil,160,ACEI,
 bb3y.,Verapamil 240mg modified-release capsules,Verapamil,240,ACEI,
 bb3z.,Verapamil 180mg modified-release capsules,Verapamil,180,ACEI,
 bd3z.,ATENIX tabs 25mg,Chlortalidone,25,DIUR_THI,
+<<<<<<< HEAD
 b91a.,NEO-NACLEX -K tabs,Potassium chloride,630,,
+=======
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 bdcu.,SOTALOL,Hydrochlorothiazide,40,DIUR_THI,
 bdcv.,SOTALOL,Hydrochlorothiazide,80,DIUR_THI,
 bdcx.,Sotalol 160mg tablets,Hydrochlorothiazide,25,DIUR_THI,
@@ -206,7 +232,11 @@ bde7.,KALTEN CAP,Hydrochlorothiazide,25,DIUR_THI,
 bdea.,MODUCREN TAB,Amiloride,2.5,ALD_ANT,
 bdea.,MODUCREN TAB,Hydrochlorothiazide,25,DIUR_THI,
 bdea.,MODUCREN TAB,Timolol,10,NA,
+<<<<<<< HEAD
 bdea.,MODUCREN TAB,Hydrochlorothiazide,NA,DIUR_THI,
+=======
+bdea.,MODUCREN TAB,Hydrochlorothiazide,25,DIUR_THI,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 bdeb.,PRESTIM,Bendroflumethiazide,2.5,DIUR_THI,
 bded.,SECADREX CALENDAR PA TAB,Hydrochlorothiazide,12.5,DIUR_THI,
 bdeg.,TENORET 50,Chlortalidone,12.5,DIUR_THI,
@@ -226,6 +256,11 @@ bdey.,ATENOLOL + AMILORIDE & HYDROCHLOROTHIAZIDE caps,Amiloride,2.5,ALD_ANT,
 bdey.,ATENOLOL + AMILORIDE & HYDROCHLOROTHIAZIDE caps,Hydrochlorothiazide,25,DIUR_THI,
 bdf7.,MONOZIDE 10 TAB 10mg,Hydrochlorothiazide,6.25,DIUR_THI,
 bdf8.,BISOPROLOL & HYDROCHLOROTHIAZIDE tabs 10mg + 6.25mg,Hydrochlorthiazide,6.25,DIUR_THI,
+<<<<<<< HEAD
+=======
+bdea.,MODUCREN TAB,Amiloride,2.5,ALD_ANT,
+bdea.,MODUCREN TAB,Timolol,10,NA,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 BETA10572BRIDL,Bendrofluazide K  Tablets  ,Bendroflumethiazide,NA,DIUR_THI,
 BETA17553NEMIS,Bendroflumethiazide  Tablets  2.5 mg,Bendroflumethiazide,2.5,DIUR_THI,
 BETA17554NEMIS,Bendroflumethiazide  Tablets  5 mg,Bendroflumethiazide,5,DIUR_THI,
@@ -396,7 +431,11 @@ bk3z.,LOSARTAN + HYDROCHLOROTHIAZIDE tabs 100mg + 25mg,Hydrochlorothiazide,12.5,
 bk4..,Valsartan 80mg tablets,Valsartan,80,ARBs,
 bk41.,Valsartan  Capsules  40 mg,Valsartan,40,ARBs,
 bk42.,DIOVAN capsules 80mg,Valsartan,80,ARBs,
+<<<<<<< HEAD
 bk43.,VALSARTAN,Valsartan,160,ARBs,Loop Diuretics
+=======
+bk43.,VALSARTAN,Valsartan,160,ARBs,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 bk44.,DIOVAN caps 40mg,Valsartan,40,ARBs,
 bk45.,Diovan  Capsules  80 mg,Valsartan,80,ARBs,
 bk46.,DIOVAN caps 160mg,Valsartan,160,ARBs,
@@ -502,12 +541,20 @@ BRTA429,Brufen  Tablets  600 mg,Ibuprofen,600,NSAID,
 BULI433,Bumetanide  Liquid  Sugar Free 1 mg/5 ml,Bumetanide,1,Loop Diuretics,
 BULI439,Burinex  Liquid  1 mg/5 ml,Bumetanide,1,Loop Diuretics,
 BUTA10569BRIDL,Bumetanide K  Tablets  ,Bumetanide,NA,Loop Diuretics,
+<<<<<<< HEAD
 BUTA10630BRIDL,Burinex A  Tablets  ,Bumetanide,NA,Loop Diuretics,
+=======
+BUTA10630BRIDL,Burinex A  Tablets  ,Bumetanide,1,Loop Diuretics,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 BUTA434,Bumetanide  Tablets  1 mg,Bumetanide,1,Loop Diuretics,
 BUTA435,Bumetanide  Tablets  5 mg,Bumetanide,5,Loop Diuretics,
 BUTA440,Burinex  Tablets  1 mg,Bumetanide,1,Loop Diuretics,
 BUTA441,Burinex  Tablets  5 mg,Bumetanide,5,Loop Diuretics,
+<<<<<<< HEAD
 BUTA442,Burinex K  Tablets  ,Bumetanide,NA,Loop Diuretics,
+=======
+BUTA442,Burinex K  Tablets  ,Bumetanide,0.5,Loop Diuretics,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 BUTA974NEMIS,Amiloride 5mg / Bumetanide 1mg tablets,Amiloride,5,ALD_ANT,
 BUTA974NEMIS,Amiloride 5mg / Bumetanide 1mg tablets,Bumetanide,1,Loop Diuretics,
 BUTA976NEMIS,Bumetanide 500microgram / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,Bumetanide,0.5,Loop Diuretics,
@@ -644,6 +691,7 @@ d625.,PRIADEL LIQ 520,Lithium Salts,520,Other nephrotoxins,
 d62w.,LITHIUM CITRATE sf liq 520mg/5ml,Lithium Salts,520,Other nephrotoxins,
 DECA4806,Demeclocycline 150mg capsules,Demeclocycline,150,Antimicrobial,
 DETA20913NEMIS,Dexibuprofen  Tablets  400 mg,Dexibuprofen,400,NSAID,
+<<<<<<< HEAD
 DETA3411,Deteclo  Tablets  ,Chlortetracycline,NA,Antimicrobial,
 DETA3411,Deteclo  Tablets  ,Demeclocyclinee,NA,Antimicrobial,
 DETA3411,Deteclo  Tablets  ,Tetracyclinee,NA,Antimicrobial,
@@ -652,6 +700,19 @@ di81.,SYNFLEX 275mg,Naproxen,275,NSAID,
 di8z.,NAPROXEN SODIUM TAB 275,Naproxen,275,NSAID,
 diaD.,ANADIN EXTRA tabs,Ibuprofen,NA,NSAID,
 dibn.,SOLPADEINE SOL TAB,Ibuprofen,NA,NSAID,
+=======
+BUTA442,Burinex K  Tablets  ,Potassium Chloride,573,NA,
+DETA3411,Deteclo  Tablets  ,Chlortetracycline,NA,Antimicrobial,
+DETA3411,Deteclo  Tablets  ,Demeclocyclinee,NA,Antimicrobial,
+DETA3411,Deteclo  Tablets  ,Tetracyclinee,NA,Antimicrobial,
+DETA50007EMIS,Dexketoprofen 25mg tablets,Dexketoprofen,25,NSAID,Loop Diuretics
+di81.,SYNFLEX 275mg,Naproxen,275,NSAID,
+di8z.,NAPROXEN SODIUM TAB 275,Naproxen,275,NSAID,
+diaD.,ANADIN EXTRA tabs,Ibuprofen,300,NSAID,
+diaD.,ANADIN EXTRA tabs,Paracetamol,200,NA,
+diaD.,ANADIN EXTRA tabs,Caffeine,45,NA,
+dibn.,SOLPADEINE SOL TAB,Paracetamol,500,NA,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 dic6.,IBUPROFEN + PSEUDOEPHEDRINE HCl tabs 200mg + 30mg,Ibuprofen,200,NSAID,
 DICA29699EMIS,Diovan  Capsules  160 mg,Valsartan,160,ARBs,
 DICA29700EMIS,Diovan  Capsules  40 mg,Valsartan,40,ARBs,
@@ -689,10 +750,20 @@ DOTA17641NEMIS,Doxycycline 20mg tablets,Doxycycline,20,NSAID,
 DOTA983,Doxycycline  Tablets  100 mg,Doxycycline,100,NSAID,
 DYTA1014,Dyazide  Tablets,Triamterene,50,ALD_ANT,
 DYTA1014,DYAZIDE,Hydrochlorothiazide,25,DIUR_THI,
+<<<<<<< HEAD
 DYTA1014,Dyazide  Tablets,Hydrochlorothiazide,NA,DIUR_THI,
 e711.,TETRACYCLINE CAP 250,Tetracycline,250,Antimicrobial,
 e712.,TETRACYCLINE 250mg,Tetracycline,250,Antimicrobial,
 e714.,ACHROMYCIN CAP 250,Tetracycline,250,Antimicrobial,
+=======
+dibn.,SOLPADEINE SOL TAB,Codeine,8,NA,
+dibn.,SOLPADEINE SOL TAB,Caffeine,30,NA,
+DYTA1014,Dyazide  Tablets,Hydrochlorothiazide,25,DIUR_THI,
+e711.,TETRACYCLINE CAP 250,Tetracycline,250,Antimicrobial,
+e712.,TETRACYCLINE 250mg,Tetracycline,250,Antimicrobial,
+e714.,ACHROMYCIN CAP 250,Tetracycline,250,Antimicrobial,
+DYTA1014,Dyazide  Tablets,Triamterene,50,ALD_ANT,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 e71c.,Deteclo  Tablets,Chlortetracycline,NA,Antimicrobial,
 e71c.,Deteclo  Tablets,Demeclocyclinee,NA,Antimicrobial,
 e71c.,Deteclo  Tablets,Tetracyclinee,NA,Antimicrobial,
@@ -707,7 +778,11 @@ e753.,NORDOX CAP 100,Doxycycline,100,NSAID,
 e754.,VIBRAMYCIN 50 caps,Doxycycline,100,NSAID,
 e755.,VIBRAMYCIN 100mg,Doxycycline,100,NSAID,
 e757.,VIBRAMYCIN D disp tab 100mg,Doxycycline,100,NSAID,
+<<<<<<< HEAD
 e758.,DOXYCYCLINE,Doxycycline,NA,NSAID,
+=======
+e758.,DOXYCYCLINE,Doxycycline,100,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 e75s.,Doxycycline 40mg modified-release capsules,Doxycycline,40,NSAID,
 e75t.,Doxycycline 20mg tablets,Doxycycline,20,NSAID,
 e75v.,DOXYCYCLINE HYCLATE tabs 100mg,Doxycycline,100,NSAID,
@@ -717,7 +792,11 @@ e762.,TETRALYSAL 300 caps,Lymecycline,300,Antimicrobial,
 e771.,MINOCIN 50mg,Minocycline,50,Antimicrobial,
 e772.,MINOCIN TAB 100,Minocycline,100,Antimicrobial,
 e773.,Minocycline  M/R Capsules  100 mg,Minocycline,100,Antimicrobial,
+<<<<<<< HEAD
 e774.,MINOCIN,Minocycline,NA,Antimicrobial,
+=======
+e774.,MINOCIN,Minocycline,100,Antimicrobial,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 e777.,AKNEMIN caps 100mg,Minocycline,100,Antimicrobial,
 e77w.,Minocycline 50mg capsules,Minocycline,50,Antimicrobial,
 e77x.,MINOCYCLINE 100MG,Minocycline,100,Antimicrobial,
@@ -821,7 +900,11 @@ FETA13653NEMIS,Fenactol  Tablets  25 mg,Diclofenac,25,NSAID,
 FETA13655NEMIS,Fenactol  Gastro-Resistant Tablets  50 mg,Diclofenac,50,NSAID,
 FETA22463EMIS,Feldene Melt  Orodispersible Tablets  20 mg,Piroxicam,20,NSAID,
 FLCA10333BRIDL,Flurbiprofen Sr  Capsules  200 mg,Flurbiprofen,200,NSAID,
+<<<<<<< HEAD
 FLLO1529NEMIS,Flurbiprofen  Lozenges  8.75 mg,Flurbiprofen,NA,NSAID,
+=======
+FLLO1529NEMIS,Flurbiprofen  Lozenges  8.75 mg,Flurbiprofen,8.75,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 FLM/26557EMIS,Flamrase SR 100mg tablets (Teva UK Ltd),Diclofenac,100,NSAID,
 FLTA1216,Flurbiprofen 100mg tablets,Flurbiprofen,100,NSAID,
 FLTA8363EGTON,Flexin Continus  M/R tablets  75 mg,Indometacin,75,NSAID,
@@ -857,7 +940,11 @@ GOCA23759EMIS,Gopten  Capsules  1 mg,Trandolapril,1,ACEI,
 GOCA23760EMIS,Gopten  Capsules  2 mg,Trandolapril,2,ACEI,
 GOCA23761EMIS,Gopten  Capsules  500 micrograms,Trandolapril,0.5,ACEI,
 h24B.,METHOTREXATE inj 20mg/2ml,Methotrexate,20,Immunosuppressants,
+<<<<<<< HEAD
 h341.,METHOTREXATE,Methotrexate,NA,Immunosuppressants,
+=======
+h341.,METHOTREXATE,Methotrexate,2.5,Immunosuppressants,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 h342.,METHOTREXATE 10mg,Methotrexate,10,Immunosuppressants,
 h344.,Methotrexate 5mg/2ml solution for injection vials,Methotrexate,15,Immunosuppressants,
 h34b.,METHOTREXATE 25MG/1M INJ,Methotrexate,25,Immunosuppressants,
@@ -869,7 +956,11 @@ h827.,CICLOSPORIN caps 100mg,Ciclosporin,100,Immunosuppressants,
 h829.,CICLOSPORIN caps 50mg,Ciclosporin,50,Immunosuppressants,
 h82A.,NEORAL 25MG,Ciclosporin,25,Immunosuppressants,
 h82B.,Neoral 50mg capsules (Novartis Pharmaceuticals UK Ltd),Ciclosporin,50,Immunosuppressants,
+<<<<<<< HEAD
 h82C.,NEORAL,Ciclosporin,NA,Immunosuppressants,
+=======
+h82C.,NEORAL,Ciclosporin,100,Immunosuppressants,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 h82x.,CICLOSPORIN oral soln 100mg/ml,Ciclosporin,20,Immunosuppressants,
 h831.,Tacrolimus 1mg capsules,Tacrolimus,1,Immunosuppressants,
 h832.,TACROLIMUS 5mg capsules,Tacrolimus,5,Immunosuppressants,
@@ -919,7 +1010,11 @@ INCA6932,Indomethacin  Capsules  50 mg,Indometacin,50,NSAID,
 INM/17691NEMIS,Indometacin 25mg modified-release tablets,Indometacin,25,NSAID,
 INM/17693NEMIS,Indometacin 75mg modified-release tablets,Indometacin,75,NSAID,
 INM/17695NEMIS,Indometacin  M/R Capsules  75 mg,Indometacin,75,NSAID,
+<<<<<<< HEAD
 INM/30012EMIS,Indapamide  M/R Tablets  1.5 mg,Indapamide,2.5m1.5g,DIUR_THI,
+=======
+INM/30012EMIS,Indapamide  M/R Tablets  1.5 mg,Indapamide,1.5,DIUR_THI,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 INS/9570EMIS,Indomethacin  M/R Tablets  25 mg,Indometacin,25,NSAID,
 INS/9572EMIS,Indomethacin  M/R Tablets  75 mg,Indometacin,75,NSAID,
 INSL10307BRIDL,Indomethacin  M/R Capsules  25 mg,Indometacin,25,NSAID,
@@ -942,6 +1037,7 @@ IRTA31577EMIS,Irbesartan  Tablets  300 mg,Irbesartan,300,ARBs,
 IRTA31578EMIS,Irbesartan  Tablets  75 mg,Irbesartan,75,ARBs,
 j22..,DICLOFENAC SODIUM ec tab 50mg,Diclofenac,50,NSAID,
 j221.,voltarol 25mg tablets,Diclofenac,25,NSAID,
+<<<<<<< HEAD
 j222.,VOLTAROL,Diclofenac,NA,NSAID,
 j223.,VOLTAROL inj 25mg/ml,Diclofenac,25,NSAID,
 j226.,Voltarol Retard  M/R Tablets  100 mg,Diclofenac,100,NSAID,
@@ -951,12 +1047,24 @@ j22B.,Motifene 75mg modified-release capsules (Daiichi Sankyo U...,Diclofenac,75
 j22C.,DICLOFENAC,Diclofenac,NA,NSAID,
 j22d.,DICLOFENAC 25mg e/c tablets,Diclofenac,25,NSAID,
 j22e.,DICLOFENAC,Diclofenac,NA,NSAID,
+=======
+j222.,VOLTAROL,Diclofenac,50,NSAID,
+j223.,VOLTAROL inj 25mg/ml,Diclofenac,25,NSAID,
+j226.,Voltarol Retard  M/R Tablets  100 mg,Diclofenac,100,NSAID,
+j229.,DICLOFENAC SODIUM inj 75mg/3ml,Diclofenac,75,NSAID,
+j22a.,DICLOFENAC,Diclofenac,100,NSAID,
+j22B.,Motifene 75mg modified-release capsules (Daiichi Sankyo U...,Diclofenac,75,NSAID,
+j22C.,DICLOFENAC,Diclofenac,75,NSAID,
+j22d.,DICLOFENAC 25mg e/c tablets,Diclofenac,25,NSAID,
+j22e.,DICLOFENAC,Diclofenac,50,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j22f.,VOLRAMAN TAB 25,Diclofenac,25,NSAID,
 j22H.,DICLOFENAC modified release capsule 75mg,Diclofenac,75,NSAID,
 j22i.,Diclofenac 50mg dispersible tablets sugar free,Diclofenac,50,NSAID,
 j22J.,DICLOFENAC 50mg tabs e/c,Diclofenac,50,NSAID,
 j22K.,DICLOFLEX RETARD TABS 100mg,Diclofenac,100,NSAID,
 j22n.,Voltarol 75 Mg Sr  M/R Tablets  75 mg,Diclofenac,75,NSAID,
+<<<<<<< HEAD
 j22o.,ARTHROTEC,Diclofenac,NA,NSAID,
 j22p.,ARTHROTEC tablets 50mg+200mcg,Diclofenac,50,NSAID,
 j22q.,DICLOFENAC modified release capsule 100mg,Diclofenac,100,NSAID,
@@ -965,6 +1073,17 @@ j22t.,DICLOF+MISOPROS 75/0.2mg tabs,Diclofenac,75,NSAID,
 j22u.,DICLOFENAC,Diclofenac,NA,NSAID,
 j22v.,DICLOFENAC 50mg tabs e/c,Diclofenac,50,NSAID,
 j22y.,DICLOFENAC,Diclofenac,NA,NSAID,
+=======
+j22o.,ARTHROTEC,Diclofenac,50,NSAID,
+j22p.,ARTHROTEC tablets 50mg+200mcg,Diclofenac,50,NSAID,
+j22q.,DICLOFENAC modified release capsule 100mg,Diclofenac,100,NSAID,
+j22o.,ARTHROTEC,Misoprostol,2,NA,
+j22R.,DICLOFENAC,Diclofenac,75,NSAID,
+j22t.,DICLOF+MISOPROS 75/0.2mg tabs,Diclofenac,75,NSAID,
+j22u.,DICLOFENAC,Diclofenac,25,NSAID,
+j22v.,DICLOFENAC 50mg tabs e/c,Diclofenac,50,NSAID,
+j22y.,DICLOFENAC,Diclofenac,75,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j22z.,Arthrotec 75  Tablets,Diclofenac,75,NSAID,
 j241.,LODINE 200mg caps,Etodolac,200,NSAID,
 j243.,ETODOLAC CAP 200mg,Etodolac,200,NSAID,
@@ -974,12 +1093,20 @@ j247.,ETODOLAC 300MG,Etodolac,300,NSAID,
 j248.,LODINE S/R TAB 600,Etodolac,600,NSAID,
 j249.,Etodolac  M/R Tablets  600 mg,Etodolac,600,NSAID,
 j24C.,ECCOXOLAC caps 300mg,Etodolac,300,NSAID,
+<<<<<<< HEAD
 j251.,LEDERFEN,Fenbufen,NA,NSAID,
+=======
+j251.,LEDERFEN,Fenbufen,300,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j252.,LEDERFEN caps 300mg,Fenbufen,300,NSAID,
 j253.,LEDERFEN (CALENDAR P TAB 300,Fenbufen,300,NSAID,
 j255.,Lederfen  Tablets  450 mg,Fenbufen,450,NSAID,
 j256.,LEDERFEN F TAB 450,Fenbufen,450,NSAID,
+<<<<<<< HEAD
 j257.,FENBUFEN,Fenbufen,NA,NSAID,
+=======
+j257.,FENBUFEN,Fenbufen,300,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j258.,FENBUFEN TAB 300,Fenbufen,300,NSAID,
 j25y.,FENBUFEN TAB 450mg,Fenbufen,450,NSAID,
 j262.,FENOPRON TAB 600mg,Fenoprofen,600,NSAID,
@@ -988,8 +1115,13 @@ j264.,FENOPROFEN TAB 600,Fenoprofen,600,NSAID,
 j275.,FLURBIPROFEN mr cap 200mg,Flurbiprofen,100,NSAID,
 j27x.,Flurbiprofen 50mg tablets,Flurbiprofen,50,NSAID,
 j27y.,Flurbiprofen 100mg tablets,Flurbiprofen,100,NSAID,
+<<<<<<< HEAD
 j281.,IBUPROFEN,Ibuprofen,NA,NSAID,
 j282.,IBUPROFEN,Ibuprofen,NA,NSAID,
+=======
+j281.,IBUPROFEN,Ibuprofen,200,NSAID,
+j282.,IBUPROFEN,Ibuprofen,400,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j283.,Ibuprofen  Tablets  600 mg,Ibuprofen,600,NSAID,
 j287.,BRUFEN 200mg,Ibuprofen,200,NSAID,
 j288.,Brufen  Tablets  400 mg,Ibuprofen,400,NSAID,
@@ -1003,7 +1135,11 @@ j28w.,Ibuprofen 100mg/5ml oral suspension,Ibuprofen,100,NSAID,
 j28x.,Ibuprofen 200mg modified-release capsules,Ibuprofen,200,NSAID,
 j28Y.,Ibuprofen 100mg/5ml oral suspension sugar free,Ibuprofen,100,NSAID,
 j28z.,IBUPROFEN & CODEINE mr tab 300mg + 20mg,Ibuprofen,300,NSAID,
+<<<<<<< HEAD
 j291.,INDOMETACIN,Indometacin,NA,NSAID,
+=======
+j291.,INDOMETACIN,Indometacin,25,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j292.,Indometacin  Capsules  50 mg,Indometacin,50,NSAID,
 j299.,Indocid  Capsules  25 mg,Indometacin,75,NSAID,
 j29a.,INDOCID 50mg,Indometacin,50,NSAID,
@@ -1028,6 +1164,7 @@ j2aI.,KETOCID CAP 200,Ketoprofen,200,NSAID,
 j2aw.,Ketoprofen  M/R Capsules  150 mg,Ketoprofen,150,NSAID,
 j2ay.,KETOPROFEN mr cap 100mg,Ketoprofen,100,NSAID,
 j2az.,Ketoprofen  M/R Capsules  200 mg,Ketoprofen,200,NSAID,
+<<<<<<< HEAD
 j2b1.,MEFENAMIC ACID,Mefenamic acid,NA,NSAID,
 j2b2.,Ponstan  Capsules  250 mg,Mefenamic acid,250,NSAID,
 j2b3.,Ponstan  Tablets Forte  500 mg,Mefenamic acid,500,NSAID,
@@ -1035,6 +1172,15 @@ j2b5.,PONSTAN DISPERSIBLE  250mg tabs,Mefenamic acid,250,NSAID,
 j2bx.,MEFENAMIC ACID,Mefenamic acid,NA,NSAID,
 j2c..,NAPROXEN oral susp 200mg/5ml,Naproxen,200,NSAID,
 j2c1.,NAPROXEN,Naproxen,NA,NSAID,
+=======
+j2b1.,MEFENAMIC ACID,Mefenamic acid,250,NSAID,
+j2b2.,Ponstan  Capsules  250 mg,Mefenamic acid,250,NSAID,
+j2b3.,Ponstan  Tablets Forte  500 mg,Mefenamic acid,500,NSAID,
+j2b5.,PONSTAN DISPERSIBLE  250mg tabs,Mefenamic acid,250,NSAID,
+j2bx.,MEFENAMIC ACID,Mefenamic acid,500,NSAID,
+j2c..,NAPROXEN oral susp 200mg/5ml,Naproxen,200,NSAID,
+j2c1.,NAPROXEN,Naproxen,250,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j2c2.,Naproxen  Tablets  500 mg,Naproxen,500,NSAID,
 j2c5.,NAPROSYN 250mg,Naproxen,250,NSAID,
 j2c6.,Naprosyn  Tablets  500 mg,Naproxen,500,NSAID,
@@ -1055,7 +1201,11 @@ j2cx.,NAPROXEN & MISOPROSTOL (combined) tabs 500mg+200mcg,Naproxen,500,NSAID,
 j2cZ.,NAPROXEN + ESOMEPRAZOLE mr tab 500mg + 20mg,Naproxen,500,NSAID,
 j2e1.,PIROXICAM,Piroxicam,20,NSAID,
 j2e2.,Piroxicam  Capsules  20 mg,Piroxicam,20,NSAID,
+<<<<<<< HEAD
 j2e3.,FELDENE,Piroxicam,NA,NSAID,
+=======
+j2e3.,FELDENE,Piroxicam,10,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j2e4.,FELDENE 20 CAP 20,Piroxicam,20,NSAID,
 j2e5.,FELDENE 10mg disp. tabs,Piroxicam,10,NSAID,
 j2e6.,FELDENE disp tab 20mg,Piroxicam,20,NSAID,
@@ -1066,12 +1216,21 @@ j2ey.,PIROXICAM disp tab 20mg,Piroxicam,20,NSAID,
 j2f1.,CLINORIL 100mg tabs,Sulindac,100,NSAID,
 j2f2.,CLINORIL 200MG,Sulindac,100,NSAID,
 j2fy.,Sulindac 100mg tablets,Sulindac,100,NSAID,
+<<<<<<< HEAD
 j2fz.,SULINDAC,Sulindac,NA,NSAID,
 j2g1.,SURGAM TABLETS 200 MG,Tiaprofenic acid,200,NSAID,
 j2g2.,SURGAM 300 TAB 300,Tiaprofenic acid,300,NSAID,
 j2g4.,SURGAM SA CAP 300,Tiaprofenic acid,300,NSAID,
 j2g5.,TIAPROFENIC ACID,Tiaprofenic acid,NA,NSAID,
 j2gx.,TIAPROFENIC ACID,Tiaprofenic acid,NA,NSAID,
+=======
+j2fz.,SULINDAC,Sulindac,200,NSAID,
+j2g1.,SURGAM TABLETS 200 MG,Tiaprofenic acid,200,NSAID,
+j2g2.,SURGAM 300 TAB 300,Tiaprofenic acid,300,NSAID,
+j2g4.,SURGAM SA CAP 300,Tiaprofenic acid,300,NSAID,
+j2g5.,TIAPROFENIC ACID,Tiaprofenic acid,300,NSAID,
+j2gx.,TIAPROFENIC ACID,Tiaprofenic acid,200,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j2gy.,TIAPROFENIC ACID 300mg tablets,Tiaprofenic acid,300,NSAID,
 j2i1.,PIROXICAM (AS BETA-CYCLODEXTRIN) tabs 20mg,Piroxicam,20,NSAID,
 j2i2.,Brexidol  Tablets  20 mg,Piroxicam,20,NSAID,
@@ -1084,12 +1243,21 @@ j2l1.,TENOXICAM 20MG,Tenoxicam,20,NSAID,
 j2l2.,MOBIFLEX 20mg tabs,Tenoxicam,20,NSAID,
 j2m1.,PRESERVEX TAB 100,Aceclofenac,100,NSAID,
 j2m2.,Aceclofenac  Tablets  100 mg,Aceclofenac,100,NSAID,
+<<<<<<< HEAD
 j2n2.,MELOXICAM,Meloxicam,NA,NSAID,
 j2n3.,MELOXICAM,Meloxicam,NA,NSAID,
 j2n5.,Mobic  Tablets  7.5 mg,Meloxicam,7.5,NSAID,
 j2n6.,MOBIC TAB 15,Meloxicam,15,NSAID,
 j2o3.,DIFENOR XL TAB 100,Diclofenac sodium,100,NSAID,
 j2o5.,DICLOVOL,Diclofenac sodium,NA,NSAID,
+=======
+j2n2.,MELOXICAM,Meloxicam,7.5,NSAID,
+j2n3.,MELOXICAM,Meloxicam,15,NSAID,
+j2n5.,Mobic  Tablets  7.5 mg,Meloxicam,7.5,NSAID,
+j2n6.,MOBIC TAB 15,Meloxicam,15,NSAID,
+j2o3.,DIFENOR XL TAB 100,Diclofenac sodium,100,NSAID,
+j2o5.,DICLOVOL,Diclofenac sodium,50,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j2o6.,DICLOVOL SR mr tab 75mg,Diclofenac sodium,75,NSAID,
 j2oq.,FENACTOL ec tab 25mg,Diclofenac,25,NSAID,
 j2or.,Fenactol 50mg gastro-resistant tablets (Discovery Pharmac...,Diclofenac,50,NSAID,
@@ -1104,7 +1272,11 @@ j2r2.,VOLTAROL RAPID tabs 50mg,Diclofenac,50,NSAID,
 j2r3.,VOLTAROL PAIN-EZE tabs 12.5mg,Diclofenac,12.5,NSAID,
 j2rx.,DICLOFENAC POTASSIUM tabs 12.5mg,Diclofenac,12.5,NSAID,
 j2ry.,DICLOFENAC POTASSIUM tabs 25mg,Diclofenac,25,NSAID,
+<<<<<<< HEAD
 j2rz.,DICLOFENAC POTASSIUM,Diclofenac,NA,NSAID,
+=======
+j2rz.,DICLOFENAC POTASSIUM,Diclofenac,50,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 j2ty.,DEXIBUPROFEN tabs 300mg,Dexibuprofen,300,NSAID,
 j2tz.,Dexibuprofen 400mg tablets,Dexibuprofen,400,NSAID,
 j513.,MYOCRISIN (10MG/0.5M INJ,Sodium aurothiomalate,10,Immunosuppressants,
@@ -1124,10 +1296,17 @@ jA16.,VIOXX ACUTE tabs 50mg,Rofecoxib,50,NSAID,
 ja1U.,IBUPROFEN,Ibuprofen,NA,NSAID,
 ja1x.,IBUPROFEN,Ibuprofen,NA,NSAID,
 ja1Y.,DICLOFENAC,Diclofenac,NA,NSAID,
+<<<<<<< HEAD
 jA21.,CELEBREX,Celecoxib,NA,NSAID,
 jA22.,CELEBREX,Celecoxib,NA,NSAID,
 jA2y.,CELECOXIB,Celecoxib,NA,NSAID,
 jA2z.,CELECOXIB,Celecoxib,NA,NSAID,
+=======
+jA21.,CELEBREX,Celecoxib,100,NSAID,
+jA22.,CELEBREX,Celecoxib,200,NSAID,
+jA2y.,CELECOXIB,Celecoxib,200,NSAID,
+jA2z.,CELECOXIB,Celecoxib,100,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 jA51.,Etoricoxib  Tablets  60 mg,Etoricoxib,60,NSAID,
 jA52.,Etoricoxib 90mg tablets,Etoricoxib,90,NSAID,
 jA53.,Etoricoxib  Tablets  120 mg,Etoricoxib,120,NSAID,
@@ -1161,7 +1340,11 @@ LATA1628,Lasix 20mg tablets (Borg Medicare),Furosemide,20,Loop Diuretics,
 LATA1629,Lasix  Tablets  40 mg,Furosemide,40,Loop Diuretics,
 LATA1631,Lasix + K  Tablets,Furosemide,NA,Loop Diuretics,
 LATA8311BRID,Lasoride  Tablets  ,Amiloride,5,ALD_ANT,
+<<<<<<< HEAD
 LATA8311BRID,Lasoride  Tablets  ,Furosemide,5 + 40,Loop Diuretics,
+=======
+LATA8311BRID,Lasoride  Tablets  ,Furosemide,NA,Loop Diuretics,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 lc11.,FUNGILIN 10mg lozs,Amphotericin,10,Antimicrobial,
 lc1y.,Amphotericin B Lozenges Sugar Free 10 mg,Amphotericin,10,Antimicrobial,
 lc1z.,AMPHOTERICIN susp 100mg/ml,Amphotericin,20,Antimicrobial,
@@ -1170,7 +1353,11 @@ LECA1637,Lederfen  Capsules  300 mg,Fenbufen,300,NSAID,
 LEEF9723BRIDL,Lederfen  Effervescent Tablets  450 mg,Fenbufen,450,NSAID,
 LETA10497BRIDL,Lederfen  Tablets  450 mg,Fenbufen,450,NSAID,
 LETA1638,Lederfen 300mg tablets (Mercury Pharma Group Ltd),Fenbufen,300,NSAID,
+<<<<<<< HEAD
 lf3z.,Flurbiprofen 8.75mg lozenges,Flurbiprofen,NA,NSAID,
+=======
+lf3z.,Flurbiprofen 8.75mg lozenges,Flurbiprofen,8.75,NSAID,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 LITA1677,Lithium Carbonate  Tablets  250 mg,Lithium Salts,250,Other nephrotoxins,
 LITA1678,Lithium Carbonate  M/R Tablets  400 mg,Lithium Salts,400,Other nephrotoxins,
 LITA18535NEMIS,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,Lisinopril,10,ACEI,
@@ -1237,11 +1424,20 @@ MOSU1881,Monotrim 50mg/5ml oral suspension (Chemidex Pharma Ltd),Trimethoprim,50
 MOTA1865,Moducren tablets (Merck Sharp & Dohme Ltd),Amiloride,2.5,ALD_ANT,
 MOTA1865,Moducren tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,25,DIUR_THI,
 MOTA1865,Moducren tablets (Merck Sharp & Dohme Ltd),Timolol,10,NA,
+<<<<<<< HEAD
 MOTA1865,Moducren tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,NA,DIUR_THI,
+=======
+MOTA1865,Moducren tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,25,DIUR_THI,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 MOTA1866,Moduret 25  Tablets  ,Amiloride,2.5,ALD_ANT,
 MOTA1866,Moduret 25  Tablets  ,Hydrochlorothiazide,25,DIUR_THI,
 MOTA1868,Moduretic  Tablets  ,Amiloride,5,ALD_ANT,
 MOTA1868,Moduretic  Tablets  ,Hydrochlorothiazide,50,DIUR_THI,
+<<<<<<< HEAD
+=======
+MOTA1865,Moducren tablets (Merck Sharp & Dohme Ltd),Amiloride,2.5,ALD_ANT,
+MOTA1865,Moducren tablets (Merck Sharp & Dohme Ltd),Timolol,10,NA,
+>>>>>>> aaf6edb8177b263ea91f9278a7b3177f394d1904
 MOTA1868,Moduretic  Tablets  ,Hydrochlorothiazide,NA,DIUR_THI,
 MOTA1883,Monotrim 200mg tablets (Abbott Healthcare Products Ltd),Trimethoprim,200,Antimicrobial,
 MOTA28874EMIS,Mobic  Tablets  15 mg,Meloxicam,15,NSAID,
