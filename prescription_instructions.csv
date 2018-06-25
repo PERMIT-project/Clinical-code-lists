@@ -125,7 +125,7 @@ To check,CodeUnits,DESCRIPTION,EXTRA,TABLETS_PER_DAY,DAILY_DOSE,ALT_OTHER_MEDS,R
 ,1/2 a day Notes for patient: changed as per Monica's instructions.,12adaynotesforpatientchangedaspermonicasinstructions,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1-2 AS NEEDED,12asneeded,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1-2 as required,12asrequired,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
-x,1/2 A TABLET (250MG) IN THE MORNING (ALONG WITH 120MG IN EVENING),12atablet250mginthemorningalongwith120mginevening,0,0.5,370,NA,NA,NA,NA,NA,NA,NA
+x,1/2 A TABLET (250MG) IN THE MORNING (ALONG WITH 120MG IN EVENING),12atablet250mginthemorningalongwith120mginevening,0,0.75,370,NA,NA,NA,NA,NA,NA,NA
 x,1/2 A TABLET (250MG) TWICE A DAY,12atablet250mgtwiceaday,0,1,500,NA,NA,NA,NA,NA,NA,NA
 ,1/2 A TABLET DAILY,12atabletdaily,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,"1/2 A TABLET IN THE MORNING, 1/2 A TABLET IN THE AFTERNOON",12atabletinthemorning12atabletintheafternoon,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -488,7 +488,7 @@ x,1 ALTERNATE DAYS ( 2 AM 1 PM ONE DAY AND 2 TWICE DAILY THE OTHER),1alternateda
 ,ONE AS NEEDED AS DIRECTED BY HEART FAILURE NURSES,1asneededasdirectedbyheartfailurenurses,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,one as usual daily.two on alternate days,1asusualdaily2onalternatedays,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE AT 10PM,1at10pm,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-,1 AT 1PM (WITH 40MG TABLET),1at1pmwith40mgtablet,0,1,40,NA,NA,NA,NA,NA,NA,NA
+,1 AT 1PM (WITH 40MG TABLET),1at1pmwith40mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE AT TWO PM,1at2pm,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 AT 2PM,1at2pm,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 AT 2PM BUT PLEASE OMIT FIRST DAY OF TRAY,1at2pmbutpleaseomitfirstdayoftray,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1040,7 +1040,7 @@ x,1 CAPSULE ONCE A DAY TOGETHER WITH THE 2.5MG,1capsuleonceadaytogetherwiththe25
 ,1 CAPSULE ONCE A DAY. TOTAL DOSE 3.75MG A DAY.  Notes for patient: PLease call to have a b,1capsuleonceadaytotaldose375mgadaynotesforpatientpleasecalltohaveab,0,1,3.75,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY (TOTAL DOSE 3.75MG) (OPC NOV 12),1capsuleonceadaytotaldose375mgopcnov12,0,1,3.75,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY (TOTAL DOSE 6.25MG),1capsuleonceadaytotaldose625mg,0,1,6.25,NA,NA,NA,NA,NA,NA,NA
-x,1 CAPSULE ONCE A DAY (TOTAL DOSE 6.25MG WITH 1.25MG TABLET),1capsuleonceadaytotaldose625mgwith125mgtablet,0,1,6.25,NA,NA,NA,NA,NA,NA,NA
+x,1 CAPSULE ONCE A DAY (TOTAL DOSE 6.25MG WITH 1.25MG TABLET),1capsuleonceadaytotaldose625mgwith125mgtablet,0,1,5,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY (TOTAL DOSE 7.5MG),1capsuleonceadaytotaldose75mg,0,1,7.5,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY. TOTAL DOSE 7.5MG,1capsuleonceadaytotaldose75mg,0,1,7.5,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY (TOTAL DOSE=7.5MG),1capsuleonceadaytotaldose75mg,0,1,7.5,NA,NA,NA,NA,NA,NA,NA
@@ -1055,8 +1055,8 @@ x,1 CAPSULE ONCE A DAY (TOTAL DOSE 6.25MG WITH 1.25MG TABLET),1capsuleonceadayto
 ,1 CAPSULE ONCE A DAY VIA MDS,1capsuleonceadayviamds,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY VIA WEEKLY MDS,1capsuleonceadayviaweeklymds,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY WITH 5MG TABLET,1capsuleonceadaywith5mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 CAPSULE ONCE A DAY WITH 5MG TABLET (7.5MG IN TOTAL) AT NIGHT,1capsuleonceadaywith5mgtablet75mgintotalatnight,0,1.5,7.5,NA,NA,NA,NA,NA,NA,NA
-x,1 CAPSULE ONCE A DAY WITH 5MG TO GIVE A TOTAL OF 7.5MG EVERY DAY  Notes for patient: pleas,1capsuleonceadaywith5mgtogiveatotalof75mgeverydaynotesforpatientpleas,0,1.5,7.5,NA,NA,NA,NA,NA,NA,NA
+x,1 CAPSULE ONCE A DAY WITH 5MG TABLET (7.5MG IN TOTAL) AT NIGHT,1capsuleonceadaywith5mgtablet75mgintotalatnight,0,1,5,NA,NA,NA,NA,NA,NA,NA
+x,1 CAPSULE ONCE A DAY WITH 5MG TO GIVE A TOTAL OF 7.5MG EVERY DAY  Notes for patient: pleas,1capsuleonceadaywith5mgtogiveatotalof75mgeverydaynotesforpatientpleas,0,1.5,5,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY WITH BLOOD TEST IN 1 MONTH FROM COMMENCING THIS MEDICATION,1capsuleonceadaywithbloodtestin1monthfromcommencingthismedication,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY WITH OTHER 2.5MG IN BLISTER FOR ONE WEEK TILL NEXT BLISTER PACK ARRIV,1capsuleonceadaywithother25mginblisterfor1weektillnextblisterpackarriv,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 CAPSULE ONCE A DAY WITH UPTITRATION AIMING FOR 10MG DAILY,1capsuleonceadaywithuptitrationaimingfor10mgdaily,0,1,10,NA,NA,NA,NA,NA,NA,NA
@@ -1372,18 +1372,18 @@ x,ONE DAILY when required,1dailywhenrequired,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 x,ONE DAILY  WHEN REQUIRED,1dailywhenrequired,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 x,ONE DAILY WHEN REQUIRED AS DIRECTED,1dailywhenrequiredasdirected,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 x,1 DAILY WHEN REQUIRED AS PER HEART FAILURE NURSES,1dailywhenrequiredasperheartfailurenurses,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 10MG TAB,1dailywith10mgtab,0,1,10,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 1.25MG,1dailywith125mg,0,1,1.25,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 150MG,1dailywith150mg,0,1,150,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 2.5MG,1dailywith25mg,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 2.5MG TABLET,1dailywith25mgtablet,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 2.5MG TABLET AT NIGHT,1dailywith25mgtabletatnight,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 40MG,1dailywith40mg,0,1,40,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 40MG TABLET,1dailywith40mgtablet,0,1,40,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 5MG,1dailywith5mg,0,1,5,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 5MG CAPSULE,1dailywith5mgcapsule,0,1,5,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH 5MG  Notes for patient: PLEASE BOOK IN FOR A REVIEW OF YOUR BLOOD PRESSURE AN,1dailywith5mgnotesforpatientpleasebookinforareviewofyourbloodpressurean,0,1,5,NA,NA,NA,NA,NA,NA,NA
-x,1 DAILY WITH A 20MG TAB,1dailywitha20mgtab,0,1,20,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 10MG TAB,1dailywith10mgtab,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 1.25MG,1dailywith125mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 150MG,1dailywith150mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 2.5MG,1dailywith25mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 2.5MG TABLET,1dailywith25mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 2.5MG TABLET AT NIGHT,1dailywith25mgtabletatnight,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 40MG,1dailywith40mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 40MG TABLET,1dailywith40mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 5MG,1dailywith5mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 5MG CAPSULE,1dailywith5mgcapsule,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH 5MG  Notes for patient: PLEASE BOOK IN FOR A REVIEW OF YOUR BLOOD PRESSURE AN,1dailywith5mgnotesforpatientpleasebookinforareviewofyourbloodpressurean,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 DAILY WITH A 20MG TAB,1dailywitha20mgtab,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE DAILY WITH OR AFTER FOOD,1dailywithorafterfood,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 x,1 DAILY WITH THE 2.5MG TABLET AT NIGHT,1dailywiththe25mgtabletatnight,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
 ,1 DAILY- YOU NEED BLOOD TESTS AND A BLOOD PRESSURE CHECK 2 WEEKS AFTER STARTING THIS TABLE,1dailyyouneedbloodtestsandabloodpressurecheck2weeksafterstartingthistable,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1881,7 +1881,7 @@ x,"1 IN THE MORNING AND 1 IN THE AFTERNOON, ALTERNATING WITH 1MG DAILY",1inthemo
 ,1 IN THE MORNING WHEN REQUIRED FOR FLUID RETENTION,1inthemorningwhenrequiredforfluidretention,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE IN THE MORNING WHEN REQUIRED FOR LEG SWELLING,1inthemorningwhenrequiredforlegswelling,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE IN THE MORNING WHEN REQUIRED IF LEGS SWELL,1inthemorningwhenrequirediflegsswell,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 IN THE MORNING WITH 20MG THEN 1 AT NOON,1inthemorningwith20mgthen1atnoon,0,2,40,NA,NA,NA,NA,NA,NA,NA
+x,1 IN THE MORNING WITH 20MG THEN 1 AT NOON,1inthemorningwith20mgthen1atnoon,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,"ONE IN THE MORNING, WITH YOUR OTHER FUROSEMIDE TABLET(S) FOR 4 DAYS ONLY",1inthemorningwithyourotherfurosemidetabletsfor4daysonly,1,1,NA,NA,NA,NA,NA,4,NA,NA
 ,"1 ION MON, WED AND FRIDA",1ionmonwedandfrida,0,0.66,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 LOZENGE EVERY 6 HOURS,1lozengeevery6hours,0,0.42,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2231,8 +2231,8 @@ x,1 TAB ALT DAYS-increase dose upto 2 tablets daily as directed by docter-,1taba
 ,ONE TABLET ALTERNATE DAYS,1tabletalternatedays,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET  ALTERNATE  DAYS,1tabletalternatedays,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,"1 TABLET ALTERNATE DAYS, 2 ALTERNATE DAYS",1tabletalternatedays2alternatedays,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
-x,"1 TABLET ALTERNATE DAYS, ALTERNATE WITH THE 20MG TABLET PLEASE",1tabletalternatedaysalternatewiththe20mgtabletplease,0,0.5,10,NA,NA,NA,NA,NA,NA,NA
-x,"1 TABLET ALTERNATE DAYS , ALTERNATE WITH THE 40MG TABLET PLEASE",1tabletalternatedaysalternatewiththe40mgtabletplease,0,0.5,20,NA,NA,NA,NA,NA,NA,NA
+x,"1 TABLET ALTERNATE DAYS, ALTERNATE WITH THE 20MG TABLET PLEASE",1tabletalternatedaysalternatewiththe20mgtabletplease,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
+x,"1 TABLET ALTERNATE DAYS , ALTERNATE WITH THE 40MG TABLET PLEASE",1tabletalternatedaysalternatewiththe40mgtabletplease,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ALTERNATE DAYS AS DIRECTED,1tabletalternatedaysasdirected,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ALTERNATE DAYS AT 6.00 P/M,1tabletalternatedaysat600pm,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ALTERNATE DAYS FOR 2 WEEKS,1tabletalternatedaysfor2weeks,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2241,7 +2241,7 @@ x,"1 TABLET ALTERNATE DAYS , ALTERNATE WITH THE 40MG TABLET PLEASE",1tabletalter
 ,"1 TABLET ALTERNATE DAYS (MON,WEDS,FRI,SUN)",1tabletalternatedaysmonwedsfrisun,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ALTERNATE DAYS  Notes for patient: Needs blood tests after 1 week and 4 weeks.,1tabletalternatedaysnotesforpatientneedsbloodtestsafter1weekand4weeks,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,"1 TABLET ALTERNATE DAYS (TUES,THURS,SAT)",1tabletalternatedaystuesthurssat,0,0.42,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 TABLET ALTERNATE DAYS WITH USUAL 40MG TABLETS,1tabletalternatedayswithusual40mgtablets,0,0.5,20,NA,NA,NA,NA,NA,NA,NA
+x,1 TABLET ALTERNATE DAYS WITH USUAL 40MG TABLETS,1tabletalternatedayswithusual40mgtablets,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ALTERNATE DAY ( TOTAL DOSE 2MG A DAY),1tabletalternatedaytotaldose2mgaday,0,0.5,2,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ALTERNTIVE DAY,1tabletalterntiveday,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET AM,1tabletam,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2675,7 +2675,7 @@ x,1 TABLET IN THE MORNING 1 AT LUNCHTIME ON ALTERNATE DAYS,1tabletinthemorning1a
 ,1 TABLET IN THE MORNING AND IN MID NOON  Notes for dispenser: SLS/HZC115151/Pi:DrRaj/Subje,1tabletinthemorningandinmidnoonnotesfordispenserslshzc115151pidrrajsubje,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET IN THE MORNING AND LUNCH,1tabletinthemorningandlunch,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET  IN THE MORNING DOSE REDUCED,1tabletinthemorningdosereduced,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 TABLET IN THE MORNING EVERY DAY 1 TABLET AT 2PM ALTERNATE DAYS (20MG THE OTHER DAY),1tabletinthemorningeveryday1tabletat2pmalternatedays20mgtheotherday,0,1.5,30,NA,NA,NA,NA,NA,NA,NA
+x,1 TABLET IN THE MORNING EVERY DAY 1 TABLET AT 2PM ALTERNATE DAYS (20MG THE OTHER DAY),1tabletinthemorningeveryday1tabletat2pmalternatedays20mgtheotherday,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET IN THE MORNING FOR 3-4 DAYS THEN WHEN REQUIRED ONLY,1tabletinthemorningfor34daysthenwhenrequiredonly,0,1,NA,NA,NA,NA,1,3,0.5,NA
 ,"1 TABLET IN THE MORNING, I LUNCHTIME",1tabletinthemorningilunchtime,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET IN THE MORNING (IN ADDITION TO LONGSTANDING MEDICATION),1tabletinthemorninginadditiontolongstandingmedication,1,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3365,8 +3365,8 @@ x,1 TABLET ONCE A DAY (MORNING AND LUNCH)  Notes for dispenser: times changed,1t
 ,1 TABLET ONCE A DAY (TO BRING MEDS IN TO LINE),1tabletonceadaytobringmedsintoline,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY TO CONTROL BP AND PROTECT KIDNEYS,1tabletonceadaytocontrolbpandprotectkidneys,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 x,1 TABLET ONCE A DAY TO COVER FOR INCREASE TO 40MG ALREADSY IN VENALINK FOR NEXT CYCLE,1tabletonceadaytocoverforincreaseto40mgalreadsyinvenalinkfornextcycle,0,1,40,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY TOGETHER WITH THE 4MG DOSE MAKING THE TOTAL DOSE 6MG ONCE DAILY  Notes,1tabletonceadaytogetherwiththe4mgdosemakingthetotaldose6mgoncedailynotes,0,1,6,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY TOGETHER WITH THE 4MG DOSE  MAKING TOTAL DOSE OF 6MG DAILY,1tabletonceadaytogetherwiththe4mgdosemakingtotaldoseof6mgdaily,0,1,6,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY TOGETHER WITH THE 4MG DOSE MAKING THE TOTAL DOSE 6MG ONCE DAILY  Notes,1tabletonceadaytogetherwiththe4mgdosemakingthetotaldose6mgoncedailynotes,1,1,2,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY TOGETHER WITH THE 4MG DOSE  MAKING TOTAL DOSE OF 6MG DAILY,1tabletonceadaytogetherwiththe4mgdosemakingtotaldoseof6mgdaily,1,1,2,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY TO GIVE A TOTAL OF 25MG EVERY DAY,1tabletonceadaytogiveatotalof25mgeveryday,0,1,25,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY TO HELP BLOOD PRESSURE,1tabletonceadaytohelpbloodpressure,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY TO HELP BREATHING,1tabletonceadaytohelpbreathing,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3445,22 +3445,22 @@ x,1 TABLET ONCE A DAY TO COVER FOR INCREASE TO 40MG ALREADSY IN VENALINK FOR NEX
 ,1 TABLET ONCE A DAY WHEN REQUIRED  (OPC  JAN 14),1tabletonceadaywhenrequiredopcjan14,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WHEN REQUIRED USE AS PER CARDIOLOGY HEART FAILURE TEAM,1tabletonceadaywhenrequireduseaspercardiologyheartfailureteam,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WILL NEED BP CHECK BEFORE NEXT GET THESE THANKS,1tabletonceadaywillneedbpcheckbeforenextgetthesethanks,0,1,10,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH 10MG DOSE,1tabletonceadaywith10mgdose,0,1,10,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH 10MG DOSE,1tabletonceadaywith10mgdose,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH 16MG AND 8MG TABLETS. TOTAL DOSE 28MG DAILY,1tabletonceadaywith16mgand8mgtabletstotaldose28mgdaily,0,1,28,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH 16MG TABLET,1tabletonceadaywith16mgtablet,0,1,16,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH 16MG TAB(TOTAL DAILY DOSE 24MG) FOR BLOOD PRESSURE,1tabletonceadaywith16mgtabtotaldailydose24mgforbloodpressure,0,1,24,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY (WITH 20MG TAB),1tabletonceadaywith20mgtab,0,1,20,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH 4MG TABLET,1tabletonceadaywith4mgtablet,0,1,4,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH 5MG,1tabletonceadaywith5mg,0,1,5,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY (WITH 20MG TAB),1tabletonceadaywith20mgtab,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH 4MG TABLET,1tabletonceadaywith4mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH 5MG,1tabletonceadaywith5mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH 8MG & 4MG TABLET IE 28MG DAILY,1tabletonceadaywith8mg4mgtabletie28mgdaily,0,1,28,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH 8MG TABLET,1tabletonceadaywith8mgtablet,0,1,8,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH 8MG TABLET,1tabletonceadaywith8mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH FOOD,1tabletonceadaywithfood,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH LOSARTAN 25MG,1tabletonceadaywithlosartan25mg,0,1,25,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH LOSARTAN 50MG,1tabletonceadaywithlosartan50mg,0,1,50,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH LOSARTAN 25MG,1tabletonceadaywithlosartan25mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH LOSARTAN 50MG,1tabletonceadaywithlosartan50mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH LUNCH,1tabletonceadaywithlunch,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH OTHER 40MG FUROSEMIDE (TOTLA 80MG) FOR NEXT 2 WEEKS,1tabletonceadaywithother40mgfurosemidetotla80mgfornext2weeks,0,1,80,NA,NA,NA,NA,7,NA,NA
-,1 TABLET ONCE A DAY WITH PERINDOPRIL 4MG (TOTAL DOSE IS 6MG)  Instalments: monthly venalin,1tabletonceadaywithperindopril4mgtotaldoseis6mginstalmentsmonthlyvenalin,0,1,6,NA,NA,NA,NA,NA,NA,NA
-,1 TABLET ONCE A DAY WITH THE 20MG A DAY FOR BP,1tabletonceadaywiththe20mgadayforbp,0,1,20,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH OTHER 40MG FUROSEMIDE (TOTLA 80MG) FOR NEXT 2 WEEKS,1tabletonceadaywithother40mgfurosemidetotla80mgfornext2weeks,0,1,NA,NA,NA,NA,NA,7,NA,NA
+,1 TABLET ONCE A DAY WITH PERINDOPRIL 4MG (TOTAL DOSE IS 6MG)  Instalments: monthly venalin,1tabletonceadaywithperindopril4mgtotaldoseis6mginstalmentsmonthlyvenalin,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,1 TABLET ONCE A DAY WITH THE 20MG A DAY FOR BP,1tabletonceadaywiththe20mgadayforbp,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH THE 8 MG TABLET(S) (TOTAK OF 12 MG DAILY )STOP THE 16 MG TABLET,1tabletonceadaywiththe8mgtabletstotakof12mgdailystopthe16mgtablet,0,1,12,Stop,Same,NA,NA,NA,NA,NA
 ,1 TABLET ONCE A DAY WITH THOSE ALREADY IN VENALINK,1tabletonceadaywiththosealreadyinvenalink,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE AFTERNOON,1tabletonceafternoon,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3644,7 +3644,7 @@ x,1 TABLET ONCE DAILY IN ADDITION TO SCRIPT ALREADY SENT = 2MG ONCE DAILY,1table
 ,1 TABLET ONCE DAILY VIA MDS,1tabletoncedailyviamds,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE DAILY VIA (MDS),1tabletoncedailyviamds,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE DAILY WHEN REQUIRED,1tabletoncedailywhenrequired,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 TABLET ONCE DAILY (WITH 25MG TABLET(S) IN DOSETTE),1tabletoncedailywith25mgtabletsindosette,0,1,25,NA,NA,NA,NA,NA,NA,NA
+x,1 TABLET ONCE DAILY (WITH 25MG TABLET(S) IN DOSETTE),1tabletoncedailywith25mgtabletsindosette,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE DAILY WITH 8AM DOSE,1tabletoncedailywith8amdose,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE DAILY WITH THE 5 MG TABLETS,1tabletoncedailywiththe5mgtablets,0,1,5,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET ONCE DAY AT NOON,1tabletoncedayatnoon,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3756,7 +3756,7 @@ x,"1 TABLET ON DAY ONE, 2 TABLETS ON DAY TWO, THEN REPEAT SO TAKING ONE TABLET E
 ,ONE  TABLETS EVERY MORNING IN MDS,1tabletseverymorninginmds,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLETS EVERY MORNING  Notes for dispenser: please tell pt blood test due  Notes for pat,1tabletseverymorningnotesfordispenserpleasetellptbloodtestduenotesforpat,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET(S) EVERY OTHER DAY DAYS,1tabletseveryotherdaydays,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 TABLET(S) IMMEDIATELY DOSE ON FRIDAY 29 JULY,1tabletsimmediatelydoseonfriday29july,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 TABLET(S) IMMEDIATELY DOSE ON FRIDAY 29 JULY,1tabletsimmediatelydoseonfriday29july,0,1,NA,NA,NA,NA,NA,1,NA,NA
 ,1 TABLETS IN MORNING,1tabletsinmorning,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLETS IN MORNING AND 1 IN AFTERNOON,1tabletsinmorningand1inafternoon,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TABLET(S) IN THE MORNING,1tabletsinthemorning,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4111,7 +4111,7 @@ x,1 TABLET TWICE DAILY MONRING & LUNCHTIME AND THEN ONE MG ONCE DAILY ON ALTERNA
 ,1TDS.SLS.001696.LUNG STUDY,1tdssls001696lungstudy,0,3,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TDS WITH FOOD,1tdswithfood,0,3,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE THEE TIMES DAILY AFTER FOOD,1theetimesdailyafterfood,0,3,NA,NA,NA,NA,NA,NA,NA,NA
-x,1 then 2 alternate days,1then2alternatedays,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 then 2 alternate days,1then2alternatedays,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1TO 2 CAPSULE THREE TIMES DAILY,1to2capsule3timesdaily,0,4.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE TO TWO DAILY,1to2daily,0,4.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TO 2 EVERY EIGHT HOURS,1to2everyeighthours,0,4.5,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4314,10 +4314,10 @@ x,ONE TO BE TAKEN TWICE A DAY ALTERNATE MONTHS TO AMOXIL,1tobetakentwiceadayalte
 ,1 TWICE A DAY WHEN REQUIRED,1twiceadaywhenrequired,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE TWICE A DAY WHEN REQUIRED FOR FOR FOR PAIN,1twiceadaywhenrequiredforforforpain,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TWICE A DAY WHEN REQUIRED  Notes for patient: Note for Patient attention   *************,1twiceadaywhenrequirednotesforpatientnoteforpatientattention,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,ONE TWICE A DAY WITH 360MG,1twiceadaywith360mg,0,2,720,NA,NA,NA,NA,NA,NA,NA
-x,1 TWICE A DAY WITH 360MG,1twiceadaywith360mg,0,2,720,NA,NA,NA,NA,NA,NA,NA
-x,1 TWICE A DAY WITH 360MG TABLETS,1twiceadaywith360mgtablets,0,2,720,NA,NA,NA,NA,NA,NA,NA
-x,1 TWICE A DAY WITH 360MG TABS,1twiceadaywith360mgtabs,0,2,720,NA,NA,NA,NA,NA,NA,NA
+x,ONE TWICE A DAY WITH 360MG,1twiceadaywith360mg,0,2,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 TWICE A DAY WITH 360MG,1twiceadaywith360mg,0,2,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 TWICE A DAY WITH 360MG TABLETS,1twiceadaywith360mgtablets,0,2,NA,NA,NA,NA,NA,NA,NA,NA
+x,1 TWICE A DAY WITH 360MG TABS,1twiceadaywith360mgtabs,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TWICE A DAY WITH FOOD,1twiceadaywithfood,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,ONE TWICE A DAY WITH FOOD,1twiceadaywithfood,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 TWICE A DAY WITH FOOD WHEN REQUIRED,1twiceadaywithfoodwhenrequired,0,2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4387,12 +4387,12 @@ x,ONE WEEK OF TAKING TWO DAILY,1weekoftaking2daily,0,2,NA,NA,NA,NA,NA,7,NA,NA
 ,1 WHEN REQUIRED MAX THREE TIMES A DAY,1whenrequiredmax3timesaday,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 WHEN REQUIRED TWICE A DAY AFTER FOOD,1whenrequiredtwiceadayafterfood,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1 WHEN REQUIRED UP TO TWICE A DAY FOR UP TO 14 DAYS,1whenrequireduptotwiceadayforupto14days,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-,1 WITH 2.5MG AT NIGHT,1with25mgatnight,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
-,1 WITH 5MG,1with5mg,0,1,5,NA,NA,NA,NA,NA,NA,NA
+,1 WITH 2.5MG AT NIGHT,1with25mgatnight,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,1 WITH 5MG,1with5mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,1X5ML SPOON EACH MORNING,1x5mlspooneachmorning,0,1,1,NA,NA,NA,NA,NA,NA,NA
 ,2,2,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,200MG (20MLS) TWICE A DAY,200mg20mlstwiceaday,0,8,8,NA,NA,NA,NA,NA,NA,NA
-x,200MG (20ML) TWICE A DAY FOR 3 DAYS AND THEN 10ML AT NIGHT,200mg20mltwiceadayfor3daysandthen10mlatnight,0,8,20,NA,NA,NA,1,3,2,2
+x,200MG (20MLS) TWICE A DAY,200mg20mlstwiceaday,0,8,400,NA,NA,NA,NA,NA,NA,NA
+x,200MG (20ML) TWICE A DAY FOR 3 DAYS AND THEN 10ML AT NIGHT,200mg20mltwiceadayfor3daysandthen10mlatnight,0,8,400,NA,NA,NA,1,3,2,2
 ,200MG IMMEDIATELY THEN 100MG EVERY DAY FOR 5 DAYS,200mgimmediatelythen100mgeverydayfor5days,0,2,200,NA,NA,NA,1,1,1,100
 ,200MGS THE FIRST DAY THEN 100MGS TIMES 4 DAYS,200mgsthefirstdaythen100mgstimes4days,0,2,200,NA,NA,NA,1,1,1,100
 ,200MG TWICE A DAY,200mgtwiceaday,0,2,400,NA,NA,NA,NA,NA,NA,NA
@@ -4516,10 +4516,10 @@ x,200MG (20ML) TWICE A DAY FOR 3 DAYS AND THEN 10ML AT NIGHT,200mg20mltwiceadayf
 ,25MG (TEN TABLETS) TO BE TAKEN WEEKLY ON WEDNESDAY,25mgtentabletstobetakenweeklyonwednesday,0,1.43,3.57,NA,NA,NA,NA,NA,NA,NA
 ,2.5MG TWICE WEEKLY,25mgtwiceweekly,0,0.28,0.71,NA,NA,NA,NA,NA,NA,NA
 ,2.5MG WEEKLY,25mgweekly,0,NA,0.36,NA,NA,NA,NA,NA,NA,NA
-x,2.5ML (500MCG) IN THE MORNING,25ml500mcginthemorning,0,0.5,0.5,NA,NA,NA,NA,NA,NA,NA
+x,2.5ML (500MCG) IN THE MORNING,25ml500mcginthemorning,0,1,0.5,NA,NA,NA,NA,NA,NA,NA
 ,25ML EVERY DAY,25mleveryday,0,5,5,NA,NA,NA,NA,NA,NA,NA
 ,2.5ML EVERY MORNING,25mleverymorning,0,5,5,NA,NA,NA,NA,NA,NA,NA
-x,2.5 ml od,25mlod,0,0.5,0.5,NA,NA,NA,NA,NA,NA,NA
+x,2.5 ml od,25mlod,0,1,0.5,NA,NA,NA,NA,NA,NA,NA
 ,2.5ML ONCE DAILY,25mloncedaily,0,0.5,0.5,NA,NA,NA,NA,NA,NA,NA
 ,2.5MLS DAILY,25mlsdaily,0,0.5,0.5,NA,NA,NA,NA,NA,NA,NA
 ,2.5MLS EVERY DAY,25mlseveryday,0,0.5,0.5,NA,NA,NA,NA,NA,NA,NA
@@ -5713,7 +5713,7 @@ x,2 MG IN THE MORNING AND 1 MG MIDDAY ON ALTERNATE DAYS,2mginthemorningand1mgmid
 ,2 TABLETS (2 MG) MORNING AND 2 TABLETS (2MG) AFTERNOON,2tablets2mgmorningand2tablets2mgafternoon,0,4,4,NA,NA,NA,NA,NA,NA,NA
 ,2 TABLETS THREE TIMES A DAY,2tablets3timesaday,0,6,NA,NA,NA,NA,NA,NA,NA,NA
 ,TWO TABLETS FIVE TIMES A DAY  FOR FIVE DAYS,2tablets5timesadayfor5days,0,10,NA,NA,NA,NA,NA,5,NA,NA
-x,2 TABLETS (800MG)  FIVE TIMES A DAY FOR 7 DAYS,2tablets800mg5timesadayfor7days,0,10,800,NA,NA,NA,NA,NA,NA,NA
+x,2 TABLETS (800MG)  FIVE TIMES A DAY FOR 7 DAYS,2tablets800mg5timesadayfor7days,0,10,4000,NA,NA,NA,NA,NA,NA,NA
 ,2 TABLETS 8AM 1 TABLET 2PM (TOTAL DOSE 80MG AM AND 40MG PM),2tablets8am1tablet2pmtotaldose80mgamand40mgpm,0,3,120,NA,NA,NA,NA,NA,NA,NA
 ,2 TABLETS A DAY AND ONE TABLET ON ALTERNATE DAYS,2tabletsadayand1tabletonalternatedays,0,2.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,2 TABLETS AM,2tabletsam,0,2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6560,7 +6560,7 @@ x,[5mg+1mg] TAKE ONE IN THE MORNING,5mg1mgtake1inthemorning,0,1,5,NA,NA,NA,NA,NA
 ,5MG; MORNING; ORAL,5mgmorningoral,0,NA,5,NA,NA,NA,NA,NA,NA,NA
 ,5mg to be taken once weekly,5mgtobetakenonceweekly,0,NA,0.71,NA,NA,NA,NA,NA,NA,NA
 ,5MG X ONCE PER WEEK,5mgxonceperweek,0,NA,0.71,NA,NA,NA,NA,NA,NA,NA
-x,5ML FOUR TIMES A DAY  Notes for patient: Dear Mr Howell I understand that you have had tro,5ml4timesadaynotesforpatientdearmrhowelliunderstandthatyouhavehadtro,0,4,4,NA,NA,NA,NA,NA,NA,NA
+x,5ML FOUR TIMES A DAY  Notes for patient: Dear Mr Howell I understand that you have had tro,5ml4timesadaynotesforpatientdearmrhowelliunderstandthatyouhavehadtro,0,4,NA,NA,NA,NA,NA,NA,NA,NA
 ,5ML BD,5mlbd,0,2,2,NA,NA,NA,NA,NA,NA,NA
 ,5 ML DAILY,5mldaily,0,1,1,NA,NA,NA,NA,NA,NA,NA
 ,5ML  DAILY,5mldaily,0,1,1,NA,NA,NA,NA,NA,NA,NA
@@ -6971,7 +6971,7 @@ x,5ML FOUR TIMES A DAY  Notes for patient: Dear Mr Howell I understand that you 
 ,EVERY 8 HOURS WHEN REQUIRED,every8hourswhenrequired,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,EVERY DAY,everyday,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,Every Day,everyday,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-,EVERY DAY ALONG WITH WITH 5MG TABS OR TOTAL DOSE 7.5MG.,everydayalongwithwith5mgtabsortotaldose75mg,0,1,7.5,NA,NA,NA,NA,NA,NA,NA
+,EVERY DAY ALONG WITH WITH 5MG TABS OR TOTAL DOSE 7.5MG.,everydayalongwithwith5mgtabsortotaldose75mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,EVERY DAY AM,everydayam,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,EVERY DAY ASD,everydayasd,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,EVERY DAY AT 4PM,everydayat4pm,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7378,7 +7378,7 @@ x,5ML FOUR TIMES A DAY  Notes for patient: Dear Mr Howell I understand that you 
 ,TAKE 10 TABS WEEKLY = 25MG,take10tabsweekly25mg,0,1.43,2.57,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE 10 AM AND ONE 2 PM,take110amand12pm,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,take 11/2 nocte,take112nocte,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
-x,TAKE ONE 1/2 TABLET  (2.5 MG) EVERY DAY FOR 1/52,take112tablet25mgeverydayfor152,0,1.5,2.5,NA,NA,NA,NA,NA,NA,NA
+x,TAKE ONE 1/2 TABLET  (2.5 MG) EVERY DAY FOR 1/52,take112tablet25mgeverydayfor152,0,1.5,2.5,NA,NA,NA,NA,7,NA,NA
 ,TAKE ONE 1-2 TIMES/DAY,take112timesday,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE ONE AT NIGHT,take11atnight,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE 1 BD,take11bd,0,2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8019,7 +8019,7 @@ x,TAKE ONE two or three times weekly,take12or3timesweekly,0,0.34,NA,NA,NA,NA,NA,
 ,TAKE ONE AT NIGHT TO AVOID CYSTITIS,take1atnighttoavoidcystitis,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE AT NIGHT (TO BE TAKEN IN ADDITION TO RAMIPRIL 2.5MG),take1atnighttobetakeninadditiontoram,1,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE AT NIGHT (TO BE TAKEN IN ADDITION TO RAMIPRIL 1.25MG ),take1atnighttobetakeninadditiontoram,1,1,NA,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE AT NIGHT TOGETHER WITH 400MG TABLET (TOTAL LITHIUM DOSE = 600MG)  Notes for patie,take1atnighttogetherwith400mgtablettotallithiumdose600mgnotesforpatie,0,2,600,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE AT NIGHT TOGETHER WITH 400MG TABLET (TOTAL LITHIUM DOSE = 600MG)  Notes for patie,take1atnighttogetherwith400mgtablettotallithiumdose600mgnotesforpatie,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE AT NIGHT TO HELP HEART FUNCTION,take1atnighttohelpheartfunction,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE AT NIGHT TO HELP PREVENT HEART FAILURE,take1atnighttohelppreventheartfailure,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE AT NIGHT TO PREVENT URINARY INFECTIONS FOR 4 WEEKS THEN ASK FOR DIFFERNET ANTIBIO,take1atnighttopreventurinaryinfectionsfor4weeksthenaskfordiffernetantibio,0,1,NA,NA,NA,NA,NA,28,NA,NA
@@ -9140,30 +9140,30 @@ x,"TAKE ONE DAILY, TOTAL EVERY FORTNIGHT 7.5MG DAILY, AS DIRECTED BY THE HOSPITA
 ,TAKE ONE DAILY WHEN REQUIRED,take1dailywhenrequired,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE DAILY  WHEN REQUIRED FOR FLUID RETENTION,take1dailywhenrequiredforfluidretention,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE DAILY WHEN YOU ARE EXPERIENCING AN EXACERBATION YOUR COPD,take1dailywhenyouareexperiencinganexacerbationyourcopd,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 10MG TOTAL 15MG EVERY DAY REDUCTION FROM 20MG EVERY DAY,take1dailywith10mgtotal15mgeverydayreductionfrom20mgeveryday,0,1,10,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY (WITH 20MG TABLET(S) IN DOSETTE),take1dailywith20mgtabletsindosette,0,1,20,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 2.5MG TABLET,take1dailywith25mgtablet,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 2.5MG TABLET TOTAL DAILY DOSE 7.5MG EVERY DAY (DECREASED HFSN AUG2010),take1dailywith25mgtablettotaldailydose75mgeverydaydecreasedhfsnaug2010,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 2.5 MG TBL,take1dailywith25mgtbl,0,1,2.5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 5MG,take1dailywith5mg,0,1,5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY  WITH 5 MG CAP  MAKING  A TOTAL OF 7.5 MG DAILY,take1dailywith5mgcapmakingatotalof75mgdaily,0,1,7.5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 5MG TABLET,take1dailywith5mgtablet,0,1,5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 5MG TBL,take1dailywith5mgtbl,0,1,5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH 75MG,take1dailywith75mg,0,1,75,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY-WITH 8MG TABLET,take1dailywith8mgtablet,0,1,8,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH A 20MG TABLET,take1dailywitha20mgtablet,0,1,20,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH A 40MG TABLET (TOTAL DOSE 60MG) (OPC MAY 13),take1dailywitha40mgtablettotaldose60mgopcmay13,1,1,40,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH A 50MG TABLET,take1dailywitha50mgtablet,0,1,50,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH A 5 MG TABLET TO MAKE 7.5 MG Notes for patient: please make an appoint,take1dailywitha5mgtablettomake75mgnotesforpatientpleasemakeanappoint,1,1,5,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 10MG TOTAL 15MG EVERY DAY REDUCTION FROM 20MG EVERY DAY,take1dailywith10mgtotal15mgeverydayreductionfrom20mgeveryday,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY (WITH 20MG TABLET(S) IN DOSETTE),take1dailywith20mgtabletsindosette,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 2.5MG TABLET,take1dailywith25mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 2.5MG TABLET TOTAL DAILY DOSE 7.5MG EVERY DAY (DECREASED HFSN AUG2010),take1dailywith25mgtablettotaldailydose75mgeverydaydecreasedhfsnaug2010,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 2.5 MG TBL,take1dailywith25mgtbl,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 5MG,take1dailywith5mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY  WITH 5 MG CAP  MAKING  A TOTAL OF 7.5 MG DAILY,take1dailywith5mgcapmakingatotalof75mgdaily,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 5MG TABLET,take1dailywith5mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 5MG TBL,take1dailywith5mgtbl,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH 75MG,take1dailywith75mg,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY-WITH 8MG TABLET,take1dailywith8mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH A 20MG TABLET,take1dailywitha20mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH A 40MG TABLET (TOTAL DOSE 60MG) (OPC MAY 13),take1dailywitha40mgtablettotaldose60mgopcmay13,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH A 50MG TABLET,take1dailywitha50mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH A 5 MG TABLET TO MAKE 7.5 MG Notes for patient: please make an appoint,take1dailywitha5mgtablettomake75mgnotesforpatientpleasemakeanappoint,1,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE DAILY WITH ALL OTHER MEDS,take1dailywithallothermeds,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE DAILY WITH A SINGLE 5MG TABLET (DAILY DOSE 7.5MG IN TOTAL),take1dailywithasingle5mgtabletdailydose75mgintotal,1,1,5,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE DAILY WITH FOOD,take1dailywithfood,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE DAILY WITH OTHER MEDS,take1dailywithothermeds,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,TAKE ONE DAILY WITH RAMIPRIL 5MG,take1dailywithram,0,1,5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH THE 20MG AS OPC JULY10,take1dailywiththe20mgasopcjuly10,0,1,20,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH THE 2.5MG = TOTAL OF 7.5MG EVERY DAY,take1dailywiththe25mgtotalof75mgeveryday,1,1,2.5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH THE 5MG TABLET,take1dailywiththe5mgtablet,0,1,5,NA,NA,NA,NA,NA,NA,NA
-,TAKE ONE DAILY WITH THE 5MG =TOTAL OF 7.5MG EVERY DAY,take1dailywiththe5mgtotalof75mgeveryday,1,1,5,NA,NA,NA,NA,NA,NA,NA
+x,TAKE ONE DAILY WITH RAMIPRIL 5MG,take1dailywithram,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH THE 20MG AS OPC JULY10,take1dailywiththe20mgasopcjuly10,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH THE 2.5MG = TOTAL OF 7.5MG EVERY DAY,take1dailywiththe25mgtotalof75mgeveryday,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH THE 5MG TABLET,take1dailywiththe5mgtablet,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,TAKE ONE DAILY WITH THE 5MG =TOTAL OF 7.5MG EVERY DAY,take1dailywiththe5mgtotalof75mgeveryday,1,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE DAILY WITH THE 5 STRENGTH,take1dailywiththe5strength,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,"TAKE ONE DAILY - YOUR ANNUAL REVIEW IS OVERDUE, PLEASE CONTACT THE SURGERY TO ARRANGE  Not",take1dailyyourannualreviewisoverduepleasecontactthesurgerytoarrangenot,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE 1/DAY,take1day,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -9993,7 +9993,7 @@ x,TAKE ONE EACH MORNING OTHER THAN WEDNESDAY AND SUNDAY MORNINGS WHEN 80MG SHOUL
 ,"TAKE ONE IN THE MORNING, ONE IN THE EVENING",take1inthemorning1intheevening,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE 1 IN THE MORNING ( 2 IN MORNING TWICE A WEEK )  AND 1 NOON,take1inthemorning2inmorningtwiceaweekand1noon,0,2.29,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE IN THE MORNING 9IP FEB 12),take1inthemorning9,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,TAKE ONE IN THE MORNING ALONG WITH THE TABLETS IN VENA LINK (TOTAL DAILY DOSE 3MG IN THE M,take1inthemorningalongwiththetabletsinvenalinktotaldailydose3mginthem,0,1,3,NA,NA,NA,NA,NA,NA,NA
+x,TAKE ONE IN THE MORNING ALONG WITH THE TABLETS IN VENA LINK (TOTAL DAILY DOSE 3MG IN THE M,take1inthemorningalongwiththetabletsinvenalinktotaldailydose3mginthem,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE IN THE MORNING ALTERNATE DAYS,take1inthemorningalternatedays,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE IN THE MORNING ALTRENATE DAY,take1inthemorningaltrenateday,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE IN THE MORNING AND ONE AFTER LUNCH,take1inthemorningand1afterlunch,0,2,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10223,7 +10223,7 @@ x,"TAKE ONE IN THE MORNINGS EVERY NIGHT MONDAY, WEDNESDAY AND FRIDAY",take1inthe
 ,TAKE ONE ONCE DAILY (4 WEEKLY DOSET BOXES IN 1 MONTH),take1oncedaily4weeklydosetboxesin1month,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE ONCE DAILY after food,take1oncedailyafterfood,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE ONCE DAILY AM,take1oncedailyam,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-x,TAKE ONE ONCE DAILY and  to increase  up to  8 daily,take1oncedailyandtoincreaseupto8daily,0,4,NA,NA,NA,NA,NA,NA,NA,NA
+x,TAKE ONE ONCE DAILY and  to increase  up to  8 daily,take1oncedailyandtoincreaseupto8daily,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE ONCE DAILY ANNUAL REVIEW WITH FASTING BLOODS DUE DECEMBER,take1oncedailyannualreviewwithfastingbloodsduedecember,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE ONCE DAILY AS DIRECTED BY NEPHROLOGY,take1oncedailyasdirectedbynephrology,0,1,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE ONE ONCE DAILY AS DIRECTED BY RENAL PHYSICIAN,take1oncedailyasdirectedbyrenalphysician,0,1,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13113,7 +13113,7 @@ x,TAKE 3/2 MG  IN THE MORNING ALT DAYS  AND 2 AT LUNCH,take32mginthemorningaltda
 ,"take three tabs in the morning and two tabs at 2 pm,  (ip  nov  10)",take3tabsinthemorningand2tabsat2pm,0,5,NA,NA,NA,NA,NA,NA,NA,NA
 ,"TAKE THREE TABS IN THE MORNING AND TWO TABS AT LUNCH TIME,  (OPC  OCT  09)",take3tabsinthemorningand2tabsatlunchtimeopcoct09,0,5,NA,NA,NA,NA,NA,NA,NA,NA
 ,"TAKE THREE TABS IN THE MORNING AND TWO TABS AT LUNCH TIME,  (OPC   OCT  09)",take3tabsinthemorningand2tabsatlunchtimeopcoct09,0,5,NA,NA,NA,NA,NA,NA,NA,NA
-x,TAKE THREE TABS IN THE MORNING AND TWO TABS IN THE AFTERNOON ON EVERY OTHER DAY DAYS,take3tabsinthemorningand2tabsintheafternoononeveryotherdaydays,0,2.5,NA,NA,NA,NA,NA,NA,NA,NA
+x,TAKE THREE TABS IN THE MORNING AND TWO TABS IN THE AFTERNOON ON EVERY OTHER DAY DAYS,take3tabsinthemorningand2tabsintheafternoononeveryotherdaydays,0,4,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE THREE TABS IN THE MORNING AND TWO TABS IN THE AFTERNOON  (OPC  OCT 15),take3tabsinthemorningand2tabsintheafternoonopcoct15,0,5,NA,NA,NA,NA,NA,NA,NA,NA
 ,TAKE THREE TABS IN THE MORNING AND TWO TABS PM  (OPC  JUL  11),take3tabsinthemorningand2tabspmopcjul11,0,5,NA,NA,NA,NA,NA,NA,NA,NA
 ,"TAKE THREE TABS IN THE MORNING, AS DIRECTED BY HOSPITAL",take3tabsinthemorningasdirectedbyhospital,0,3,NA,NA,NA,NA,NA,NA,NA,NA
@@ -13578,8 +13578,8 @@ x,"TOTAL EVERY FORTNIGHT 4MG DAILY, 3 IN THE MORNING AND ONE AT NIGHT",totalever
 ,TWICE A DAY AS NEEDED FOR ACUTE EXACERBATION,twiceadayasneededforacuteexacerbation,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,TWICE A DAY AT 8AM AND 2PM,twiceadayat8amand2pm,0,2,NA,NA,NA,NA,NA,NA,NA,NA
 ,TWICE A DAY. BP due March 08,twiceadaybpduemarch08,0,2,NA,NA,NA,NA,NA,NA,NA,NA
-x,TWICE A DAY EVERY 1ST/2ND/3RD DAY EVERY FORTNIGHT EACH MONTH,twiceadayevery1st2nd3rddayeveryfortnighteachmonth,0,2,NA,NA,NA,NA,NA,NA,NA,NA
-x,"TWICE A DAY EVERY NIGHT FIRST,SECOND AND THIRD DAYS EVERY FORTNIGHT EACH MONTH FOR NEXT 6 ",twiceadayeverynightfirstsecondandthirddayseveryfortnighteachmonthfornext6,0,2,NA,NA,NA,NA,NA,NA,NA,NA
+x,TWICE A DAY EVERY 1ST/2ND/3RD DAY EVERY FORTNIGHT EACH MONTH,twiceadayevery1st2nd3rddayeveryfortnighteachmonth,0,0.43,NA,NA,NA,NA,NA,NA,NA,NA
+x,"TWICE A DAY EVERY NIGHT FIRST,SECOND AND THIRD DAYS EVERY FORTNIGHT EACH MONTH FOR NEXT 6 ",twiceadayeverynightfirstsecondandthirddayseveryfortnighteachmonthfornext6,0,0.43,NA,NA,NA,NA,NA,NA,NA,NA
 ,TWICE A DAY FOR 10 DAYS,twiceadayfor10days,0,2,NA,NA,NA,NA,NA,10,NA,NA
 ,TWICE A DAY FOR 10 OR 14 DAYS,twiceadayfor10or14days,0,2,NA,NA,NA,NA,NA,12,NA,NA
 ,TWICE A DAY FOR  14 DAYS,twiceadayfor14days,0,2,NA,NA,NA,NA,NA,14,NA,NA
@@ -13659,6 +13659,6 @@ x,"TWICE A DAY EVERY NIGHT FIRST,SECOND AND THIRD DAYS EVERY FORTNIGHT EACH MONT
 ,WHEN REQUIRED OR THREE TIMES A DAY,whenrequiredor3timesaday,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
 ,WHEN REQUIRED (UP TO 3 PER WEEK),whenrequiredupto3perweek,0,0.21,NA,NA,NA,NA,NA,NA,NA,NA
 ,WHEN REQUIRED UPTO THREE TIMES A DAY,whenrequiredupto3timesaday,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
-,1 AM,1am,0,1,NA,NA,NA,NA,NA,NA,NA,NA
-,2 AM,2am,0,2,NA,NA,NA,NA,NA,NA,NA,NA
-,1-2,12,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
+,1:00 AM,1am,0,1,NA,NA,NA,NA,NA,NA,NA,NA
+,2:00 AM,2am,0,2,NA,NA,NA,NA,NA,NA,NA,NA
+,01-Feb,12,0,1.5,NA,NA,NA,NA,NA,NA,NA,NA
