@@ -1,0 +1,88 @@
+ClinCode1,ClinCode2,Category
+White,WHITE BRITISH,1.1
+White,White British - ethnic category 2001 census,1.1
+White,English - ethnic category 2001 census,1.1
+White,Irish - ethnic category 2001 census,1.2
+White,WHITE IRISH,1.2
+White,White Irish - ethnic category 2001 census,1.2
+White,ANY OTHER WHITE BACKGROUND,1.3
+White,Other White background - ethnic category 2001 census,1.3
+White,Other White - eth cat 2001cens,1.3
+White,Oth White European/European unsp/Mixed European 2001 census,1.3
+White,Greek - ethnic category 2001 census,1.3
+White,Other white ethnic group,1.3
+White,Polish - ethnic category 2001 census,1.3
+Mixed,WHITE AND BLACK CARIBBEAN (MIXED),2.1
+Mixed,WHITE AND BLACK AFRICAN (MIXED),2.2
+Mixed,White and Asian - ethnic category 2001 census,2.3
+Mixed,WHITE AND ASIAN (MIXED),2.3
+Mixed,Other Mixed background - ethnic category 2001 census,2.4
+Mixed,British or mixed British - ethnic category 2001 census,2.4
+Mixed,ANY OTHER MIXED BACKGROUND,2.4
+Mixed,British/mixed British 2001cens,2.4
+Asian or Asian British,INDIAN (ASIAN OR ASIAN BRITISH),3.1
+Asian or Asian British,Indian or British Indian - ethnic category 2001 census,3.1
+Asian or Asian British,Pakistani or British Pakistani - ethnic category 2001 census,3.2
+Asian or Asian British,PAKISTANI (ASIAN OR ASIAN BRITISH),3.2
+Asian or Asian British,BANGLADESHI (ASIAN OR ASIAN BRITISH),3.3
+Asian or Asian British,Other Asian - eth cat 2001cens,3.4
+Asian or Asian British,Other Asian or Asian unspecified ethnic category 2001 census,3.4
+Asian or Asian British,Iranian - ethnic category 2001 census,3.4
+Asian or Asian British,ANY OTHER ASIAN BACKGROUND,3.4
+Black or Black British,CARIBBEAN (BLACK OR BLACK BRITISH),4.1
+Black or Black British,African - ethn cat 2001 census,4.2
+Black or Black British,African - ethnic category 2001 census,4.2
+Black or Black British,AFRICAN (BLACK OR BLACK BRITISH),4.2
+Black or Black British,Nigerian - ethnic category 2001 census,4.2
+Black or Black British,Black British - ethnic category 2001 census,4.3
+Black or Black British,ANY OTHER BLACK BACKGROUND,4.3
+Chinese or other ethnic groups,Chinese - ethnic category 2001 census,5.1
+Chinese or other ethnic groups,CHINESE (OTHER ETHNIC GROUPS),5.1
+Chinese or other ethnic groups,ANY OTHER ETHNIC GROUP,5.2
+Chinese or other ethnic groups,Other - ethnic category 2001 census,5.2
+Chinese or other ethnic groups,Filipino - ethnic category 2001 census,5.2
+Unknown,NOT STATED,6
+Unknown,System Generated,6
+Unknown,Ethnic category - 2001 census,6
+Unknown,Other - ethnic category 2001 census,6
+Unknown,Ethnic group not given - patient refused,6
+Unknown,Ethnic category not stated - 2001 census,6
+134B.,RACE: Caucasian,1.3
+134C.,RACE: Arab,3.4
+134D.,RACE: Chinese,5.1
+134E.,RACE: Japanese,3.4
+134F.,RACE: Korean,3.4
+134G.,RACE: Oriental,3.4
+134H.,RACE: Afro-caribbean,4.2
+134I.,RACE: Bangladeshi,3.3
+134J.,RACE: Mixed,2.4
+134K.,RACE: West indian,4.1
+134L.,RACE: Afro-caucasian,2.2
+134M.,RACE: Pakistani,3.2
+134N.,RACE: White,1.1
+134O.,RACE: Unknown,6
+134P.,RACE: Not stated,6
+1341,European origin,1.3
+1342,African origin,4.2
+1343,Asian origin,3.4
+1344,North American origin,1.3
+1345,South American origin,5.2
+1346,Australian origin,1.3
+1347,Indian origin,3.1
+1348,Middle Eastern origin,3.4
+1349,Far Eastern origin,5.2
+134A.,West Indian origin,4.1
+13d..,Country of birth (European),1.3
+13dC.,Born in England,1.1
+13dK.,Born in Ireland,1.2
+13e..,Country of birth (Asian),3.4
+13e3.,Born in Bangladesh,3.3
+13e8.,Born in China,5.1
+13eD.,Born in India,3.1
+13eW.,Born in Pakistan,3.2
+13f..,Country of birth (American),5.2
+13fL.,Born in USA,1.3
+13g..,Country of birth (African),4.2
+13h..,Country of birth (Australasian),1.3
+13j..,Country of birth (Atlantic),4.1
+13k..,Country of birth (Pacific),5.2
